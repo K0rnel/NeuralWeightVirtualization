@@ -71,7 +71,7 @@ class WeightVirtualization:
 			WeightVirtualization()
 		return WeightVirtualization.__instance
 
-	def __init__(self, num_of_weight_page=669, weight_per_page=100,
+	def __init__(self, num_of_weight_page=721, weight_per_page=100,
 		weight_page_filename='virtual_weight_page.npy',
 		weight_page_occupation_filename='weight_page_occupation.npy',
 		weight_virtualization_op_filename='./tf_operation.so'):
@@ -88,7 +88,7 @@ class WeightVirtualization:
 			self.weight_page_filename = weight_page_filename
 			self.weight_page_occupation_filename = weight_page_occupation_filename
 			self.weight_virtualization_op_filename = weight_virtualization_op_filename
-
+			
 			if self.load_weight_page() is False:
 				print('init new weight pages')
 				self.init_weight_page()

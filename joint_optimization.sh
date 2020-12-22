@@ -16,11 +16,21 @@ do
 
 	python weight_virtualization.py -mode=t -vnn_name=us8k -iter=2000
 
+	python weight_virtualization.py -mode=t -vnn_name=fmnist -iter=2000
+
+	echo "MNIST performance"
 	python weight_virtualization.py -mode=e -vnn_name=mnist
+	echo "GSC performance"
 	python weight_virtualization.py -mode=e -vnn_name=gsc
+	echo "GTSRB performance"
 	python weight_virtualization.py -mode=e -vnn_name=gtsrb
+	echo "CIFAR10 performance"
 	python weight_virtualization.py -mode=e -vnn_name=cifar10
+	echo "SVHN performance"
 	python weight_virtualization.py -mode=e -vnn_name=svhn
+	echo "US8K performance"
 	python weight_virtualization.py -mode=e -vnn_name=us8k
+	echo "FMNIST performance"
+	python weight_virtualization.py -mode=e -vnn_name=fmnist
 	
 done
