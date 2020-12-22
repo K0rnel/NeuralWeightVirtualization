@@ -119,8 +119,8 @@ def in_memory_execute(graph, sess, vnn, layers, data_set,
 def main():
 	wv = WeightVirtualization()
 
-	data_list = [ 'cifar10_data', 'GSC_v2_data', 'GTSRB_data', 'mnist_data', 'svhn_data' ]
-	layer_list = [ 7, 6, 7, 7, 7 ]
+	data_list = [ 'cifar10_data', 'fmnist_data', 'GSC_v2_data', 'GTSRB_data', 'mnist_data', 'svhn_data', 'us8k_data' ]
+	layer_list = [ 7, 7, 6, 7, 7, 7, 6]
 
 	total_weight_load_time = 0
 	total_execution_time = 0
