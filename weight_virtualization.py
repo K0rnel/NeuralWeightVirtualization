@@ -71,7 +71,7 @@ class WeightVirtualization:
 			WeightVirtualization()
 		return WeightVirtualization.__instance
 
-	def __init__(self, num_of_weight_page=665, weight_per_page=100,
+	def __init__(self, num_of_weight_page=669, weight_per_page=100,
 		weight_page_filename='virtual_weight_page.npy',
 		weight_page_occupation_filename='weight_page_occupation.npy',
 		weight_virtualization_op_filename='./tf_operation.so'):
@@ -224,7 +224,7 @@ class WeightVirtualization:
 			pickle.dump(vnn, f)
 
 	def load_weight(self, vnn):
-		weight = np.load(vnn.weight_filepath, allow_pickle=True)
+		weight = np.load(vnn.weight_filepath, allow_pickle=True, encoding="latin1")
 		return weight
 
 	def save_weight(self, vnn):

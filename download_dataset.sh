@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "[1/4] Downloading CIFAR10 dataset..."
+echo "[1/5] Downloading CIFAR10 dataset..."
 
 fileid="1C1npRinwi5DLoWSD_AWEPNp1khwqCOV4"
 filename="cifar10_test_data.npy"
@@ -23,7 +23,7 @@ curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}
 curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
 
 echo ""
-echo "[2/4] Downloading Google Speech Command V2 dataset..."
+echo "[2/5] Downloading Google Speech Command V2 dataset..."
 
 fileid="1tqN3TQlAB0XUaNSR8Yvb0H6uhY5sJyML"
 filename="GSC_v2_test_data.npy"
@@ -56,7 +56,7 @@ curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}
 curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
 
 echo ""
-echo "[3/4] Downloading GTSRB dataset..."
+echo "[3/5] Downloading GTSRB dataset..."
 
 fileid="1kup2bRDjRcr_Ofch8O95-LMIvlY_-R7x"
 filename="GTSRB_test_data.npy"
@@ -79,7 +79,7 @@ curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}
 curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
 
 echo ""
-echo "[4/4] Downloading SVHN dataset..."
+echo "[4/5] Downloading SVHN dataset..."
 
 fileid="1QPFJkA-PLp5Ghcb1AG_hzEE9aIIeeY8A"
 filename="svhn_test_data.npy"
@@ -110,3 +110,31 @@ fileid="1Pp7tVKU3iJe52GISudYqPxi7Zow2c38y"
 filename="svhn_validation_label.npy"
 curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
 curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+echo ""
+echo "[5/5] Downloading US8K dataset..."
+
+
+fileid="1hWtUljFOq2bvTb-BwS-qFBKP_vcKAPJv"
+filename="US8K_test_data.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+fileid="1m_GY_xt0zy3tJM3GgVTmHV1KgUUIQ3U9"
+filename="US8K_test_label.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+fileid="16n1dVCtFOYckfp800o4i080F5h787CzY"
+filename="US8K_train_data.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+fileid="1p5FCC3uhdskNsTqrbO0FzWQMjJICpMor"
+filename="US8K_train_label.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+rm cookie
+
+
