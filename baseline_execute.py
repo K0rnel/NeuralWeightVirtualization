@@ -52,16 +52,28 @@ def baseline_execute(graph, sess, vnn, layers, data_set, label=None):
 	
 	return weights_load_time, DNN_execution_time
 
+vnn_details = {
+	 'cifar10': ('cifar10_data', 7), 
+	 'fmnist': ('fmnist_data', 7), 
+	 'gsc': ('GSC_v2_data', 6), 
+	 'gtsrb': ('GTSRB_data', 7), 
+	 'mnist': ('mnist_data', 7), 
+	 'svhn': ('svhn_data', 7), 
+	 'us8k': ('us8k_data', 6), 
+}
+
 def main():
 	wv = WeightVirtualization()
 
 	vnn_list = []
+	vnn_names = []
 	for name, vnn in sorted(wv.vnns.items()):
 		vnn_list.append(vnn) 
+		vnn_names.append(name)
 	
 	# Note: Networks need to be listed in alphabetical order
-	data_list = [ 'cifar10_data', 'fmnist_data', 'GSC_v2_data', 'GTSRB_data', 'mnist_data', 'svhn_data', 'us8k_data' ]
-	layer_list = [ 7, 7, 6, 7, 7, 7, 6 ]
+	data_list = [ vnn_details[name][0] for name in vnn_names ]
+	layer_list = [ vnn_details[name][1] for name in vnn_names ]
 
 	total_weight_load_time = 0
 	total_execution_time = 0
