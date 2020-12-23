@@ -60,6 +60,7 @@ vnn_details = {
 	 'gtsrb': ('GTSRB_data', 7), 
 	 'hhar': ('hhar_data', 6),
 	 'mnist': ('mnist_data', 7), 
+	 'obs': ('obstacle_data', 7),
 	 'svhn': ('svhn_data', 7), 
 	 'us8k': ('us8k_data', 6), 
 }

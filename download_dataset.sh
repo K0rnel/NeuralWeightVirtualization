@@ -203,6 +203,39 @@ filename="esc10_train_label.npy"
 curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
 curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
 
+echo ""
+echo "[9/9] Downloading OBS dataset..."
+
+fileid="1AiGWnABJbJR0DlRUtkUx3BSXxZjyWgRl"
+filename="obstacle_test_data.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+fileid="1h5MG7aaLaw7b83UcUlUwPjRqhxR5dOL7"
+filename="obstacle_test_label.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+fileid="14yqTBhjmCDqhO_Y7gjRmECuBMo9d7GFY"
+filename="obstacle_train_data.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+fileid="1QGmc20vyEYF-5GE7yIyt3mmOJ18WhQd-"
+filename="obstacle_train_label.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+fileid="1y8bHJ9CHBjjZPn8QeK8wBxNCxePMvHDM"
+filename="obstacle_validation_data.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
+fileid="1tGc2_h5ppRX3BdFmepFIB1CBRvQ7qsLH"
+filename="obstacle_validation_label.npy"
+curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
+curl -Lb ./cookie "https://drive.google.com/uc?export=download&confirm=`awk '/download/ {print $NF}' ./cookie`&id=${fileid}" -o ${filename}
+
 rm cookie
 
 
