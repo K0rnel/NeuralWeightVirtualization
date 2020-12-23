@@ -121,6 +121,7 @@ vnn_details = {
 	 'fmnist': ('fmnist_data', 7), 
 	 'gsc': ('GSC_v2_data', 6), 
 	 'gtsrb': ('GTSRB_data', 7), 
+	 'hhar': ('hhar_data', 6),
 	 'mnist': ('mnist_data', 7), 
 	 'svhn': ('svhn_data', 7), 
 	 'us8k': ('us8k_data', 6), 

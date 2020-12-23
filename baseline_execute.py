@@ -57,6 +57,7 @@ vnn_details = {
 	 'fmnist': ('fmnist_data', 7), 
 	 'gsc': ('GSC_v2_data', 6), 
 	 'gtsrb': ('GTSRB_data', 7), 
+	 'hhar': ('hhar_data', 6),
 	 'mnist': ('mnist_data', 7), 
 	 'svhn': ('svhn_data', 7), 
 	 'us8k': ('us8k_data', 6), 
@@ -71,7 +72,6 @@ def main():
 		vnn_list.append(vnn) 
 		vnn_names.append(name)
 	
-	# Note: Networks need to be listed in alphabetical order
 	data_list = [ vnn_details[name][0] for name in vnn_names ]
 	layer_list = [ vnn_details[name][1] for name in vnn_names ]
 

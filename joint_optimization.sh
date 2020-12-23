@@ -18,6 +18,8 @@ do
 
 	python weight_virtualization.py -mode=t -vnn_name=fmnist -iter=2000
 
+	python weight_virtualization.py -mode=t -vnn_name=hhar -iter=2000
+
 	echo "MNIST performance"
 	python weight_virtualization.py -mode=e -vnn_name=mnist
 	echo "GSC performance"
@@ -32,5 +34,7 @@ do
 	python weight_virtualization.py -mode=e -vnn_name=us8k
 	echo "FMNIST performance"
 	python weight_virtualization.py -mode=e -vnn_name=fmnist
+	echo "HHAR performance"
+	python weight_virtualization.py -mode=e -vnn_name=hhar
 	
 done
