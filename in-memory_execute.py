@@ -118,6 +118,7 @@ def in_memory_execute(graph, sess, vnn, layers, data_set,
 
 vnn_details = {
 	 'cifar10': ('cifar10_data', 7), 
+	 'esc10': ('esc10_data', 7), 
 	 'fmnist': ('fmnist_data', 7), 
 	 'gsc': ('GSC_v2_data', 6), 
 	 'gtsrb': ('GTSRB_data', 7), 
