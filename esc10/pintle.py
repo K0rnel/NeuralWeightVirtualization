@@ -26,25 +26,20 @@ def v_output_variable_names():
 	return output_variable_names
 
 def v_train_input_variables():
-	data = __import__(import_name).esc10_data
+	data = __import__(import_name)
 	train_set = data.train_set()
 	train_image_reshaped = np.reshape(train_set[0], ([-1, 60, 41, 2]))
 	return [[train_image_reshaped, train_set[1]], 1.0, 1.0]
 
 def v_test_input_variables():
-	data = __import__(import_name).esc10_data
+	data = __import__(import_name)
 	test_set = data.test_set()
 	test_image_reshaped = np.reshape(test_set[0], ([-1, 60, 41, 2]))
 	return [[test_image_reshaped, test_set[1]], 1.0, 1.0]
 
-def v_execute(graph, sess, input_tensors, input_variables, output_tensors=None,
-	ground_truth=None, prefix=None):
-	if output_tensors is None:
-		y = []
-		for output in v_output_variable_names():
-			y.append(graph.get_tensor_by_name(output + ':0'))
-	else:
-		y = output_tensors
+def v_execute(graph, sess, input_tensors, input_variables, ground_truth):
+	tensor_y_name = "neuron_6:0"
+	y = graph.get_tensor_by_name(tensor_y_name)
 	
 	# infer
 	infer_result = sess.run(y, feed_dict={t: v for t,v in zip(input_tensors, input_variables)})
@@ -52,24 +47,20 @@ def v_execute(graph, sess, input_tensors, input_variables, output_tensors=None,
 	# accuracy
 	test_accuracy = None
 	if ground_truth is not None:
-		if prefix:
-			y_ = graph.get_tensor_by_name(prefix + "y_:0")
-			accuracy = graph.get_tensor_by_name(prefix + "accuracy:0")
-		else:
-			y_ = graph.get_tensor_by_name("y_:0")
-			accuracy = graph.get_tensor_by_name("accuracy:0")
+		y_ = graph.get_tensor_by_name("y_:0")
+		accuracy = graph.get_tensor_by_name("accuracy:0")
 		input_tensors.append(y_)
 		input_variables.append(ground_truth)
 		test_accuracy = sess.run(accuracy,
 			feed_dict={t: v for t,v in zip(input_tensors, input_variables)})
-		print("esc10 inference accuracy: %f" % test_accuracy)
+		print("Inference accuracy: %f" % test_accuracy)
 
 	return infer_result, test_accuracy
 
 def v_train(graph, sess, overlapping_cost, batch_size, train_iteration, get_weight_func):
 	print("v_train")
 
-	data = __import__(import_name).esc10_data
+	data = __import__(import_name)
 	train_set = data.train_set()
 	validation_set = data.test_set()
 
