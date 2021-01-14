@@ -1,0 +1,135 @@
+add_vnn
+cifar10/cifar10_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx: 32222
+sample num:    1, data_idx: 23389
+sample num:    2, data_idx: 26562
+sample num:    3, data_idx: 26544
+sample num:    4, data_idx:  5320
+sample num:    5, data_idx: 38503
+sample num:    6, data_idx:    38
+sample num:    7, data_idx:  7942
+sample num:    8, data_idx: 40828
+sample num:    9, data_idx: 25409
+sample num:   10, data_idx: 34626
+sample num:   11, data_idx:  5270
+sample num:   12, data_idx: 10583
+sample num:   13, data_idx: 11837
+sample num:   14, data_idx: 30918
+sample num:   15, data_idx: 48537
+sample num:   16, data_idx: 37326
+sample num:   17, data_idx: 17699
+sample num:   18, data_idx: 46255
+sample num:   19, data_idx:  2153
+sample num:   20, data_idx: 39148
+sample num:   21, data_idx:  6899
+sample num:   22, data_idx: 13984
+sample num:   23, data_idx: 42700
+sample num:   24, data_idx: 48921
+sample num:   25, data_idx: 28786
+sample num:   26, data_idx: 31198
+sample num:   27, data_idx: 30160
+sample num:   28, data_idx: 38902
+sample num:   29, data_idx: 30910
+sample num:   30, data_idx: 29449
+sample num:   31, data_idx: 41531
+sample num:   32, data_idx: 46276
+sample num:   33, data_idx: 49676
+sample num:   34, data_idx:  4896
+sample num:   35, data_idx: 19811
+sample num:   36, data_idx: 42079
+sample num:   37, data_idx: 46754
+sample num:   38, data_idx: 20601
+sample num:   39, data_idx: 24288
+sample num:   40, data_idx: 17735
+sample num:   41, data_idx: 34115
+sample num:   42, data_idx: 25514
+sample num:   43, data_idx: 12112
+sample num:   44, data_idx:  5640
+sample num:   45, data_idx: 17269
+sample num:   46, data_idx: 42562
+sample num:   47, data_idx:  8568
+sample num:   48, data_idx:  3844
+sample num:   49, data_idx: 19235
+sample num:   50, data_idx: 16578
+sample num:   51, data_idx:  2033
+sample num:   52, data_idx: 34789
+sample num:   53, data_idx:  3153
+sample num:   54, data_idx: 10957
+sample num:   55, data_idx: 39743
+sample num:   56, data_idx: 15092
+sample num:   57, data_idx: 33751
+sample num:   58, data_idx: 41851
+sample num:   59, data_idx: 46459
+sample num:   60, data_idx: 12632
+sample num:   61, data_idx: 16757
+sample num:   62, data_idx: 20109
+sample num:   63, data_idx: 33261
+sample num:   64, data_idx: 11826
+sample num:   65, data_idx: 23328
+sample num:   66, data_idx: 41463
+sample num:   67, data_idx: 38548
+sample num:   68, data_idx: 11181
+sample num:   69, data_idx:  3458
+sample num:   70, data_idx:  6057
+sample num:   71, data_idx: 41368
+sample num:   72, data_idx: 42256
+sample num:   73, data_idx: 10962
+sample num:   74, data_idx: 35399
+sample num:   75, data_idx:  9416
+sample num:   76, data_idx: 48996
+sample num:   77, data_idx: 34916
+sample num:   78, data_idx:  1932
+sample num:   79, data_idx: 36900
+sample num:   80, data_idx:    32
+sample num:   81, data_idx: 47552
+sample num:   82, data_idx:  5013
+sample num:   83, data_idx: 49048
+sample num:   84, data_idx: 37714
+sample num:   85, data_idx: 29616
+sample num:   86, data_idx: 34481
+sample num:   87, data_idx: 39212
+sample num:   88, data_idx: 33446
+sample num:   89, data_idx: 28040
+sample num:   90, data_idx:  9787
+sample num:   91, data_idx: 30394
+sample num:   92, data_idx: 39081
+sample num:   93, data_idx: 25228
+sample num:   94, data_idx: 13762
+sample num:   95, data_idx:  9879
+sample num:   96, data_idx: 10951
+sample num:   97, data_idx: 46313
+sample num:   98, data_idx: 16384
+sample num:   99, data_idx: 42355
+cifar10/cifar10_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 0
+len(network_page_list): 455
+cost: 0
+
+occupation: 1
+len(page_list): 0
+len(network_page_list): 455
+cost: 0
+
+occupation: 2
+len(page_list): 384
+len(network_page_list): 455
+cost: 18.037031
+
+occupation: 3
+len(page_list): 337
+len(network_page_list): 71
+cost: 0.0005511665
+
+assing_page 109.884 ms
+[calculate_cost]
+toal_cost: 18.03763189690835
+455 pages allocated for 45490 weights
+total_network_cost: 70.18631757609546
+       0-th page
+     383-th page
+       0-th page
+      70-th page

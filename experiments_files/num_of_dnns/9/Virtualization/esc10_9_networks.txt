@@ -1,0 +1,150 @@
+add_vnn
+esc10/esc10_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx:  1810
+sample num:    1, data_idx:   391
+sample num:    2, data_idx:  4268
+sample num:    3, data_idx:  2700
+sample num:    4, data_idx:  3114
+sample num:    5, data_idx:  1218
+sample num:    6, data_idx:  3308
+sample num:    7, data_idx:  2387
+sample num:    8, data_idx:   305
+sample num:    9, data_idx:  5631
+sample num:   10, data_idx:  6165
+sample num:   11, data_idx:   871
+sample num:   12, data_idx:  4666
+sample num:   13, data_idx:  2641
+sample num:   14, data_idx:  4697
+sample num:   15, data_idx:  6100
+sample num:   16, data_idx:  1180
+sample num:   17, data_idx:  5351
+sample num:   18, data_idx:  5648
+sample num:   19, data_idx:  1566
+sample num:   20, data_idx:  4664
+sample num:   21, data_idx:  1094
+sample num:   22, data_idx:   773
+sample num:   23, data_idx:  2428
+sample num:   24, data_idx:  4138
+sample num:   25, data_idx:  2027
+sample num:   26, data_idx:  4443
+sample num:   27, data_idx:  5695
+sample num:   28, data_idx:  4153
+sample num:   29, data_idx:  4281
+sample num:   30, data_idx:  5860
+sample num:   31, data_idx:   834
+sample num:   32, data_idx:  2888
+sample num:   33, data_idx:   790
+sample num:   34, data_idx:  3023
+sample num:   35, data_idx:  4513
+sample num:   36, data_idx:  5856
+sample num:   37, data_idx:  1710
+sample num:   38, data_idx:  5753
+sample num:   39, data_idx:  3527
+sample num:   40, data_idx:  4135
+sample num:   41, data_idx:  2900
+sample num:   42, data_idx:  4853
+sample num:   43, data_idx:   414
+sample num:   44, data_idx:  2078
+sample num:   45, data_idx:   527
+sample num:   46, data_idx:  1057
+sample num:   47, data_idx:  2251
+sample num:   48, data_idx:  3682
+sample num:   49, data_idx:  4828
+sample num:   50, data_idx:  5373
+sample num:   51, data_idx:  1372
+sample num:   52, data_idx:  3324
+sample num:   53, data_idx:  2530
+sample num:   54, data_idx:  5273
+sample num:   55, data_idx:   605
+sample num:   56, data_idx:  3419
+sample num:   57, data_idx:  5828
+sample num:   58, data_idx:  4382
+sample num:   59, data_idx:  2316
+sample num:   60, data_idx:  6255
+sample num:   61, data_idx:  2426
+sample num:   62, data_idx:  4540
+sample num:   63, data_idx:  5092
+sample num:   64, data_idx:  5499
+sample num:   65, data_idx:  4282
+sample num:   66, data_idx:  2865
+sample num:   67, data_idx:  5069
+sample num:   68, data_idx:  2403
+sample num:   69, data_idx:  1195
+sample num:   70, data_idx:  4945
+sample num:   71, data_idx:   382
+sample num:   72, data_idx:   649
+sample num:   73, data_idx:  3555
+sample num:   74, data_idx:    74
+sample num:   75, data_idx:  4615
+sample num:   76, data_idx:  5784
+sample num:   77, data_idx:  2006
+sample num:   78, data_idx:  4060
+sample num:   79, data_idx:  3063
+sample num:   80, data_idx:  4508
+sample num:   81, data_idx:  4239
+sample num:   82, data_idx:  6161
+sample num:   83, data_idx:  4764
+sample num:   84, data_idx:  2242
+sample num:   85, data_idx:  1255
+sample num:   86, data_idx:   836
+sample num:   87, data_idx:  2305
+sample num:   88, data_idx:  1555
+sample num:   89, data_idx:  4065
+sample num:   90, data_idx:  5951
+sample num:   91, data_idx:  2698
+sample num:   92, data_idx:  5261
+sample num:   93, data_idx:   515
+sample num:   94, data_idx:  5467
+sample num:   95, data_idx:    39
+sample num:   96, data_idx:  2453
+sample num:   97, data_idx:  2710
+sample num:   98, data_idx:  2755
+sample num:   99, data_idx:  6291
+esc10/esc10_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 0
+len(network_page_list): 652
+cost: 0
+
+occupation: 1
+len(page_list): 0
+len(network_page_list): 652
+cost: 0
+
+occupation: 2
+len(page_list): 0
+len(network_page_list): 652
+cost: 0
+
+occupation: 3
+len(page_list): 0
+len(network_page_list): 652
+cost: 0
+
+occupation: 4
+len(page_list): 0
+len(network_page_list): 652
+cost: 0
+
+occupation: 5
+len(page_list): 268
+len(network_page_list): 652
+cost: 13.506809
+
+occupation: 6
+len(page_list): 453
+len(network_page_list): 384
+cost: 0.08015453
+
+assing_page 146.460 ms
+[calculate_cost]
+toal_cost: 13.5891335334818
+652 pages allocated for 65154 weights
+total_network_cost: 272.97741931304336
+       0-th page
+     267-th page
+       0-th page
+     383-th page

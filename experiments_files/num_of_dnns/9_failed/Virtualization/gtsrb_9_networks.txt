@@ -1,0 +1,130 @@
+add_vnn
+gtsrb/gtsrb_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx: 14230
+sample num:    1, data_idx: 31349
+sample num:    2, data_idx: 23421
+sample num:    3, data_idx: 34122
+sample num:    4, data_idx: 38521
+sample num:    5, data_idx: 31775
+sample num:    6, data_idx: 12958
+sample num:    7, data_idx: 36420
+sample num:    8, data_idx: 31573
+sample num:    9, data_idx: 14341
+sample num:   10, data_idx: 16888
+sample num:   11, data_idx: 14440
+sample num:   12, data_idx: 25602
+sample num:   13, data_idx: 14562
+sample num:   14, data_idx:  9971
+sample num:   15, data_idx:  6336
+sample num:   16, data_idx: 26876
+sample num:   17, data_idx: 10143
+sample num:   18, data_idx: 23611
+sample num:   19, data_idx:  2228
+sample num:   20, data_idx: 33486
+sample num:   21, data_idx: 14682
+sample num:   22, data_idx: 17779
+sample num:   23, data_idx: 31046
+sample num:   24, data_idx: 27904
+sample num:   25, data_idx: 23121
+sample num:   26, data_idx:  8921
+sample num:   27, data_idx: 36362
+sample num:   28, data_idx:  2427
+sample num:   29, data_idx:  7986
+sample num:   30, data_idx: 36966
+sample num:   31, data_idx:  1185
+sample num:   32, data_idx:  1871
+sample num:   33, data_idx: 20936
+sample num:   34, data_idx: 25701
+sample num:   35, data_idx:  6255
+sample num:   36, data_idx: 29871
+sample num:   37, data_idx: 15422
+sample num:   38, data_idx:   328
+sample num:   39, data_idx: 27962
+sample num:   40, data_idx: 28019
+sample num:   41, data_idx: 26213
+sample num:   42, data_idx: 34510
+sample num:   43, data_idx: 21190
+sample num:   44, data_idx: 27891
+sample num:   45, data_idx: 34100
+sample num:   46, data_idx: 10402
+sample num:   47, data_idx: 14248
+sample num:   48, data_idx: 14098
+sample num:   49, data_idx: 33391
+sample num:   50, data_idx: 24005
+sample num:   51, data_idx: 33345
+sample num:   52, data_idx: 21714
+sample num:   53, data_idx:  5065
+sample num:   54, data_idx: 10798
+sample num:   55, data_idx: 29703
+sample num:   56, data_idx: 18405
+sample num:   57, data_idx:  4624
+sample num:   58, data_idx: 27004
+sample num:   59, data_idx:  8371
+sample num:   60, data_idx:  8232
+sample num:   61, data_idx:  3843
+sample num:   62, data_idx:  9606
+sample num:   63, data_idx: 22310
+sample num:   64, data_idx: 27934
+sample num:   65, data_idx: 12524
+sample num:   66, data_idx: 14400
+sample num:   67, data_idx: 38041
+sample num:   68, data_idx: 15761
+sample num:   69, data_idx: 19863
+sample num:   70, data_idx: 36432
+sample num:   71, data_idx: 14618
+sample num:   72, data_idx: 19994
+sample num:   73, data_idx: 11447
+sample num:   74, data_idx: 31021
+sample num:   75, data_idx:  7837
+sample num:   76, data_idx: 11986
+sample num:   77, data_idx: 37691
+sample num:   78, data_idx: 11281
+sample num:   79, data_idx:  2086
+sample num:   80, data_idx:  9381
+sample num:   81, data_idx: 27313
+sample num:   82, data_idx:  3151
+sample num:   83, data_idx: 13686
+sample num:   84, data_idx:  7681
+sample num:   85, data_idx:  5473
+sample num:   86, data_idx: 27318
+sample num:   87, data_idx: 31730
+sample num:   88, data_idx: 35731
+sample num:   89, data_idx: 18290
+sample num:   90, data_idx: 21895
+sample num:   91, data_idx: 23383
+sample num:   92, data_idx: 21557
+sample num:   93, data_idx:  9744
+sample num:   94, data_idx: 13311
+sample num:   95, data_idx:  9657
+sample num:   96, data_idx:  1400
+sample num:   97, data_idx: 12722
+sample num:   98, data_idx: 27791
+sample num:   99, data_idx:  4695
+gtsrb/gtsrb_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 0
+len(network_page_list): 665
+cost: 0
+
+occupation: 1
+len(page_list): 328
+len(network_page_list): 665
+cost: 1.3308077
+
+occupation: 2
+len(page_list): 393
+len(network_page_list): 337
+cost: 0.0040291194
+
+assing_page 146.043 ms
+[calculate_cost]
+toal_cost: 1.334870844382749
+665 pages allocated for 66475 weights
+total_network_cost: 4.4585024528205395
+       0-th page
+     327-th page
+       0-th page
+     336-th page

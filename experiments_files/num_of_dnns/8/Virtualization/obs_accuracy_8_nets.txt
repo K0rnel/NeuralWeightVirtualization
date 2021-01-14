@@ -1,0 +1,15 @@
+Inference accuracy: 0.998599
+Inference accuracy: 0.998599
+Inference accuracy: 0.998949
+Inference accuracy: 0.998949
+Inference accuracy: 0.997898
+Inference accuracy: 0.997898
+Inference accuracy: 0.997198
+Inference accuracy: 0.998249
+Inference accuracy: 0.997548
+Inference accuracy: 0.998949
+Inference accuracy: 0.998599
+Inference accuracy: 0.998599
+Inference accuracy: 0.998599
+Inference accuracy: 0.996497
+Inference accuracy: 0.996848

@@ -1,0 +1,125 @@
+add_vnn
+gsc/gsc_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx: 62982
+sample num:    1, data_idx: 76743
+sample num:    2, data_idx: 46258
+sample num:    3, data_idx: 34448
+sample num:    4, data_idx: 64751
+sample num:    5, data_idx: 75877
+sample num:    6, data_idx: 33866
+sample num:    7, data_idx: 27826
+sample num:    8, data_idx:   248
+sample num:    9, data_idx: 29045
+sample num:   10, data_idx: 23288
+sample num:   11, data_idx: 19244
+sample num:   12, data_idx: 59524
+sample num:   13, data_idx:  8818
+sample num:   14, data_idx: 20118
+sample num:   15, data_idx: 53259
+sample num:   16, data_idx: 26767
+sample num:   17, data_idx: 74641
+sample num:   18, data_idx: 29523
+sample num:   19, data_idx: 70721
+sample num:   20, data_idx: 14893
+sample num:   21, data_idx: 63404
+sample num:   22, data_idx: 73652
+sample num:   23, data_idx:  4563
+sample num:   24, data_idx: 41466
+sample num:   25, data_idx:  6421
+sample num:   26, data_idx: 39124
+sample num:   27, data_idx: 20653
+sample num:   28, data_idx: 67643
+sample num:   29, data_idx: 16260
+sample num:   30, data_idx: 11501
+sample num:   31, data_idx: 36600
+sample num:   32, data_idx: 62861
+sample num:   33, data_idx: 31705
+sample num:   34, data_idx: 64542
+sample num:   35, data_idx: 54775
+sample num:   36, data_idx: 67065
+sample num:   37, data_idx: 10296
+sample num:   38, data_idx: 33206
+sample num:   39, data_idx:  6159
+sample num:   40, data_idx: 50762
+sample num:   41, data_idx:  8811
+sample num:   42, data_idx: 83464
+sample num:   43, data_idx: 35935
+sample num:   44, data_idx: 30425
+sample num:   45, data_idx: 83071
+sample num:   46, data_idx: 53782
+sample num:   47, data_idx: 18326
+sample num:   48, data_idx: 77415
+sample num:   49, data_idx:  6396
+sample num:   50, data_idx: 72899
+sample num:   51, data_idx: 74439
+sample num:   52, data_idx:  1410
+sample num:   53, data_idx:   508
+sample num:   54, data_idx: 54029
+sample num:   55, data_idx: 49611
+sample num:   56, data_idx: 18564
+sample num:   57, data_idx:   640
+sample num:   58, data_idx: 65564
+sample num:   59, data_idx: 55973
+sample num:   60, data_idx: 13984
+sample num:   61, data_idx: 19127
+sample num:   62, data_idx:  3169
+sample num:   63, data_idx: 28557
+sample num:   64, data_idx: 13498
+sample num:   65, data_idx: 73016
+sample num:   66, data_idx: 47986
+sample num:   67, data_idx: 26897
+sample num:   68, data_idx: 37988
+sample num:   69, data_idx: 40912
+sample num:   70, data_idx: 37662
+sample num:   71, data_idx: 48091
+sample num:   72, data_idx: 28796
+sample num:   73, data_idx: 67783
+sample num:   74, data_idx: 46399
+sample num:   75, data_idx: 24341
+sample num:   76, data_idx: 64670
+sample num:   77, data_idx: 37469
+sample num:   78, data_idx: 39397
+sample num:   79, data_idx: 65309
+sample num:   80, data_idx: 77178
+sample num:   81, data_idx: 50065
+sample num:   82, data_idx: 43292
+sample num:   83, data_idx: 62497
+sample num:   84, data_idx: 15998
+sample num:   85, data_idx: 72888
+sample num:   86, data_idx: 71084
+sample num:   87, data_idx: 80061
+sample num:   88, data_idx: 11784
+sample num:   89, data_idx: 24836
+sample num:   90, data_idx: 77791
+sample num:   91, data_idx: 84771
+sample num:   92, data_idx: 47071
+sample num:   93, data_idx: 84177
+sample num:   94, data_idx: 46328
+sample num:   95, data_idx: 59450
+sample num:   96, data_idx: 30628
+sample num:   97, data_idx: 48970
+sample num:   98, data_idx: 60597
+sample num:   99, data_idx:  8477
+gsc/gsc_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 263
+len(network_page_list): 656
+cost: 0.0
+
+occupation: 1
+len(page_list): 458
+len(network_page_list): 393
+cost: 0.005794424
+
+assing_page 265.405 ms
+[calculate_cost]
+toal_cost: 0.005795489077968341
+656 pages allocated for 65531 weights
+total_network_cost: 0.012246740981936455
+       0-th page
+     262-th page
+       0-th page
+     392-th page

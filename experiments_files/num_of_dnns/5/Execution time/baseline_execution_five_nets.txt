@@ -1,0 +1,126 @@
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+[Executing] mnist
+weights load time : 74.777 ms
+DNN execution time: 2724.838 ms
+Inference accuracy: 0.980800
+[Executing] cifar10
+weights load time : 65.777 ms
+DNN execution time: 397.406 ms
+Inference accuracy: 0.555200
+[Executing] svhn
+weights load time : 124.377 ms
+DNN execution time: 844.687 ms
+Inference accuracy: 0.814843
+[Executing] cifar10
+weights load time : 58.233 ms
+DNN execution time: 155.598 ms
+Inference accuracy: 0.555200
+[Executing] gsc
+weights load time : 54.085 ms
+DNN execution time: 397.480 ms
+Inference accuracy: 0.694684
+[Executing] mnist
+weights load time : 63.028 ms
+DNN execution time: 54.413 ms
+Inference accuracy: 0.980800
+[Executing] cifar10
+weights load time : 60.483 ms
+DNN execution time: 142.060 ms
+Inference accuracy: 0.555200
+[Executing] gsc
+weights load time : 52.013 ms
+DNN execution time: 58.327 ms
+Inference accuracy: 0.694684
+[Executing] gsc
+weights load time : 49.732 ms
+DNN execution time: 57.746 ms
+Inference accuracy: 0.694684
+[Executing] gsc
+weights load time : 53.579 ms
+DNN execution time: 63.148 ms
+Inference accuracy: 0.694684
+[Executing] cifar10
+weights load time : 71.084 ms
+DNN execution time: 123.539 ms
+Inference accuracy: 0.555200
+[Executing] mnist
+weights load time : 59.515 ms
+DNN execution time: 59.505 ms
+Inference accuracy: 0.980800
+[Executing] svhn
+weights load time : 130.937 ms
+DNN execution time: 191.319 ms
+Inference accuracy: 0.814843
+[Executing] svhn
+weights load time : 128.990 ms
+DNN execution time: 169.184 ms
+Inference accuracy: 0.814843
+[Executing] mnist
+weights load time : 58.769 ms
+DNN execution time: 53.537 ms
+Inference accuracy: 0.980800
+[Executing] gtsrb
+weights load time : 56.264 ms
+DNN execution time: 476.729 ms
+Inference accuracy: 0.928029
+[Executing] gsc
+weights load time : 53.500 ms
+DNN execution time: 59.096 ms
+Inference accuracy: 0.694684
+[Executing] svhn
+weights load time : 126.616 ms
+DNN execution time: 159.972 ms
+Inference accuracy: 0.814843
+[Executing] svhn
+weights load time : 130.868 ms
+DNN execution time: 163.843 ms
+Inference accuracy: 0.814843
+[Executing] svhn
+weights load time : 147.781 ms
+DNN execution time: 166.925 ms
+Inference accuracy: 0.814843
+[Executing] svhn
+weights load time : 135.335 ms
+DNN execution time: 185.917 ms
+Inference accuracy: 0.814843
+[Executing] svhn
+weights load time : 130.363 ms
+DNN execution time: 162.368 ms
+Inference accuracy: 0.814843
+[Executing] gtsrb
+weights load time : 50.646 ms
+DNN execution time: 86.554 ms
+Inference accuracy: 0.928029
+[Executing] svhn
+weights load time : 134.137 ms
+DNN execution time: 167.291 ms
+Inference accuracy: 0.814843
+[Executing] cifar10
+weights load time : 61.659 ms
+DNN execution time: 174.463 ms
+Inference accuracy: 0.555200
+[Executing] svhn
+weights load time : 130.873 ms
+DNN execution time: 163.146 ms
+Inference accuracy: 0.814843
+[Executing] cifar10
+weights load time : 61.416 ms
+DNN execution time: 113.828 ms
+Inference accuracy: 0.555200
+[Executing] cifar10
+weights load time : 68.274 ms
+DNN execution time: 119.645 ms
+Inference accuracy: 0.555200
+[Executing] gsc
+weights load time : 51.376 ms
+DNN execution time: 59.384 ms
+Inference accuracy: 0.694684
+[Executing] cifar10
+weights load time : 64.907 ms
+DNN execution time: 121.931 ms
+Inference accuracy: 0.555200
+total weights load time : 2509.396 ms
+total DNN execution time: 7873.877 ms
