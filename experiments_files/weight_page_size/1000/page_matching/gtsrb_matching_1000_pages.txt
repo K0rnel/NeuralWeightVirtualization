@@ -1,0 +1,130 @@
+add_vnn
+gtsrb/gtsrb_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx: 36225
+sample num:    1, data_idx: 15725
+sample num:    2, data_idx:  1607
+sample num:    3, data_idx: 16296
+sample num:    4, data_idx:  7720
+sample num:    5, data_idx: 26965
+sample num:    6, data_idx: 36645
+sample num:    7, data_idx:  4700
+sample num:    8, data_idx:  1815
+sample num:    9, data_idx: 35106
+sample num:   10, data_idx:   528
+sample num:   11, data_idx:  4666
+sample num:   12, data_idx: 26316
+sample num:   13, data_idx:  3071
+sample num:   14, data_idx:  6422
+sample num:   15, data_idx: 37118
+sample num:   16, data_idx: 34168
+sample num:   17, data_idx:  3972
+sample num:   18, data_idx: 37960
+sample num:   19, data_idx:  6586
+sample num:   20, data_idx: 35591
+sample num:   21, data_idx:  8548
+sample num:   22, data_idx: 24279
+sample num:   23, data_idx: 12752
+sample num:   24, data_idx:   579
+sample num:   25, data_idx: 29699
+sample num:   26, data_idx:  1702
+sample num:   27, data_idx: 37723
+sample num:   28, data_idx:  5842
+sample num:   29, data_idx: 24537
+sample num:   30, data_idx:  8857
+sample num:   31, data_idx: 15091
+sample num:   32, data_idx: 11821
+sample num:   33, data_idx: 32427
+sample num:   34, data_idx: 39141
+sample num:   35, data_idx:  8389
+sample num:   36, data_idx: 28068
+sample num:   37, data_idx:  9836
+sample num:   38, data_idx:  9913
+sample num:   39, data_idx: 11263
+sample num:   40, data_idx: 24832
+sample num:   41, data_idx: 12424
+sample num:   42, data_idx: 20464
+sample num:   43, data_idx: 11671
+sample num:   44, data_idx:   128
+sample num:   45, data_idx: 32244
+sample num:   46, data_idx: 27889
+sample num:   47, data_idx: 25932
+sample num:   48, data_idx: 36641
+sample num:   49, data_idx: 22664
+sample num:   50, data_idx:  1313
+sample num:   51, data_idx:  8248
+sample num:   52, data_idx: 33892
+sample num:   53, data_idx: 18429
+sample num:   54, data_idx: 28954
+sample num:   55, data_idx: 35156
+sample num:   56, data_idx:  8000
+sample num:   57, data_idx: 30901
+sample num:   58, data_idx: 34206
+sample num:   59, data_idx: 12428
+sample num:   60, data_idx: 33602
+sample num:   61, data_idx: 34222
+sample num:   62, data_idx: 21276
+sample num:   63, data_idx: 21170
+sample num:   64, data_idx: 34476
+sample num:   65, data_idx: 34993
+sample num:   66, data_idx: 34487
+sample num:   67, data_idx: 21605
+sample num:   68, data_idx: 12481
+sample num:   69, data_idx:  4133
+sample num:   70, data_idx:  5944
+sample num:   71, data_idx: 33772
+sample num:   72, data_idx:  9796
+sample num:   73, data_idx: 19159
+sample num:   74, data_idx:  2780
+sample num:   75, data_idx: 17856
+sample num:   76, data_idx:  5050
+sample num:   77, data_idx: 34909
+sample num:   78, data_idx:  1319
+sample num:   79, data_idx:  3945
+sample num:   80, data_idx: 36666
+sample num:   81, data_idx: 29229
+sample num:   82, data_idx:  2919
+sample num:   83, data_idx:  7343
+sample num:   84, data_idx:  5071
+sample num:   85, data_idx: 33756
+sample num:   86, data_idx: 11684
+sample num:   87, data_idx: 20598
+sample num:   88, data_idx: 30925
+sample num:   89, data_idx: 36233
+sample num:   90, data_idx: 32239
+sample num:   91, data_idx: 29517
+sample num:   92, data_idx: 21462
+sample num:   93, data_idx: 29394
+sample num:   94, data_idx: 22558
+sample num:   95, data_idx:  6949
+sample num:   96, data_idx: 27228
+sample num:   97, data_idx: 21706
+sample num:   98, data_idx:  5027
+sample num:   99, data_idx:   477
+gtsrb/gtsrb_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 0
+len(network_page_list): 67
+cost: 0
+
+occupation: 1
+len(page_list): 22
+len(network_page_list): 67
+cost: 2.566718
+
+occupation: 2
+len(page_list): 45
+len(network_page_list): 45
+cost: 0.037050553
+
+assing_page 86.368 ms
+[calculate_cost]
+toal_cost: 2.6037970661127474
+67 pages allocated for 66475 weights
+total_network_cost: 7.8653548657894135
+       0-th page
+      21-th page
+       0-th page
+      44-th page

@@ -1,0 +1,130 @@
+add_vnn
+gtsrb/gtsrb_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx: 34428
+sample num:    1, data_idx: 25894
+sample num:    2, data_idx: 35882
+sample num:    3, data_idx: 28240
+sample num:    4, data_idx: 11450
+sample num:    5, data_idx: 26516
+sample num:    6, data_idx:  4179
+sample num:    7, data_idx:  7731
+sample num:    8, data_idx: 39097
+sample num:    9, data_idx: 14458
+sample num:   10, data_idx: 18583
+sample num:   11, data_idx:  1222
+sample num:   12, data_idx: 33328
+sample num:   13, data_idx:  9329
+sample num:   14, data_idx: 11278
+sample num:   15, data_idx:  8232
+sample num:   16, data_idx: 37667
+sample num:   17, data_idx: 37646
+sample num:   18, data_idx: 22711
+sample num:   19, data_idx: 13078
+sample num:   20, data_idx: 15951
+sample num:   21, data_idx: 21446
+sample num:   22, data_idx: 13870
+sample num:   23, data_idx: 16586
+sample num:   24, data_idx:  3109
+sample num:   25, data_idx: 18023
+sample num:   26, data_idx:  6494
+sample num:   27, data_idx:  9036
+sample num:   28, data_idx: 36656
+sample num:   29, data_idx: 25206
+sample num:   30, data_idx:  3140
+sample num:   31, data_idx: 14280
+sample num:   32, data_idx: 18902
+sample num:   33, data_idx: 25741
+sample num:   34, data_idx: 27916
+sample num:   35, data_idx: 13443
+sample num:   36, data_idx: 24694
+sample num:   37, data_idx: 21353
+sample num:   38, data_idx: 30893
+sample num:   39, data_idx:  7545
+sample num:   40, data_idx:  5976
+sample num:   41, data_idx: 15539
+sample num:   42, data_idx:  6173
+sample num:   43, data_idx:  9635
+sample num:   44, data_idx: 32836
+sample num:   45, data_idx: 29245
+sample num:   46, data_idx: 32691
+sample num:   47, data_idx:  9373
+sample num:   48, data_idx: 23244
+sample num:   49, data_idx: 12246
+sample num:   50, data_idx:  2434
+sample num:   51, data_idx:  3141
+sample num:   52, data_idx: 16195
+sample num:   53, data_idx: 25141
+sample num:   54, data_idx:  9767
+sample num:   55, data_idx: 35841
+sample num:   56, data_idx: 31142
+sample num:   57, data_idx: 18005
+sample num:   58, data_idx: 32426
+sample num:   59, data_idx:  5253
+sample num:   60, data_idx: 23457
+sample num:   61, data_idx: 23137
+sample num:   62, data_idx: 34709
+sample num:   63, data_idx: 35158
+sample num:   64, data_idx: 10244
+sample num:   65, data_idx: 17942
+sample num:   66, data_idx: 23415
+sample num:   67, data_idx:  7065
+sample num:   68, data_idx: 31786
+sample num:   69, data_idx:  5089
+sample num:   70, data_idx: 27396
+sample num:   71, data_idx: 15289
+sample num:   72, data_idx: 19923
+sample num:   73, data_idx:  7673
+sample num:   74, data_idx:  6636
+sample num:   75, data_idx:  5457
+sample num:   76, data_idx: 33756
+sample num:   77, data_idx: 11966
+sample num:   78, data_idx: 18709
+sample num:   79, data_idx: 31547
+sample num:   80, data_idx: 16675
+sample num:   81, data_idx: 32132
+sample num:   82, data_idx: 23054
+sample num:   83, data_idx: 16026
+sample num:   84, data_idx: 18682
+sample num:   85, data_idx: 26597
+sample num:   86, data_idx: 15536
+sample num:   87, data_idx:  6337
+sample num:   88, data_idx: 34772
+sample num:   89, data_idx: 20445
+sample num:   90, data_idx: 30460
+sample num:   91, data_idx: 33412
+sample num:   92, data_idx: 23951
+sample num:   93, data_idx: 19605
+sample num:   94, data_idx:  8286
+sample num:   95, data_idx: 14476
+sample num:   96, data_idx: 22759
+sample num:   97, data_idx: 36779
+sample num:   98, data_idx: 18967
+sample num:   99, data_idx: 29567
+gtsrb/gtsrb_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 0
+len(network_page_list): 7
+cost: 0
+
+occupation: 1
+len(page_list): 2
+len(network_page_list): 7
+cost: 15.413347
+
+occupation: 2
+len(page_list): 5
+len(network_page_list): 5
+cost: 0.25318998
+
+assing_page 81.598 ms
+[calculate_cost]
+toal_cost: 15.666813341900706
+7 pages allocated for 66475 weights
+total_network_cost: 25.801418483257294
+       0-th page
+       1-th page
+       0-th page
+       4-th page

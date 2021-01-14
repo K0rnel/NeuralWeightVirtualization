@@ -1,0 +1,130 @@
+add_vnn
+gtsrb/gtsrb_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx:   936
+sample num:    1, data_idx: 19995
+sample num:    2, data_idx: 33679
+sample num:    3, data_idx: 15684
+sample num:    4, data_idx: 31585
+sample num:    5, data_idx: 35191
+sample num:    6, data_idx: 35320
+sample num:    7, data_idx: 23355
+sample num:    8, data_idx: 19241
+sample num:    9, data_idx: 27179
+sample num:   10, data_idx: 17223
+sample num:   11, data_idx: 29180
+sample num:   12, data_idx: 31433
+sample num:   13, data_idx: 11106
+sample num:   14, data_idx: 27745
+sample num:   15, data_idx: 27709
+sample num:   16, data_idx: 12601
+sample num:   17, data_idx: 28222
+sample num:   18, data_idx: 23172
+sample num:   19, data_idx: 29299
+sample num:   20, data_idx:  9969
+sample num:   21, data_idx: 30315
+sample num:   22, data_idx:  1901
+sample num:   23, data_idx: 23788
+sample num:   24, data_idx: 15047
+sample num:   25, data_idx:  2048
+sample num:   26, data_idx: 35745
+sample num:   27, data_idx: 18143
+sample num:   28, data_idx: 16302
+sample num:   29, data_idx: 37712
+sample num:   30, data_idx:  1825
+sample num:   31, data_idx:  3159
+sample num:   32, data_idx:  1444
+sample num:   33, data_idx: 26169
+sample num:   34, data_idx: 35447
+sample num:   35, data_idx: 26559
+sample num:   36, data_idx: 11686
+sample num:   37, data_idx: 31395
+sample num:   38, data_idx: 33763
+sample num:   39, data_idx:  1190
+sample num:   40, data_idx: 25407
+sample num:   41, data_idx: 29916
+sample num:   42, data_idx: 33089
+sample num:   43, data_idx: 19285
+sample num:   44, data_idx: 37309
+sample num:   45, data_idx: 34475
+sample num:   46, data_idx: 12539
+sample num:   47, data_idx: 27282
+sample num:   48, data_idx: 29529
+sample num:   49, data_idx: 22496
+sample num:   50, data_idx: 12529
+sample num:   51, data_idx:  7467
+sample num:   52, data_idx: 37838
+sample num:   53, data_idx: 21702
+sample num:   54, data_idx:  3534
+sample num:   55, data_idx:  8789
+sample num:   56, data_idx: 14050
+sample num:   57, data_idx: 14741
+sample num:   58, data_idx: 37101
+sample num:   59, data_idx: 11379
+sample num:   60, data_idx:  1829
+sample num:   61, data_idx:  7577
+sample num:   62, data_idx: 25743
+sample num:   63, data_idx: 23838
+sample num:   64, data_idx: 34272
+sample num:   65, data_idx:  8639
+sample num:   66, data_idx: 27600
+sample num:   67, data_idx: 29082
+sample num:   68, data_idx: 11425
+sample num:   69, data_idx: 37109
+sample num:   70, data_idx: 16833
+sample num:   71, data_idx: 19643
+sample num:   72, data_idx:  4273
+sample num:   73, data_idx: 33640
+sample num:   74, data_idx:  9717
+sample num:   75, data_idx: 24095
+sample num:   76, data_idx: 25477
+sample num:   77, data_idx: 36150
+sample num:   78, data_idx:  1606
+sample num:   79, data_idx: 26499
+sample num:   80, data_idx: 21853
+sample num:   81, data_idx:  2280
+sample num:   82, data_idx:  7224
+sample num:   83, data_idx: 12481
+sample num:   84, data_idx: 23028
+sample num:   85, data_idx: 14154
+sample num:   86, data_idx:  5882
+sample num:   87, data_idx: 20278
+sample num:   88, data_idx: 12398
+sample num:   89, data_idx: 31153
+sample num:   90, data_idx:     8
+sample num:   91, data_idx:  6653
+sample num:   92, data_idx: 33688
+sample num:   93, data_idx:  8943
+sample num:   94, data_idx: 35010
+sample num:   95, data_idx: 13689
+sample num:   96, data_idx: 12921
+sample num:   97, data_idx:  5196
+sample num:   98, data_idx: 11159
+sample num:   99, data_idx: 36904
+gtsrb/gtsrb_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 0
+len(network_page_list): 6648
+cost: 0
+
+occupation: 1
+len(page_list): 2173
+len(network_page_list): 6648
+cost: 1.3645618
+
+occupation: 2
+len(page_list): 4476
+len(network_page_list): 4475
+cost: 0.010096285
+
+assing_page 614.276 ms
+[calculate_cost]
+toal_cost: 1.3849210626603963
+6648 pages allocated for 66475 weights
+total_network_cost: 6.811917163431644
+       0-th page
+    2172-th page
+       0-th page
+    4474-th page

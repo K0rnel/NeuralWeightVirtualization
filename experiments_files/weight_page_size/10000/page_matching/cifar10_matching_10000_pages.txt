@@ -1,0 +1,135 @@
+add_vnn
+cifar10/cifar10_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx: 41616
+sample num:    1, data_idx: 22689
+sample num:    2, data_idx: 32752
+sample num:    3, data_idx: 21230
+sample num:    4, data_idx: 31976
+sample num:    5, data_idx: 31978
+sample num:    6, data_idx: 34947
+sample num:    7, data_idx: 45455
+sample num:    8, data_idx: 12937
+sample num:    9, data_idx: 41355
+sample num:   10, data_idx:  3318
+sample num:   11, data_idx: 31077
+sample num:   12, data_idx: 41284
+sample num:   13, data_idx: 47659
+sample num:   14, data_idx: 42053
+sample num:   15, data_idx: 35185
+sample num:   16, data_idx: 30182
+sample num:   17, data_idx: 36990
+sample num:   18, data_idx: 42935
+sample num:   19, data_idx: 17699
+sample num:   20, data_idx: 29062
+sample num:   21, data_idx: 35589
+sample num:   22, data_idx: 23033
+sample num:   23, data_idx: 20476
+sample num:   24, data_idx:  5703
+sample num:   25, data_idx: 27754
+sample num:   26, data_idx: 16284
+sample num:   27, data_idx: 34292
+sample num:   28, data_idx: 16565
+sample num:   29, data_idx: 16729
+sample num:   30, data_idx:  8416
+sample num:   31, data_idx: 33994
+sample num:   32, data_idx:  1905
+sample num:   33, data_idx: 46808
+sample num:   34, data_idx: 29053
+sample num:   35, data_idx: 46977
+sample num:   36, data_idx: 17585
+sample num:   37, data_idx: 40765
+sample num:   38, data_idx: 27480
+sample num:   39, data_idx: 14904
+sample num:   40, data_idx: 11748
+sample num:   41, data_idx: 16134
+sample num:   42, data_idx: 25403
+sample num:   43, data_idx: 45225
+sample num:   44, data_idx: 26703
+sample num:   45, data_idx:  3904
+sample num:   46, data_idx: 15375
+sample num:   47, data_idx: 26924
+sample num:   48, data_idx:  6891
+sample num:   49, data_idx: 26325
+sample num:   50, data_idx:  5603
+sample num:   51, data_idx: 30039
+sample num:   52, data_idx:  1549
+sample num:   53, data_idx: 38460
+sample num:   54, data_idx: 31141
+sample num:   55, data_idx:  6134
+sample num:   56, data_idx: 32908
+sample num:   57, data_idx: 29362
+sample num:   58, data_idx: 12783
+sample num:   59, data_idx: 11864
+sample num:   60, data_idx: 30790
+sample num:   61, data_idx:    82
+sample num:   62, data_idx: 35445
+sample num:   63, data_idx:  7087
+sample num:   64, data_idx: 27119
+sample num:   65, data_idx: 11150
+sample num:   66, data_idx:  8141
+sample num:   67, data_idx: 16871
+sample num:   68, data_idx: 36276
+sample num:   69, data_idx: 16555
+sample num:   70, data_idx: 11142
+sample num:   71, data_idx: 18242
+sample num:   72, data_idx: 35420
+sample num:   73, data_idx: 29755
+sample num:   74, data_idx:  7871
+sample num:   75, data_idx: 39659
+sample num:   76, data_idx: 48856
+sample num:   77, data_idx:  2997
+sample num:   78, data_idx: 28299
+sample num:   79, data_idx:  8078
+sample num:   80, data_idx: 30922
+sample num:   81, data_idx: 48915
+sample num:   82, data_idx: 48979
+sample num:   83, data_idx: 34587
+sample num:   84, data_idx: 42938
+sample num:   85, data_idx: 10486
+sample num:   86, data_idx: 48961
+sample num:   87, data_idx:  4055
+sample num:   88, data_idx: 22998
+sample num:   89, data_idx: 34873
+sample num:   90, data_idx: 23848
+sample num:   91, data_idx: 16300
+sample num:   92, data_idx:  8427
+sample num:   93, data_idx: 11555
+sample num:   94, data_idx: 13642
+sample num:   95, data_idx:  3726
+sample num:   96, data_idx: 38703
+sample num:   97, data_idx: 16616
+sample num:   98, data_idx: 24380
+sample num:   99, data_idx: 48419
+cifar10/cifar10_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 0
+len(network_page_list): 5
+cost: 0
+
+occupation: 1
+len(page_list): 0
+len(network_page_list): 5
+cost: 0
+
+occupation: 2
+len(page_list): 2
+len(network_page_list): 5
+cost: 17.907608
+
+occupation: 3
+len(page_list): 5
+len(network_page_list): 3
+cost: 0.024541264
+
+assing_page 80.658 ms
+[calculate_cost]
+toal_cost: 17.932324800640345
+5 pages allocated for 45490 weights
+total_network_cost: 86.91029261099175
+       0-th page
+       1-th page
+       0-th page
+       2-th page
