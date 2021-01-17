@@ -1,0 +1,236 @@
+MEMORY USAGE (MB): 267.5859375
+MEMORY USAGE (MB): 267.5859375
+MEMORY USAGE (MB): 267.7890625
+MEMORY USAGE (MB): 267.7890625
+MEMORY USAGE (MB): 267.7890625
+virtual_weight address: 139948444352512
+init virtual_weight 14.012 ms
+[VNN 0][cifar10] init page table 6.068 ms
+[VNN 1][esc10] init page table 4.673 ms
+[VNN 2][fmnist] init page table 4.143 ms
+[VNN 3][gsc] init page table 4.082 ms
+[VNN 4][gtsrb] init page table 3.838 ms
+[VNN 5][hhar] init page table 3.853 ms
+[VNN 6][mnist] init page table 3.812 ms
+[VNN 7][obs] init page table 3.632 ms
+[VNN 8][svhn] init page table 3.966 ms
+[VNN 9][us8k] init page table 4.170 ms
+tf.global_variables_initializer 8003.615 ms
+MEMORY USAGE (MB): 1177.1875
+MEMORY USAGE (MB): 1177.1875
+MEMORY USAGE (MB): 2589.87109375
+[Executing] cifar10
+weights load time : 0.345 ms
+DNN execution time: 6877.636 ms
+Inference accuracy: 0.301200
+MEMORY USAGE (MB): 4331.14453125
+MEMORY USAGE (MB): 4331.14453125
+MEMORY USAGE (MB): 4568.66796875
+[Executing] esc10
+weights load time : 0.261 ms
+DNN execution time: 413.616 ms
+Inference accuracy: 0.673789
+MEMORY USAGE (MB): 4568.92578125
+MEMORY USAGE (MB): 4568.92578125
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+MEMORY USAGE (MB): 4955.3671875
+[Executing] mnist
+weights load time : 0.336 ms
+DNN execution time: 729.600 ms
+Inference accuracy: 0.183100
+MEMORY USAGE (MB): 4955.3671875
+MEMORY USAGE (MB): 4955.3671875
+MEMORY USAGE (MB): 6973.83203125
+[Executing] us8k
+weights load time : 0.377 ms
+DNN execution time: 990.389 ms
+Inference accuracy: 0.300648
+MEMORY USAGE (MB): 7072.3828125
+MEMORY USAGE (MB): 7072.3828125
+MEMORY USAGE (MB): 7272.37109375
+[Executing] gtsrb
+weights load time : 0.331 ms
+DNN execution time: 938.180 ms
+Inference accuracy: 0.083135
+MEMORY USAGE (MB): 7471.3515625
+MEMORY USAGE (MB): 7471.3515625
+MEMORY USAGE (MB): 7838.9296875
+[Executing] fmnist
+weights load time : 0.254 ms
+DNN execution time: 978.579 ms
+Inference accuracy: 0.571600
+MEMORY USAGE (MB): 7869.8671875
+MEMORY USAGE (MB): 7869.8671875
+MEMORY USAGE (MB): 7869.8671875
+[Executing] gtsrb
+weights load time : 0.197 ms
+DNN execution time: 78.961 ms
+Inference accuracy: 0.083135
+MEMORY USAGE (MB): 7921.171875
+MEMORY USAGE (MB): 7921.171875
+MEMORY USAGE (MB): 7921.171875
+[Executing] us8k
+weights load time : 0.165 ms
+DNN execution time: 115.510 ms
+Inference accuracy: 0.300648
+MEMORY USAGE (MB): 7973.5078125
+MEMORY USAGE (MB): 7973.5078125
+MEMORY USAGE (MB): 7973.5078125
+[Executing] cifar10
+weights load time : 0.196 ms
+DNN execution time: 107.122 ms
+Inference accuracy: 0.301200
+MEMORY USAGE (MB): 7989.234375
+MEMORY USAGE (MB): 7989.234375
+MEMORY USAGE (MB): 10021.171875
+[Executing] hhar
+weights load time : 0.266 ms
+DNN execution time: 581.461 ms
+Inference accuracy: 0.562448
+MEMORY USAGE (MB): 10061.390625
+MEMORY USAGE (MB): 10061.390625
+MEMORY USAGE (MB): 10375.4296875
+[Executing] obs
+weights load time : 0.277 ms
+DNN execution time: 978.851 ms
+Inference accuracy: 0.995096
+MEMORY USAGE (MB): 10415.1328125
+MEMORY USAGE (MB): 10415.1328125
+MEMORY USAGE (MB): 10415.1328125
+[Executing] obs
+weights load time : 0.204 ms
+DNN execution time: 73.556 ms
+Inference accuracy: 0.995096
+MEMORY USAGE (MB): 10415.1328125
+MEMORY USAGE (MB): 10415.1328125
+MEMORY USAGE (MB): 10415.1328125
+[Executing] gtsrb
+weights load time : 0.191 ms
+DNN execution time: 66.589 ms
+Inference accuracy: 0.083135
+MEMORY USAGE (MB): 10427.5078125
+MEMORY USAGE (MB): 10427.5078125
+MEMORY USAGE (MB): 10427.5078125
+[Executing] gtsrb
+weights load time : 0.187 ms
+DNN execution time: 59.492 ms
+Inference accuracy: 0.083135
+MEMORY USAGE (MB): 10427.5078125
+MEMORY USAGE (MB): 10427.5078125
+MEMORY USAGE (MB): 10427.5078125
+[Executing] obs
+weights load time : 0.225 ms
+DNN execution time: 72.977 ms
+Inference accuracy: 0.995096
+MEMORY USAGE (MB): 10427.5078125
+MEMORY USAGE (MB): 10427.5078125
+MEMORY USAGE (MB): 10427.5078125
+[Executing] us8k
+weights load time : 0.242 ms
+DNN execution time: 137.023 ms
+Inference accuracy: 0.300648
+MEMORY USAGE (MB): 10529.0859375
+MEMORY USAGE (MB): 10529.0859375
+MEMORY USAGE (MB): 10529.0859375
+[Executing] gtsrb
+weights load time : 0.214 ms
+DNN execution time: 61.125 ms
+Inference accuracy: 0.083135
+MEMORY USAGE (MB): 10529.0859375
+MEMORY USAGE (MB): 10529.0859375
+MEMORY USAGE (MB): 10529.0859375
+[Executing] fmnist
+weights load time : 0.210 ms
+DNN execution time: 75.430 ms
+Inference accuracy: 0.571600
+MEMORY USAGE (MB): 10547.90625
+MEMORY USAGE (MB): 10547.90625
+MEMORY USAGE (MB): 11351.21484375
+[Executing] svhn
+weights load time : 0.400 ms
+DNN execution time: 1271.885 ms
+Inference accuracy: 0.489859
+MEMORY USAGE (MB): 11350.95703125
+MEMORY USAGE (MB): 11350.95703125
+MEMORY USAGE (MB): 11350.95703125
+[Executing] fmnist
+weights load time : 0.190 ms
+DNN execution time: 75.253 ms
+Inference accuracy: 0.571600
+MEMORY USAGE (MB): 11380.86328125
+MEMORY USAGE (MB): 11380.86328125
+MEMORY USAGE (MB): 11380.86328125
+[Executing] obs
+weights load time : 0.189 ms
+DNN execution time: 89.854 ms
+Inference accuracy: 0.995096
+MEMORY USAGE (MB): 11404.24609375
+MEMORY USAGE (MB): 11404.24609375
+MEMORY USAGE (MB): 11404.24609375
+[Executing] svhn
+weights load time : 0.196 ms
+DNN execution time: 112.931 ms
+Inference accuracy: 0.489859
+MEMORY USAGE (MB): 11404.24609375
+MEMORY USAGE (MB): 11404.24609375
+MEMORY USAGE (MB): 11703.99609375
+[Executing] gsc
+weights load time : 0.496 ms
+DNN execution time: 860.059 ms
+Inference accuracy: 0.200182
+MEMORY USAGE (MB): 11758.63671875
+MEMORY USAGE (MB): 11758.63671875
+MEMORY USAGE (MB): 11758.63671875
+[Executing] esc10
+weights load time : 0.202 ms
+DNN execution time: 42.670 ms
+Inference accuracy: 0.673789
+MEMORY USAGE (MB): 11762.171875
+MEMORY USAGE (MB): 11762.171875
+MEMORY USAGE (MB): 11762.171875
+[Executing] fmnist
+weights load time : 0.178 ms
+DNN execution time: 64.119 ms
+Inference accuracy: 0.571600
+MEMORY USAGE (MB): 11762.171875
+MEMORY USAGE (MB): 11762.171875
+MEMORY USAGE (MB): 11762.171875
+[Executing] hhar
+weights load time : 0.178 ms
+DNN execution time: 16.957 ms
+Inference accuracy: 0.562448
+MEMORY USAGE (MB): 11762.171875
+MEMORY USAGE (MB): 11762.171875
+MEMORY USAGE (MB): 11762.171875
+[Executing] obs
+weights load time : 0.189 ms
+DNN execution time: 102.975 ms
+Inference accuracy: 0.995096
+MEMORY USAGE (MB): 11762.46484375
+MEMORY USAGE (MB): 11762.46484375
+MEMORY USAGE (MB): 11762.46484375
+[Executing] gtsrb
+weights load time : 0.203 ms
+DNN execution time: 67.980 ms
+Inference accuracy: 0.083135
+MEMORY USAGE (MB): 11763.234375
+MEMORY USAGE (MB): 11763.234375
+MEMORY USAGE (MB): 11763.234375
+[Executing] gsc
+weights load time : 0.170 ms
+DNN execution time: 34.560 ms
+Inference accuracy: 0.200182
+MEMORY USAGE (MB): 11763.234375
+MEMORY USAGE (MB): 11763.234375
+MEMORY USAGE (MB): 11763.234375
+[Executing] esc10
+weights load time : 0.447 ms
+DNN execution time: 14.793 ms
+Inference accuracy: 0.673789
+MEMORY USAGE (MB): 11763.35546875
+total weights load time : 7.517 ms
+total DNN execution time: 16090.134 ms
+MEMORY USAGE (MB): 11760.76953125

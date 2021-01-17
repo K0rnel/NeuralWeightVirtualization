@@ -1,0 +1,3122 @@
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.090000 original loss: 6.907917 matching loss: 0.592056
+step 0, Validation accuracy: 0.102800
+step 100, training accuracy: 0.400000 original loss: 6.450029 matching loss: 0.327950
+step 100, Validation accuracy: 0.372800
+get new weight for 0.3728
+step 200, training accuracy: 0.850000 original loss: 5.217952 matching loss: 0.235896
+step 200, Validation accuracy: 0.844900
+get new weight for 0.8449
+step 300, training accuracy: 0.890000 original loss: 5.030067 matching loss: 0.189313
+step 300, Validation accuracy: 0.909700
+get new weight for 0.9097
+step 400, training accuracy: 0.930000 original loss: 4.940674 matching loss: 0.162481
+step 400, Validation accuracy: 0.925700
+get new weight for 0.9257
+step 500, training accuracy: 0.970000 original loss: 4.855260 matching loss: 0.146221
+step 500, Validation accuracy: 0.933400
+get new weight for 0.9334
+step 600, training accuracy: 0.900000 original loss: 4.891565 matching loss: 0.135814
+step 600, Validation accuracy: 0.944500
+get new weight for 0.9445
+step 700, training accuracy: 0.960000 original loss: 4.779341 matching loss: 0.128518
+step 700, Validation accuracy: 0.949800
+get new weight for 0.9498
+step 800, training accuracy: 0.950000 original loss: 4.775541 matching loss: 0.123233
+step 800, Validation accuracy: 0.952500
+get new weight for 0.9525
+step 900, training accuracy: 0.970000 original loss: 4.733485 matching loss: 0.119126
+step 900, Validation accuracy: 0.948300
+step 1000, training accuracy: 0.950000 original loss: 4.757928 matching loss: 0.115885
+step 1000, Validation accuracy: 0.959700
+get new weight for 0.9597
+step 1100, training accuracy: 0.960000 original loss: 4.763898 matching loss: 0.113159
+step 1100, Validation accuracy: 0.962600
+get new weight for 0.9626
+step 1200, training accuracy: 0.940000 original loss: 4.790278 matching loss: 0.110838
+step 1200, Validation accuracy: 0.962500
+step 1300, training accuracy: 0.970000 original loss: 4.726388 matching loss: 0.108803
+step 1300, Validation accuracy: 0.962400
+step 1400, training accuracy: 0.970000 original loss: 4.699085 matching loss: 0.106992
+step 1400, Validation accuracy: 0.965800
+get new weight for 0.9658
+step 1500, training accuracy: 0.960000 original loss: 4.769127 matching loss: 0.105313
+step 1500, Validation accuracy: 0.966100
+get new weight for 0.9661
+step 1600, training accuracy: 0.950000 original loss: 4.774324 matching loss: 0.103873
+step 1600, Validation accuracy: 0.963700
+step 1700, training accuracy: 0.970000 original loss: 4.731802 matching loss: 0.102388
+step 1700, Validation accuracy: 0.968500
+get new weight for 0.9685
+step 1800, training accuracy: 0.960000 original loss: 4.743296 matching loss: 0.101113
+step 1800, Validation accuracy: 0.966500
+step 1900, training accuracy: 0.970000 original loss: 4.719652 matching loss: 0.099990
+step 1900, Validation accuracy: 0.970600
+get new weight for 0.9706
+step 1999, training accuracy: 0.960000 original loss: 4.696331 matching loss: 0.098830
+step 1999, Validation accuracy: 0.970900
+get new weight for 0.9709
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.010000 original loss: 8.163304 matching loss: 18.183292
+step 0, Validation accuracy: 0.018810
+step 100, training accuracy: 0.070000 original loss: 8.118853 matching loss: 8.635410
+step 100, Validation accuracy: 0.036892
+get new weight for 0.03689232
+step 200, training accuracy: 0.070000 original loss: 7.847994 matching loss: 4.480931
+step 200, Validation accuracy: 0.133030
+get new weight for 0.13303044
+step 300, training accuracy: 0.320000 original loss: 7.171465 matching loss: 2.483488
+step 300, Validation accuracy: 0.283507
+get new weight for 0.2835075
+step 400, training accuracy: 0.430000 original loss: 6.680875 matching loss: 1.476186
+step 400, Validation accuracy: 0.402635
+get new weight for 0.40263516
+step 500, training accuracy: 0.530000 original loss: 6.374521 matching loss: 0.938713
+step 500, Validation accuracy: 0.462608
+get new weight for 0.46260792
+step 600, training accuracy: 0.540000 original loss: 6.434268 matching loss: 0.636369
+step 600, Validation accuracy: 0.504498
+get new weight for 0.50449795
+step 700, training accuracy: 0.580000 original loss: 6.307993 matching loss: 0.458071
+step 700, Validation accuracy: 0.515584
+get new weight for 0.5155838
+step 800, training accuracy: 0.530000 original loss: 6.413598 matching loss: 0.349669
+step 800, Validation accuracy: 0.539936
+get new weight for 0.53993636
+step 900, training accuracy: 0.550000 original loss: 6.227228 matching loss: 0.281971
+step 900, Validation accuracy: 0.564289
+get new weight for 0.564289
+step 1000, training accuracy: 0.610000 original loss: 6.279016 matching loss: 0.238258
+step 1000, Validation accuracy: 0.582917
+get new weight for 0.58291686
+step 1100, training accuracy: 0.490000 original loss: 6.452997 matching loss: 0.210027
+step 1100, Validation accuracy: 0.590095
+get new weight for 0.5900954
+step 1200, training accuracy: 0.610000 original loss: 6.100813 matching loss: 0.190388
+step 1200, Validation accuracy: 0.606088
+get new weight for 0.60608816
+step 1300, training accuracy: 0.660000 original loss: 5.935215 matching loss: 0.176148
+step 1300, Validation accuracy: 0.612994
+get new weight for 0.6129941
+step 1400, training accuracy: 0.700000 original loss: 5.862726 matching loss: 0.166153
+step 1400, Validation accuracy: 0.623807
+get new weight for 0.6238074
+step 1500, training accuracy: 0.740000 original loss: 5.788143 matching loss: 0.157894
+step 1500, Validation accuracy: 0.636347
+get new weight for 0.6363471
+step 1600, training accuracy: 0.660000 original loss: 6.203496 matching loss: 0.151969
+step 1600, Validation accuracy: 0.640254
+get new weight for 0.64025444
+step 1700, training accuracy: 0.580000 original loss: 6.150823 matching loss: 0.146920
+step 1700, Validation accuracy: 0.644707
+get new weight for 0.64470696
+step 1800, training accuracy: 0.690000 original loss: 5.861005 matching loss: 0.142710
+step 1800, Validation accuracy: 0.649523
+get new weight for 0.64952296
+step 1900, training accuracy: 0.700000 original loss: 5.816800 matching loss: 0.139197
+step 1900, Validation accuracy: 0.649523
+step 1999, training accuracy: 0.650000 original loss: 5.857199 matching loss: 0.136298
+step 1999, Validation accuracy: 0.653703
+get new weight for 0.65370286
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.000000 original loss: 9.786657 matching loss: 0.004591
+step 0, Validation accuracy: 0.007126
+step 100, training accuracy: 0.450000 original loss: 7.258837 matching loss: 0.022090
+step 100, Validation accuracy: 0.365479
+get new weight for 0.36547902
+step 200, training accuracy: 0.860000 original loss: 5.531841 matching loss: 0.058685
+step 200, Validation accuracy: 0.770150
+get new weight for 0.7701504
+step 300, training accuracy: 0.870000 original loss: 5.277885 matching loss: 0.060100
+step 300, Validation accuracy: 0.844656
+get new weight for 0.8446556
+step 400, training accuracy: 0.920000 original loss: 5.029146 matching loss: 0.059433
+step 400, Validation accuracy: 0.869675
+get new weight for 0.8696754
+step 500, training accuracy: 0.920000 original loss: 5.133383 matching loss: 0.056950
+step 500, Validation accuracy: 0.888044
+get new weight for 0.88804436
+step 600, training accuracy: 0.910000 original loss: 5.026903 matching loss: 0.055010
+step 600, Validation accuracy: 0.900000
+get new weight for 0.9
+step 700, training accuracy: 0.950000 original loss: 5.013210 matching loss: 0.053068
+step 700, Validation accuracy: 0.902296
+get new weight for 0.9022961
+step 800, training accuracy: 0.930000 original loss: 5.054588 matching loss: 0.051571
+step 800, Validation accuracy: 0.909739
+get new weight for 0.9097387
+step 900, training accuracy: 0.980000 original loss: 4.878702 matching loss: 0.049959
+step 900, Validation accuracy: 0.915835
+get new weight for 0.9158353
+step 1000, training accuracy: 0.980000 original loss: 4.862608 matching loss: 0.048882
+step 1000, Validation accuracy: 0.920665
+get new weight for 0.9206651
+step 1100, training accuracy: 0.950000 original loss: 4.876675 matching loss: 0.048019
+step 1100, Validation accuracy: 0.922249
+get new weight for 0.9222486
+step 1200, training accuracy: 0.970000 original loss: 4.871140 matching loss: 0.047138
+step 1200, Validation accuracy: 0.918844
+step 1300, training accuracy: 0.970000 original loss: 4.937173 matching loss: 0.046601
+step 1300, Validation accuracy: 0.922486
+get new weight for 0.9224861
+step 1400, training accuracy: 0.970000 original loss: 4.858195 matching loss: 0.045922
+step 1400, Validation accuracy: 0.925336
+get new weight for 0.9253365
+step 1500, training accuracy: 1.000000 original loss: 4.831308 matching loss: 0.045188
+step 1500, Validation accuracy: 0.929612
+get new weight for 0.92961204
+step 1600, training accuracy: 0.980000 original loss: 4.798210 matching loss: 0.044768
+step 1600, Validation accuracy: 0.926445
+step 1700, training accuracy: 0.970000 original loss: 4.879018 matching loss: 0.044183
+step 1700, Validation accuracy: 0.928266
+step 1800, training accuracy: 1.000000 original loss: 4.748801 matching loss: 0.043857
+step 1800, Validation accuracy: 0.930245
+get new weight for 0.93024546
+step 1900, training accuracy: 0.990000 original loss: 4.785963 matching loss: 0.043295
+step 1900, Validation accuracy: 0.929216
+step 1999, training accuracy: 1.000000 original loss: 4.737921 matching loss: 0.043324
+step 1999, Validation accuracy: 0.927237
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.950000 original loss: 8.594921 matching loss: 0.008809
+step 0, Validation accuracy: 0.924900
+step 100, training accuracy: 0.990000 original loss: 4.738156 matching loss: 0.004732
+step 100, Validation accuracy: 0.967300
+get new weight for 0.9673
+step 200, training accuracy: 0.930000 original loss: 4.888368 matching loss: 0.004731
+step 200, Validation accuracy: 0.970100
+get new weight for 0.9701
+step 300, training accuracy: 0.990000 original loss: 4.699005 matching loss: 0.004757
+step 300, Validation accuracy: 0.969500
+step 400, training accuracy: 0.970000 original loss: 4.708882 matching loss: 0.004784
+step 400, Validation accuracy: 0.971600
+get new weight for 0.9716
+step 500, training accuracy: 0.980000 original loss: 4.694882 matching loss: 0.004840
+step 500, Validation accuracy: 0.970800
+step 600, training accuracy: 0.990000 original loss: 4.669989 matching loss: 0.004862
+step 600, Validation accuracy: 0.971200
+step 700, training accuracy: 0.960000 original loss: 4.724643 matching loss: 0.004914
+step 700, Validation accuracy: 0.971900
+get new weight for 0.9719
+step 800, training accuracy: 0.980000 original loss: 4.690695 matching loss: 0.004922
+step 800, Validation accuracy: 0.973200
+get new weight for 0.9732
+step 900, training accuracy: 0.970000 original loss: 4.715380 matching loss: 0.004993
+step 900, Validation accuracy: 0.972800
+step 1000, training accuracy: 0.980000 original loss: 4.702369 matching loss: 0.005014
+step 1000, Validation accuracy: 0.973300
+get new weight for 0.9733
+step 1100, training accuracy: 0.970000 original loss: 4.725271 matching loss: 0.005091
+step 1100, Validation accuracy: 0.973700
+get new weight for 0.9737
+step 1200, training accuracy: 0.970000 original loss: 4.690072 matching loss: 0.005128
+step 1200, Validation accuracy: 0.971300
+step 1300, training accuracy: 0.950000 original loss: 4.839861 matching loss: 0.005174
+step 1300, Validation accuracy: 0.973900
+get new weight for 0.9739
+step 1400, training accuracy: 0.980000 original loss: 4.673904 matching loss: 0.005256
+step 1400, Validation accuracy: 0.975200
+get new weight for 0.9752
+step 1500, training accuracy: 0.980000 original loss: 4.690146 matching loss: 0.005257
+step 1500, Validation accuracy: 0.973800
+step 1600, training accuracy: 0.990000 original loss: 4.661470 matching loss: 0.005278
+step 1600, Validation accuracy: 0.970100
+step 1700, training accuracy: 1.000000 original loss: 4.654466 matching loss: 0.005349
+step 1700, Validation accuracy: 0.976600
+get new weight for 0.9766
+step 1800, training accuracy: 1.000000 original loss: 4.643655 matching loss: 0.005382
+step 1800, Validation accuracy: 0.974400
+step 1900, training accuracy: 0.970000 original loss: 4.743756 matching loss: 0.005443
+step 1900, Validation accuracy: 0.975300
+step 1999, training accuracy: 1.000000 original loss: 4.630198 matching loss: 0.005504
+step 1999, Validation accuracy: 0.976600
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.590000 original loss: 6.197980 matching loss: 0.000627
+step 0, Validation accuracy: 0.567015
+step 100, training accuracy: 0.670000 original loss: 5.934047 matching loss: 0.003832
+step 100, Validation accuracy: 0.655884
+get new weight for 0.65588367
+step 200, training accuracy: 0.680000 original loss: 5.881321 matching loss: 0.004934
+step 200, Validation accuracy: 0.661518
+get new weight for 0.6615175
+step 300, training accuracy: 0.680000 original loss: 5.795996 matching loss: 0.005407
+step 300, Validation accuracy: 0.666424
+get new weight for 0.66642433
+step 400, training accuracy: 0.710000 original loss: 5.776085 matching loss: 0.006099
+step 400, Validation accuracy: 0.667969
+get new weight for 0.6679691
+step 500, training accuracy: 0.620000 original loss: 6.100756 matching loss: 0.006746
+step 500, Validation accuracy: 0.676329
+get new weight for 0.67632896
+step 600, training accuracy: 0.740000 original loss: 5.726956 matching loss: 0.007149
+step 600, Validation accuracy: 0.680509
+get new weight for 0.68050885
+step 700, training accuracy: 0.740000 original loss: 5.580187 matching loss: 0.007644
+step 700, Validation accuracy: 0.685961
+get new weight for 0.68596095
+step 800, training accuracy: 0.730000 original loss: 5.625626 matching loss: 0.007986
+step 800, Validation accuracy: 0.681327
+step 900, training accuracy: 0.760000 original loss: 5.623077 matching loss: 0.008618
+step 900, Validation accuracy: 0.682962
+step 1000, training accuracy: 0.750000 original loss: 5.634645 matching loss: 0.009166
+step 1000, Validation accuracy: 0.693957
+get new weight for 0.69395727
+step 1100, training accuracy: 0.790000 original loss: 5.693226 matching loss: 0.009540
+step 1100, Validation accuracy: 0.691686
+step 1200, training accuracy: 0.710000 original loss: 5.771320 matching loss: 0.009949
+step 1200, Validation accuracy: 0.691958
+step 1300, training accuracy: 0.730000 original loss: 5.642733 matching loss: 0.010392
+step 1300, Validation accuracy: 0.696320
+get new weight for 0.6963199
+step 1400, training accuracy: 0.640000 original loss: 5.873078 matching loss: 0.010824
+step 1400, Validation accuracy: 0.701863
+get new weight for 0.7018628
+step 1500, training accuracy: 0.790000 original loss: 5.457114 matching loss: 0.011169
+step 1500, Validation accuracy: 0.703953
+get new weight for 0.7039527
+step 1600, training accuracy: 0.660000 original loss: 5.708943 matching loss: 0.011496
+step 1600, Validation accuracy: 0.703226
+step 1700, training accuracy: 0.710000 original loss: 5.634992 matching loss: 0.011804
+step 1700, Validation accuracy: 0.705498
+get new weight for 0.7054975
+step 1800, training accuracy: 0.710000 original loss: 5.749835 matching loss: 0.012264
+step 1800, Validation accuracy: 0.702226
+step 1900, training accuracy: 0.710000 original loss: 5.728091 matching loss: 0.012666
+step 1900, Validation accuracy: 0.702862
+step 1999, training accuracy: 0.770000 original loss: 5.451761 matching loss: 0.012964
+step 1999, Validation accuracy: 0.706497
+get new weight for 0.7064971
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.950000 original loss: 5.137287 matching loss: 0.000862
+step 0, Validation accuracy: 0.874584
+step 100, training accuracy: 0.970000 original loss: 4.817373 matching loss: 0.004600
+step 100, Validation accuracy: 0.921299
+get new weight for 0.9212985
+step 200, training accuracy: 0.960000 original loss: 4.859097 matching loss: 0.005170
+step 200, Validation accuracy: 0.926999
+get new weight for 0.9269992
+step 300, training accuracy: 0.970000 original loss: 4.855450 matching loss: 0.005868
+step 300, Validation accuracy: 0.928187
+get new weight for 0.92818683
+step 400, training accuracy: 0.940000 original loss: 4.842719 matching loss: 0.006404
+step 400, Validation accuracy: 0.931433
+get new weight for 0.9314331
+step 500, training accuracy: 0.990000 original loss: 4.791317 matching loss: 0.006982
+step 500, Validation accuracy: 0.934838
+get new weight for 0.9348377
+step 600, training accuracy: 0.980000 original loss: 4.774475 matching loss: 0.007426
+step 600, Validation accuracy: 0.935392
+get new weight for 0.9353919
+step 700, training accuracy: 0.980000 original loss: 4.871840 matching loss: 0.007822
+step 700, Validation accuracy: 0.933571
+step 800, training accuracy: 1.000000 original loss: 4.747640 matching loss: 0.008188
+step 800, Validation accuracy: 0.933492
+step 900, training accuracy: 0.990000 original loss: 4.790856 matching loss: 0.008530
+step 900, Validation accuracy: 0.938163
+get new weight for 0.9381631
+step 1000, training accuracy: 1.000000 original loss: 4.703083 matching loss: 0.008987
+step 1000, Validation accuracy: 0.934363
+step 1100, training accuracy: 0.970000 original loss: 4.817366 matching loss: 0.009198
+step 1100, Validation accuracy: 0.934838
+step 1200, training accuracy: 0.980000 original loss: 4.763838 matching loss: 0.009603
+step 1200, Validation accuracy: 0.935709
+step 1300, training accuracy: 0.980000 original loss: 4.795418 matching loss: 0.009897
+step 1300, Validation accuracy: 0.937609
+step 1400, training accuracy: 0.970000 original loss: 4.709893 matching loss: 0.010284
+step 1400, Validation accuracy: 0.941647
+get new weight for 0.9416469
+step 1500, training accuracy: 0.980000 original loss: 4.732904 matching loss: 0.010478
+step 1500, Validation accuracy: 0.938638
+step 1600, training accuracy: 0.980000 original loss: 4.720013 matching loss: 0.010543
+step 1600, Validation accuracy: 0.937371
+step 1700, training accuracy: 0.980000 original loss: 4.740368 matching loss: 0.010794
+step 1700, Validation accuracy: 0.942201
+get new weight for 0.94220114
+step 1800, training accuracy: 0.980000 original loss: 4.750795 matching loss: 0.011591
+step 1800, Validation accuracy: 0.942201
+step 1900, training accuracy: 0.990000 original loss: 4.748210 matching loss: 0.011476
+step 1900, Validation accuracy: 0.938321
+step 1999, training accuracy: 0.990000 original loss: 4.691353 matching loss: 0.011688
+step 1999, Validation accuracy: 0.940380
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.930000 original loss: 5.097876 matching loss: 0.002323
+step 0, Validation accuracy: 0.935600
+step 100, training accuracy: 0.970000 original loss: 4.720756 matching loss: 0.001360
+step 100, Validation accuracy: 0.972600
+get new weight for 0.9726
+step 200, training accuracy: 1.000000 original loss: 4.640940 matching loss: 0.001405
+step 200, Validation accuracy: 0.972900
+get new weight for 0.9729
+step 300, training accuracy: 0.980000 original loss: 4.708137 matching loss: 0.001475
+step 300, Validation accuracy: 0.975800
+get new weight for 0.9758
+step 400, training accuracy: 0.990000 original loss: 4.709716 matching loss: 0.001535
+step 400, Validation accuracy: 0.973500
+step 500, training accuracy: 0.980000 original loss: 4.681067 matching loss: 0.001589
+step 500, Validation accuracy: 0.975000
+step 600, training accuracy: 0.990000 original loss: 4.647758 matching loss: 0.001639
+step 600, Validation accuracy: 0.978700
+get new weight for 0.9787
+step 700, training accuracy: 0.990000 original loss: 4.668988 matching loss: 0.001699
+step 700, Validation accuracy: 0.974600
+step 800, training accuracy: 1.000000 original loss: 4.643020 matching loss: 0.001759
+step 800, Validation accuracy: 0.975800
+step 900, training accuracy: 0.990000 original loss: 4.650660 matching loss: 0.001830
+step 900, Validation accuracy: 0.978100
+step 1000, training accuracy: 0.950000 original loss: 4.718007 matching loss: 0.001883
+step 1000, Validation accuracy: 0.974500
+step 1100, training accuracy: 0.970000 original loss: 4.681396 matching loss: 0.001952
+step 1100, Validation accuracy: 0.978000
+step 1200, training accuracy: 0.980000 original loss: 4.664360 matching loss: 0.002044
+step 1200, Validation accuracy: 0.979300
+get new weight for 0.9793
+step 1300, training accuracy: 0.980000 original loss: 4.663013 matching loss: 0.002117
+step 1300, Validation accuracy: 0.978300
+step 1400, training accuracy: 1.000000 original loss: 4.629161 matching loss: 0.002166
+step 1400, Validation accuracy: 0.979400
+get new weight for 0.9794
+step 1500, training accuracy: 0.990000 original loss: 4.636894 matching loss: 0.002237
+step 1500, Validation accuracy: 0.979400
+step 1600, training accuracy: 0.980000 original loss: 4.735615 matching loss: 0.002294
+step 1600, Validation accuracy: 0.977300
+step 1700, training accuracy: 0.990000 original loss: 4.643003 matching loss: 0.002361
+step 1700, Validation accuracy: 0.977700
+step 1800, training accuracy: 0.970000 original loss: 4.703344 matching loss: 0.002451
+step 1800, Validation accuracy: 0.980000
+get new weight for 0.98
+step 1900, training accuracy: 1.000000 original loss: 4.622157 matching loss: 0.002519
+step 1900, Validation accuracy: 0.979100
+step 1999, training accuracy: 1.000000 original loss: 4.632410 matching loss: 0.002590
+step 1999, Validation accuracy: 0.979100
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.780000 original loss: 5.525557 matching loss: 0.000442
+step 0, Validation accuracy: 0.678873
+step 100, training accuracy: 0.680000 original loss: 5.824531 matching loss: 0.002856
+step 100, Validation accuracy: 0.697319
+get new weight for 0.6973194
+step 200, training accuracy: 0.790000 original loss: 5.527522 matching loss: 0.003494
+step 200, Validation accuracy: 0.702317
+get new weight for 0.7023171
+step 300, training accuracy: 0.700000 original loss: 5.619423 matching loss: 0.003868
+step 300, Validation accuracy: 0.702771
+get new weight for 0.7027715
+step 400, training accuracy: 0.770000 original loss: 5.495813 matching loss: 0.004268
+step 400, Validation accuracy: 0.710950
+get new weight for 0.71094954
+step 500, training accuracy: 0.730000 original loss: 5.540588 matching loss: 0.004714
+step 500, Validation accuracy: 0.712040
+get new weight for 0.71204
+step 600, training accuracy: 0.820000 original loss: 5.485198 matching loss: 0.005032
+step 600, Validation accuracy: 0.718037
+get new weight for 0.71803725
+step 700, training accuracy: 0.770000 original loss: 5.530298 matching loss: 0.005329
+step 700, Validation accuracy: 0.714039
+step 800, training accuracy: 0.760000 original loss: 5.616185 matching loss: 0.005654
+step 800, Validation accuracy: 0.719037
+get new weight for 0.7190368
+step 900, training accuracy: 0.760000 original loss: 5.591793 matching loss: 0.006001
+step 900, Validation accuracy: 0.722581
+get new weight for 0.7225807
+step 1000, training accuracy: 0.790000 original loss: 5.546213 matching loss: 0.006270
+step 1000, Validation accuracy: 0.717492
+step 1100, training accuracy: 0.720000 original loss: 5.649061 matching loss: 0.006566
+step 1100, Validation accuracy: 0.710586
+step 1200, training accuracy: 0.760000 original loss: 5.604882 matching loss: 0.006817
+step 1200, Validation accuracy: 0.722853
+get new weight for 0.72285324
+step 1300, training accuracy: 0.720000 original loss: 5.582277 matching loss: 0.007121
+step 1300, Validation accuracy: 0.721490
+step 1400, training accuracy: 0.840000 original loss: 5.402904 matching loss: 0.007246
+step 1400, Validation accuracy: 0.725579
+get new weight for 0.72557926
+step 1500, training accuracy: 0.760000 original loss: 5.549595 matching loss: 0.007598
+step 1500, Validation accuracy: 0.727851
+get new weight for 0.727851
+step 1600, training accuracy: 0.720000 original loss: 5.777568 matching loss: 0.007795
+step 1600, Validation accuracy: 0.730304
+get new weight for 0.7303044
+step 1700, training accuracy: 0.770000 original loss: 5.527338 matching loss: 0.008214
+step 1700, Validation accuracy: 0.725125
+step 1800, training accuracy: 0.770000 original loss: 5.489657 matching loss: 0.008405
+step 1800, Validation accuracy: 0.727397
+step 1900, training accuracy: 0.770000 original loss: 5.506502 matching loss: 0.008750
+step 1900, Validation accuracy: 0.731031
+get new weight for 0.73103136
+step 1999, training accuracy: 0.780000 original loss: 5.394308 matching loss: 0.009001
+step 1999, Validation accuracy: 0.731758
+get new weight for 0.7317583
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.970000 original loss: 5.084022 matching loss: 0.000541
+step 0, Validation accuracy: 0.918052
+step 100, training accuracy: 0.990000 original loss: 4.736629 matching loss: 0.003460
+step 100, Validation accuracy: 0.932383
+get new weight for 0.93238324
+step 200, training accuracy: 0.990000 original loss: 4.779487 matching loss: 0.003894
+step 200, Validation accuracy: 0.939272
+get new weight for 0.93927157
+step 300, training accuracy: 0.990000 original loss: 4.774997 matching loss: 0.004318
+step 300, Validation accuracy: 0.934521
+step 400, training accuracy: 0.990000 original loss: 4.732722 matching loss: 0.004520
+step 400, Validation accuracy: 0.937371
+step 500, training accuracy: 0.980000 original loss: 4.769286 matching loss: 0.004948
+step 500, Validation accuracy: 0.936975
+step 600, training accuracy: 0.980000 original loss: 4.738384 matching loss: 0.004965
+step 600, Validation accuracy: 0.941172
+get new weight for 0.9411718
+step 700, training accuracy: 1.000000 original loss: 4.725254 matching loss: 0.005733
+step 700, Validation accuracy: 0.943230
+get new weight for 0.9432304
+step 800, training accuracy: 1.000000 original loss: 4.716332 matching loss: 0.005813
+step 800, Validation accuracy: 0.941805
+step 900, training accuracy: 0.990000 original loss: 4.712419 matching loss: 0.005931
+step 900, Validation accuracy: 0.941172
+step 1000, training accuracy: 1.000000 original loss: 4.707022 matching loss: 0.006130
+step 1000, Validation accuracy: 0.938717
+step 1100, training accuracy: 1.000000 original loss: 4.733416 matching loss: 0.006322
+step 1100, Validation accuracy: 0.942359
+step 1200, training accuracy: 0.990000 original loss: 4.719713 matching loss: 0.006524
+step 1200, Validation accuracy: 0.939826
+step 1300, training accuracy: 0.990000 original loss: 4.723192 matching loss: 0.006769
+step 1300, Validation accuracy: 0.942597
+step 1400, training accuracy: 0.980000 original loss: 4.708387 matching loss: 0.007066
+step 1400, Validation accuracy: 0.938321
+step 1500, training accuracy: 0.980000 original loss: 4.747631 matching loss: 0.007449
+step 1500, Validation accuracy: 0.939509
+step 1600, training accuracy: 0.990000 original loss: 4.726326 matching loss: 0.007576
+step 1600, Validation accuracy: 0.940459
+step 1700, training accuracy: 1.000000 original loss: 4.674364 matching loss: 0.007478
+step 1700, Validation accuracy: 0.943230
+step 1800, training accuracy: 0.990000 original loss: 4.678291 matching loss: 0.007646
+step 1800, Validation accuracy: 0.941726
+step 1900, training accuracy: 1.000000 original loss: 4.721519 matching loss: 0.008039
+step 1900, Validation accuracy: 0.938084
+step 1999, training accuracy: 1.000000 original loss: 4.693440 matching loss: 0.007829
+step 1999, Validation accuracy: 0.944339
+get new weight for 0.94433886
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.970000 original loss: 5.053997 matching loss: 0.001893
+step 0, Validation accuracy: 0.975100
+step 100, training accuracy: 0.980000 original loss: 4.676149 matching loss: 0.001119
+step 100, Validation accuracy: 0.979200
+get new weight for 0.9792
+step 200, training accuracy: 0.990000 original loss: 4.668127 matching loss: 0.001131
+step 200, Validation accuracy: 0.978400
+step 300, training accuracy: 0.990000 original loss: 4.640364 matching loss: 0.001190
+step 300, Validation accuracy: 0.978500
+step 400, training accuracy: 0.990000 original loss: 4.636431 matching loss: 0.001200
+step 400, Validation accuracy: 0.979400
+get new weight for 0.9794
+step 500, training accuracy: 0.970000 original loss: 4.676721 matching loss: 0.001201
+step 500, Validation accuracy: 0.979600
+get new weight for 0.9796
+step 600, training accuracy: 0.970000 original loss: 4.764558 matching loss: 0.001277
+step 600, Validation accuracy: 0.978400
+step 700, training accuracy: 0.980000 original loss: 4.667110 matching loss: 0.001300
+step 700, Validation accuracy: 0.979200
+step 800, training accuracy: 1.000000 original loss: 4.625875 matching loss: 0.001346
+step 800, Validation accuracy: 0.979400
+step 900, training accuracy: 0.980000 original loss: 4.736312 matching loss: 0.001416
+step 900, Validation accuracy: 0.978200
+step 1000, training accuracy: 0.990000 original loss: 4.675040 matching loss: 0.001461
+step 1000, Validation accuracy: 0.981000
+get new weight for 0.981
+step 1100, training accuracy: 0.990000 original loss: 4.667104 matching loss: 0.001517
+step 1100, Validation accuracy: 0.978900
+step 1200, training accuracy: 0.980000 original loss: 4.649140 matching loss: 0.001535
+step 1200, Validation accuracy: 0.981500
+get new weight for 0.9815
+step 1300, training accuracy: 1.000000 original loss: 4.626604 matching loss: 0.001607
+step 1300, Validation accuracy: 0.979800
+step 1400, training accuracy: 0.980000 original loss: 4.667212 matching loss: 0.001646
+step 1400, Validation accuracy: 0.980500
+step 1500, training accuracy: 0.990000 original loss: 4.643621 matching loss: 0.001721
+step 1500, Validation accuracy: 0.979900
+step 1600, training accuracy: 0.990000 original loss: 4.651906 matching loss: 0.001776
+step 1600, Validation accuracy: 0.979200
+step 1700, training accuracy: 0.990000 original loss: 4.650538 matching loss: 0.001827
+step 1700, Validation accuracy: 0.979500
+step 1800, training accuracy: 0.970000 original loss: 4.686414 matching loss: 0.001857
+step 1800, Validation accuracy: 0.982000
+get new weight for 0.982
+step 1900, training accuracy: 0.990000 original loss: 4.660973 matching loss: 0.001912
+step 1900, Validation accuracy: 0.981500
+step 1999, training accuracy: 1.000000 original loss: 4.627835 matching loss: 0.001991
+step 1999, Validation accuracy: 0.980100
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.730000 original loss: 5.710229 matching loss: 0.000322
+step 0, Validation accuracy: 0.709950
+step 100, training accuracy: 0.820000 original loss: 5.474173 matching loss: 0.002689
+step 100, Validation accuracy: 0.725670
+get new weight for 0.72567016
+step 200, training accuracy: 0.720000 original loss: 5.524576 matching loss: 0.003288
+step 200, Validation accuracy: 0.723853
+step 300, training accuracy: 0.780000 original loss: 5.501729 matching loss: 0.003612
+step 300, Validation accuracy: 0.727851
+get new weight for 0.727851
+step 400, training accuracy: 0.810000 original loss: 5.536223 matching loss: 0.004059
+step 400, Validation accuracy: 0.729487
+get new weight for 0.7294866
+step 500, training accuracy: 0.780000 original loss: 5.546051 matching loss: 0.004328
+step 500, Validation accuracy: 0.732758
+get new weight for 0.73275787
+step 600, training accuracy: 0.840000 original loss: 5.338672 matching loss: 0.004576
+step 600, Validation accuracy: 0.734121
+get new weight for 0.73412085
+step 700, training accuracy: 0.800000 original loss: 5.454036 matching loss: 0.004769
+step 700, Validation accuracy: 0.737574
+get new weight for 0.7375738
+step 800, training accuracy: 0.800000 original loss: 5.446660 matching loss: 0.004910
+step 800, Validation accuracy: 0.736302
+step 900, training accuracy: 0.720000 original loss: 5.589242 matching loss: 0.005149
+step 900, Validation accuracy: 0.735575
+step 1000, training accuracy: 0.770000 original loss: 5.363600 matching loss: 0.005505
+step 1000, Validation accuracy: 0.734121
+step 1100, training accuracy: 0.750000 original loss: 5.407452 matching loss: 0.005684
+step 1100, Validation accuracy: 0.741118
+get new weight for 0.74111766
+step 1200, training accuracy: 0.780000 original loss: 5.552745 matching loss: 0.005816
+step 1200, Validation accuracy: 0.742662
+get new weight for 0.74266243
+step 1300, training accuracy: 0.740000 original loss: 5.664943 matching loss: 0.005979
+step 1300, Validation accuracy: 0.741935
+step 1400, training accuracy: 0.770000 original loss: 5.468005 matching loss: 0.006259
+step 1400, Validation accuracy: 0.746206
+get new weight for 0.7462063
+step 1500, training accuracy: 0.830000 original loss: 5.389106 matching loss: 0.006536
+step 1500, Validation accuracy: 0.739391
+step 1600, training accuracy: 0.750000 original loss: 5.632439 matching loss: 0.006818
+step 1600, Validation accuracy: 0.742572
+step 1700, training accuracy: 0.790000 original loss: 5.442869 matching loss: 0.006917
+step 1700, Validation accuracy: 0.741209
+step 1800, training accuracy: 0.780000 original loss: 5.341445 matching loss: 0.007087
+step 1800, Validation accuracy: 0.747115
+get new weight for 0.74711496
+step 1900, training accuracy: 0.810000 original loss: 5.344396 matching loss: 0.007462
+step 1900, Validation accuracy: 0.743571
+step 1999, training accuracy: 0.780000 original loss: 5.509827 matching loss: 0.007506
+step 1999, Validation accuracy: 0.746479
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.980000 original loss: 4.959579 matching loss: 0.000387
+step 0, Validation accuracy: 0.926603
+step 100, training accuracy: 1.000000 original loss: 4.695333 matching loss: 0.002740
+step 100, Validation accuracy: 0.935234
+get new weight for 0.9352336
+step 200, training accuracy: 0.990000 original loss: 4.681602 matching loss: 0.003416
+step 200, Validation accuracy: 0.938163
+get new weight for 0.9381631
+step 300, training accuracy: 0.980000 original loss: 4.734242 matching loss: 0.003380
+step 300, Validation accuracy: 0.940143
+get new weight for 0.9401425
+step 400, training accuracy: 1.000000 original loss: 4.712638 matching loss: 0.003702
+step 400, Validation accuracy: 0.940301
+get new weight for 0.9403009
+step 500, training accuracy: 0.990000 original loss: 4.719946 matching loss: 0.003910
+step 500, Validation accuracy: 0.942122
+get new weight for 0.9421219
+step 600, training accuracy: 1.000000 original loss: 4.690237 matching loss: 0.003969
+step 600, Validation accuracy: 0.940934
+step 700, training accuracy: 0.980000 original loss: 4.755837 matching loss: 0.004408
+step 700, Validation accuracy: 0.940855
+step 800, training accuracy: 1.000000 original loss: 4.680424 matching loss: 0.004435
+step 800, Validation accuracy: 0.943705
+get new weight for 0.94370544
+step 900, training accuracy: 1.000000 original loss: 4.701907 matching loss: 0.005678
+step 900, Validation accuracy: 0.943785
+get new weight for 0.94378465
+step 1000, training accuracy: 0.990000 original loss: 4.694946 matching loss: 0.004673
+step 1000, Validation accuracy: 0.939113
+step 1100, training accuracy: 0.990000 original loss: 4.687746 matching loss: 0.004910
+step 1100, Validation accuracy: 0.941964
+step 1200, training accuracy: 1.000000 original loss: 4.670314 matching loss: 0.004835
+step 1200, Validation accuracy: 0.945606
+get new weight for 0.9456057
+step 1300, training accuracy: 1.000000 original loss: 4.696905 matching loss: 0.004976
+step 1300, Validation accuracy: 0.942597
+step 1400, training accuracy: 0.980000 original loss: 4.720556 matching loss: 0.005122
+step 1400, Validation accuracy: 0.944814
+step 1500, training accuracy: 0.990000 original loss: 4.699667 matching loss: 0.005562
+step 1500, Validation accuracy: 0.941251
+step 1600, training accuracy: 1.000000 original loss: 4.668917 matching loss: 0.005484
+step 1600, Validation accuracy: 0.943705
+step 1700, training accuracy: 0.990000 original loss: 4.702512 matching loss: 0.006014
+step 1700, Validation accuracy: 0.945131
+step 1800, training accuracy: 1.000000 original loss: 4.668674 matching loss: 0.005828
+step 1800, Validation accuracy: 0.946081
+get new weight for 0.94608074
+step 1900, training accuracy: 0.990000 original loss: 4.667117 matching loss: 0.005943
+step 1900, Validation accuracy: 0.943785
+step 1999, training accuracy: 1.000000 original loss: 4.685619 matching loss: 0.006118
+step 1999, Validation accuracy: 0.941330
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.949892 matching loss: 0.001289
+step 0, Validation accuracy: 0.979500
+step 100, training accuracy: 0.990000 original loss: 4.666379 matching loss: 0.000818
+step 100, Validation accuracy: 0.980000
+get new weight for 0.98
+step 200, training accuracy: 1.000000 original loss: 4.618333 matching loss: 0.000820
+step 200, Validation accuracy: 0.981100
+get new weight for 0.9811
+step 300, training accuracy: 0.990000 original loss: 4.653103 matching loss: 0.000907
+step 300, Validation accuracy: 0.979600
+step 400, training accuracy: 1.000000 original loss: 4.646317 matching loss: 0.000915
+step 400, Validation accuracy: 0.980000
+step 500, training accuracy: 1.000000 original loss: 4.626321 matching loss: 0.000946
+step 500, Validation accuracy: 0.981400
+get new weight for 0.9814
+step 600, training accuracy: 0.970000 original loss: 4.680642 matching loss: 0.000968
+step 600, Validation accuracy: 0.979800
+step 700, training accuracy: 0.990000 original loss: 4.633843 matching loss: 0.000961
+step 700, Validation accuracy: 0.981600
+get new weight for 0.9816
+step 800, training accuracy: 0.990000 original loss: 4.652018 matching loss: 0.001023
+step 800, Validation accuracy: 0.980000
+step 900, training accuracy: 1.000000 original loss: 4.632123 matching loss: 0.001070
+step 900, Validation accuracy: 0.981400
+step 1000, training accuracy: 0.980000 original loss: 4.655540 matching loss: 0.001089
+step 1000, Validation accuracy: 0.980200
+step 1100, training accuracy: 1.000000 original loss: 4.624482 matching loss: 0.001134
+step 1100, Validation accuracy: 0.980700
+step 1200, training accuracy: 1.000000 original loss: 4.634448 matching loss: 0.001171
+step 1200, Validation accuracy: 0.981900
+get new weight for 0.9819
+step 1300, training accuracy: 0.980000 original loss: 4.663675 matching loss: 0.001194
+step 1300, Validation accuracy: 0.978900
+step 1400, training accuracy: 0.960000 original loss: 4.680997 matching loss: 0.001233
+step 1400, Validation accuracy: 0.981000
+step 1500, training accuracy: 1.000000 original loss: 4.625632 matching loss: 0.001314
+step 1500, Validation accuracy: 0.981900
+step 1600, training accuracy: 1.000000 original loss: 4.637425 matching loss: 0.001348
+step 1600, Validation accuracy: 0.981200
+step 1700, training accuracy: 0.980000 original loss: 4.684410 matching loss: 0.001397
+step 1700, Validation accuracy: 0.980700
+step 1800, training accuracy: 0.950000 original loss: 4.718045 matching loss: 0.001463
+step 1800, Validation accuracy: 0.978500
+step 1900, training accuracy: 0.970000 original loss: 4.667078 matching loss: 0.001474
+step 1900, Validation accuracy: 0.980500
+step 1999, training accuracy: 0.970000 original loss: 4.659506 matching loss: 0.001528
+step 1999, Validation accuracy: 0.979500
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.760000 original loss: 5.535532 matching loss: 0.000174
+step 0, Validation accuracy: 0.731395
+step 100, training accuracy: 0.800000 original loss: 5.332373 matching loss: 0.002620
+step 100, Validation accuracy: 0.738846
+get new weight for 0.738846
+step 200, training accuracy: 0.800000 original loss: 5.331336 matching loss: 0.002935
+step 200, Validation accuracy: 0.743389
+get new weight for 0.74338937
+step 300, training accuracy: 0.810000 original loss: 5.404933 matching loss: 0.003397
+step 300, Validation accuracy: 0.738573
+step 400, training accuracy: 0.820000 original loss: 5.436524 matching loss: 0.003512
+step 400, Validation accuracy: 0.743753
+get new weight for 0.74375284
+step 500, training accuracy: 0.780000 original loss: 5.477999 matching loss: 0.003784
+step 500, Validation accuracy: 0.741845
+step 600, training accuracy: 0.830000 original loss: 5.398936 matching loss: 0.003963
+step 600, Validation accuracy: 0.751931
+get new weight for 0.75193095
+step 700, training accuracy: 0.740000 original loss: 5.581894 matching loss: 0.004284
+step 700, Validation accuracy: 0.749478
+step 800, training accuracy: 0.780000 original loss: 5.394888 matching loss: 0.004581
+step 800, Validation accuracy: 0.750114
+step 900, training accuracy: 0.760000 original loss: 5.523617 matching loss: 0.004537
+step 900, Validation accuracy: 0.747388
+step 1000, training accuracy: 0.810000 original loss: 5.308838 matching loss: 0.004902
+step 1000, Validation accuracy: 0.751749
+step 1100, training accuracy: 0.850000 original loss: 5.344467 matching loss: 0.005148
+step 1100, Validation accuracy: 0.746297
+step 1200, training accuracy: 0.830000 original loss: 5.453563 matching loss: 0.005236
+step 1200, Validation accuracy: 0.749841
+step 1300, training accuracy: 0.810000 original loss: 5.397142 matching loss: 0.005386
+step 1300, Validation accuracy: 0.743571
+step 1400, training accuracy: 0.810000 original loss: 5.391085 matching loss: 0.005534
+step 1400, Validation accuracy: 0.751477
+step 1500, training accuracy: 0.770000 original loss: 5.419344 matching loss: 0.005717
+step 1500, Validation accuracy: 0.745116
+step 1600, training accuracy: 0.800000 original loss: 5.469085 matching loss: 0.005999
+step 1600, Validation accuracy: 0.748569
+step 1700, training accuracy: 0.760000 original loss: 5.495813 matching loss: 0.006128
+step 1700, Validation accuracy: 0.750295
+step 1800, training accuracy: 0.790000 original loss: 5.480665 matching loss: 0.006216
+step 1800, Validation accuracy: 0.747569
+step 1900, training accuracy: 0.780000 original loss: 5.452643 matching loss: 0.006452
+step 1900, Validation accuracy: 0.752204
+get new weight for 0.7522035
+step 1999, training accuracy: 0.800000 original loss: 5.349042 matching loss: 0.006631
+step 1999, Validation accuracy: 0.755202
+get new weight for 0.7552022
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.973115 matching loss: 0.000370
+step 0, Validation accuracy: 0.933492
+step 100, training accuracy: 0.990000 original loss: 4.726137 matching loss: 0.002398
+step 100, Validation accuracy: 0.941568
+get new weight for 0.9415677
+step 200, training accuracy: 0.990000 original loss: 4.721024 matching loss: 0.002845
+step 200, Validation accuracy: 0.944181
+get new weight for 0.94418055
+step 300, training accuracy: 0.990000 original loss: 4.685846 matching loss: 0.003214
+step 300, Validation accuracy: 0.945131
+get new weight for 0.94513065
+step 400, training accuracy: 0.990000 original loss: 4.751198 matching loss: 0.003380
+step 400, Validation accuracy: 0.945447
+get new weight for 0.9454473
+step 500, training accuracy: 0.980000 original loss: 4.776725 matching loss: 0.003750
+step 500, Validation accuracy: 0.947189
+get new weight for 0.9471892
+step 600, training accuracy: 1.000000 original loss: 4.657530 matching loss: 0.003753
+step 600, Validation accuracy: 0.945131
+step 700, training accuracy: 1.000000 original loss: 4.701378 matching loss: 0.003854
+step 700, Validation accuracy: 0.943547
+step 800, training accuracy: 0.990000 original loss: 4.689304 matching loss: 0.003833
+step 800, Validation accuracy: 0.945922
+step 900, training accuracy: 1.000000 original loss: 4.696238 matching loss: 0.004962
+step 900, Validation accuracy: 0.947506
+get new weight for 0.94750595
+step 1000, training accuracy: 1.000000 original loss: 4.698508 matching loss: 0.004423
+step 1000, Validation accuracy: 0.946556
+step 1100, training accuracy: 1.000000 original loss: 4.651949 matching loss: 0.004278
+step 1100, Validation accuracy: 0.945527
+step 1200, training accuracy: 1.000000 original loss: 4.682175 matching loss: 0.004444
+step 1200, Validation accuracy: 0.945051
+step 1300, training accuracy: 1.000000 original loss: 4.647027 matching loss: 0.004689
+step 1300, Validation accuracy: 0.947664
+get new weight for 0.9476643
+step 1400, training accuracy: 0.990000 original loss: 4.701326 matching loss: 0.004602
+step 1400, Validation accuracy: 0.948852
+get new weight for 0.94885194
+step 1500, training accuracy: 0.980000 original loss: 4.714990 matching loss: 0.004793
+step 1500, Validation accuracy: 0.947427
+step 1600, training accuracy: 0.990000 original loss: 4.683972 matching loss: 0.005032
+step 1600, Validation accuracy: 0.944735
+step 1700, training accuracy: 1.000000 original loss: 4.656704 matching loss: 0.005136
+step 1700, Validation accuracy: 0.949169
+get new weight for 0.9491686
+step 1800, training accuracy: 1.000000 original loss: 4.649089 matching loss: 0.005189
+step 1800, Validation accuracy: 0.946635
+step 1900, training accuracy: 1.000000 original loss: 4.647090 matching loss: 0.005118
+step 1900, Validation accuracy: 0.946002
+step 1999, training accuracy: 1.000000 original loss: 4.687809 matching loss: 0.005365
+step 1999, Validation accuracy: 0.949644
+get new weight for 0.94964373
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.765397 matching loss: 0.001292
+step 0, Validation accuracy: 0.979100
+step 100, training accuracy: 1.000000 original loss: 4.625632 matching loss: 0.000828
+step 100, Validation accuracy: 0.981900
+get new weight for 0.9819
+step 200, training accuracy: 1.000000 original loss: 4.641561 matching loss: 0.000833
+step 200, Validation accuracy: 0.981800
+step 300, training accuracy: 1.000000 original loss: 4.640207 matching loss: 0.000877
+step 300, Validation accuracy: 0.980600
+step 400, training accuracy: 0.990000 original loss: 4.640150 matching loss: 0.000915
+step 400, Validation accuracy: 0.981200
+step 500, training accuracy: 0.980000 original loss: 4.670402 matching loss: 0.000920
+step 500, Validation accuracy: 0.979600
+step 600, training accuracy: 0.990000 original loss: 4.632018 matching loss: 0.000945
+step 600, Validation accuracy: 0.981200
+step 700, training accuracy: 1.000000 original loss: 4.628364 matching loss: 0.001007
+step 700, Validation accuracy: 0.981400
+step 800, training accuracy: 0.990000 original loss: 4.659791 matching loss: 0.001034
+step 800, Validation accuracy: 0.981300
+step 900, training accuracy: 0.990000 original loss: 4.646960 matching loss: 0.001047
+step 900, Validation accuracy: 0.982200
+get new weight for 0.9822
+step 1000, training accuracy: 0.990000 original loss: 4.654627 matching loss: 0.001097
+step 1000, Validation accuracy: 0.980400
+step 1100, training accuracy: 1.000000 original loss: 4.620528 matching loss: 0.001113
+step 1100, Validation accuracy: 0.981400
+step 1200, training accuracy: 0.990000 original loss: 4.646466 matching loss: 0.001160
+step 1200, Validation accuracy: 0.981700
+step 1300, training accuracy: 1.000000 original loss: 4.627111 matching loss: 0.001180
+step 1300, Validation accuracy: 0.982800
+get new weight for 0.9828
+step 1400, training accuracy: 0.990000 original loss: 4.632512 matching loss: 0.001272
+step 1400, Validation accuracy: 0.982000
+step 1500, training accuracy: 1.000000 original loss: 4.617983 matching loss: 0.001290
+step 1500, Validation accuracy: 0.982100
+step 1600, training accuracy: 1.000000 original loss: 4.634740 matching loss: 0.001325
+step 1600, Validation accuracy: 0.981500
+step 1700, training accuracy: 0.990000 original loss: 4.642952 matching loss: 0.001347
+step 1700, Validation accuracy: 0.982600
+step 1800, training accuracy: 0.990000 original loss: 4.641611 matching loss: 0.001414
+step 1800, Validation accuracy: 0.981800
+step 1900, training accuracy: 1.000000 original loss: 4.622766 matching loss: 0.001447
+step 1900, Validation accuracy: 0.979800
+step 1999, training accuracy: 1.000000 original loss: 4.626676 matching loss: 0.001495
+step 1999, Validation accuracy: 0.981600
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.750000 original loss: 5.502700 matching loss: 0.000195
+step 0, Validation accuracy: 0.741390
+step 100, training accuracy: 0.780000 original loss: 5.582663 matching loss: 0.002528
+step 100, Validation accuracy: 0.750114
+get new weight for 0.7501136
+step 200, training accuracy: 0.830000 original loss: 5.335135 matching loss: 0.003007
+step 200, Validation accuracy: 0.743208
+step 300, training accuracy: 0.790000 original loss: 5.380034 matching loss: 0.003375
+step 300, Validation accuracy: 0.751386
+get new weight for 0.75138575
+step 400, training accuracy: 0.750000 original loss: 5.437517 matching loss: 0.003631
+step 400, Validation accuracy: 0.749841
+step 500, training accuracy: 0.760000 original loss: 5.565660 matching loss: 0.003689
+step 500, Validation accuracy: 0.753839
+get new weight for 0.75383914
+step 600, training accuracy: 0.800000 original loss: 5.404826 matching loss: 0.003955
+step 600, Validation accuracy: 0.753021
+step 700, training accuracy: 0.800000 original loss: 5.385199 matching loss: 0.004027
+step 700, Validation accuracy: 0.754384
+get new weight for 0.7543844
+step 800, training accuracy: 0.790000 original loss: 5.358592 matching loss: 0.004358
+step 800, Validation accuracy: 0.754021
+step 900, training accuracy: 0.760000 original loss: 5.439750 matching loss: 0.004452
+step 900, Validation accuracy: 0.755020
+get new weight for 0.75502044
+step 1000, training accuracy: 0.830000 original loss: 5.393028 matching loss: 0.004641
+step 1000, Validation accuracy: 0.754930
+step 1100, training accuracy: 0.820000 original loss: 5.349768 matching loss: 0.004762
+step 1100, Validation accuracy: 0.755384
+get new weight for 0.7553839
+step 1200, training accuracy: 0.800000 original loss: 5.353138 matching loss: 0.005064
+step 1200, Validation accuracy: 0.754748
+step 1300, training accuracy: 0.840000 original loss: 5.282274 matching loss: 0.004878
+step 1300, Validation accuracy: 0.759473
+get new weight for 0.75947297
+step 1400, training accuracy: 0.790000 original loss: 5.445273 matching loss: 0.005206
+step 1400, Validation accuracy: 0.755929
+step 1500, training accuracy: 0.760000 original loss: 5.532178 matching loss: 0.005354
+step 1500, Validation accuracy: 0.758292
+step 1600, training accuracy: 0.780000 original loss: 5.395098 matching loss: 0.005612
+step 1600, Validation accuracy: 0.757474
+step 1700, training accuracy: 0.750000 original loss: 5.623558 matching loss: 0.005659
+step 1700, Validation accuracy: 0.760291
+get new weight for 0.7602908
+step 1800, training accuracy: 0.820000 original loss: 5.424289 matching loss: 0.005801
+step 1800, Validation accuracy: 0.758655
+step 1900, training accuracy: 0.760000 original loss: 5.503923 matching loss: 0.005801
+step 1900, Validation accuracy: 0.758473
+step 1999, training accuracy: 0.710000 original loss: 5.563636 matching loss: 0.006042
+step 1999, Validation accuracy: 0.758928
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.856307 matching loss: 0.000281
+step 0, Validation accuracy: 0.940855
+step 100, training accuracy: 1.000000 original loss: 4.693962 matching loss: 0.002239
+step 100, Validation accuracy: 0.946635
+get new weight for 0.946635
+step 200, training accuracy: 0.990000 original loss: 4.710176 matching loss: 0.002514
+step 200, Validation accuracy: 0.943151
+step 300, training accuracy: 0.990000 original loss: 4.689781 matching loss: 0.002629
+step 300, Validation accuracy: 0.944022
+step 400, training accuracy: 0.990000 original loss: 4.715260 matching loss: 0.003127
+step 400, Validation accuracy: 0.945447
+step 500, training accuracy: 0.990000 original loss: 4.680976 matching loss: 0.002907
+step 500, Validation accuracy: 0.944656
+step 600, training accuracy: 1.000000 original loss: 4.654116 matching loss: 0.003378
+step 600, Validation accuracy: 0.946002
+step 700, training accuracy: 1.000000 original loss: 4.683452 matching loss: 0.003305
+step 700, Validation accuracy: 0.946635
+step 800, training accuracy: 1.000000 original loss: 4.649634 matching loss: 0.003378
+step 800, Validation accuracy: 0.945764
+step 900, training accuracy: 0.990000 original loss: 4.666453 matching loss: 0.003526
+step 900, Validation accuracy: 0.948298
+get new weight for 0.9482977
+step 1000, training accuracy: 1.000000 original loss: 4.668854 matching loss: 0.003510
+step 1000, Validation accuracy: 0.949881
+get new weight for 0.94988126
+step 1100, training accuracy: 0.990000 original loss: 4.684654 matching loss: 0.003550
+step 1100, Validation accuracy: 0.948694
+step 1200, training accuracy: 1.000000 original loss: 4.646369 matching loss: 0.003615
+step 1200, Validation accuracy: 0.947189
+step 1300, training accuracy: 1.000000 original loss: 4.676541 matching loss: 0.003714
+step 1300, Validation accuracy: 0.947427
+step 1400, training accuracy: 0.990000 original loss: 4.680796 matching loss: 0.003854
+step 1400, Validation accuracy: 0.949169
+step 1500, training accuracy: 1.000000 original loss: 4.672961 matching loss: 0.003989
+step 1500, Validation accuracy: 0.950277
+get new weight for 0.9502771
+step 1600, training accuracy: 1.000000 original loss: 4.667513 matching loss: 0.004028
+step 1600, Validation accuracy: 0.949723
+step 1700, training accuracy: 1.000000 original loss: 4.661839 matching loss: 0.004283
+step 1700, Validation accuracy: 0.947664
+step 1800, training accuracy: 1.000000 original loss: 4.660582 matching loss: 0.004482
+step 1800, Validation accuracy: 0.950198
+step 1900, training accuracy: 1.000000 original loss: 4.654117 matching loss: 0.004430
+step 1900, Validation accuracy: 0.951861
+get new weight for 0.95186067
+step 1999, training accuracy: 1.000000 original loss: 4.647253 matching loss: 0.004515
+step 1999, Validation accuracy: 0.950594
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.980000 original loss: 4.771814 matching loss: 0.001064
+step 0, Validation accuracy: 0.980200
+step 100, training accuracy: 1.000000 original loss: 4.634210 matching loss: 0.000692
+step 100, Validation accuracy: 0.980600
+get new weight for 0.9806
+step 200, training accuracy: 1.000000 original loss: 4.629306 matching loss: 0.000717
+step 200, Validation accuracy: 0.981800
+get new weight for 0.9818
+step 300, training accuracy: 0.970000 original loss: 4.665722 matching loss: 0.000752
+step 300, Validation accuracy: 0.981400
+step 400, training accuracy: 0.990000 original loss: 4.636797 matching loss: 0.000784
+step 400, Validation accuracy: 0.980300
+step 500, training accuracy: 0.990000 original loss: 4.655705 matching loss: 0.000805
+step 500, Validation accuracy: 0.981900
+get new weight for 0.9819
+step 600, training accuracy: 0.990000 original loss: 4.640989 matching loss: 0.000863
+step 600, Validation accuracy: 0.981700
+step 700, training accuracy: 0.990000 original loss: 4.658873 matching loss: 0.000891
+step 700, Validation accuracy: 0.982200
+get new weight for 0.9822
+step 800, training accuracy: 0.980000 original loss: 4.676062 matching loss: 0.000909
+step 800, Validation accuracy: 0.979700
+step 900, training accuracy: 1.000000 original loss: 4.622768 matching loss: 0.000915
+step 900, Validation accuracy: 0.982500
+get new weight for 0.9825
+step 1000, training accuracy: 0.980000 original loss: 4.646633 matching loss: 0.000958
+step 1000, Validation accuracy: 0.982200
+step 1100, training accuracy: 1.000000 original loss: 4.628899 matching loss: 0.000994
+step 1100, Validation accuracy: 0.982100
+step 1200, training accuracy: 1.000000 original loss: 4.620035 matching loss: 0.001019
+step 1200, Validation accuracy: 0.982200
+step 1300, training accuracy: 1.000000 original loss: 4.626935 matching loss: 0.001105
+step 1300, Validation accuracy: 0.982600
+get new weight for 0.9826
+step 1400, training accuracy: 0.970000 original loss: 4.672464 matching loss: 0.001094
+step 1400, Validation accuracy: 0.983000
+get new weight for 0.983
+step 1500, training accuracy: 1.000000 original loss: 4.615173 matching loss: 0.001150
+step 1500, Validation accuracy: 0.982800
+step 1600, training accuracy: 0.980000 original loss: 4.662489 matching loss: 0.001180
+step 1600, Validation accuracy: 0.982400
+step 1700, training accuracy: 1.000000 original loss: 4.625483 matching loss: 0.001234
+step 1700, Validation accuracy: 0.981700
+step 1800, training accuracy: 0.990000 original loss: 4.655147 matching loss: 0.001277
+step 1800, Validation accuracy: 0.982200
+step 1900, training accuracy: 0.980000 original loss: 4.662050 matching loss: 0.001299
+step 1900, Validation accuracy: 0.981300
+step 1999, training accuracy: 1.000000 original loss: 4.620049 matching loss: 0.001292
+step 1999, Validation accuracy: 0.982700
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.770000 original loss: 5.553976 matching loss: 0.000185
+step 0, Validation accuracy: 0.749296
+step 100, training accuracy: 0.800000 original loss: 5.423419 matching loss: 0.002534
+step 100, Validation accuracy: 0.757565
+get new weight for 0.7575647
+step 200, training accuracy: 0.770000 original loss: 5.454477 matching loss: 0.003075
+step 200, Validation accuracy: 0.753112
+step 300, training accuracy: 0.750000 original loss: 5.673689 matching loss: 0.003277
+step 300, Validation accuracy: 0.748024
+step 400, training accuracy: 0.830000 original loss: 5.229802 matching loss: 0.003568
+step 400, Validation accuracy: 0.758110
+get new weight for 0.7581099
+step 500, training accuracy: 0.820000 original loss: 5.481033 matching loss: 0.003791
+step 500, Validation accuracy: 0.757474
+step 600, training accuracy: 0.780000 original loss: 5.513129 matching loss: 0.003998
+step 600, Validation accuracy: 0.761926
+get new weight for 0.7619264
+step 700, training accuracy: 0.840000 original loss: 5.391209 matching loss: 0.004129
+step 700, Validation accuracy: 0.756838
+step 800, training accuracy: 0.810000 original loss: 5.569997 matching loss: 0.004295
+step 800, Validation accuracy: 0.762926
+get new weight for 0.7629259
+step 900, training accuracy: 0.790000 original loss: 5.413795 matching loss: 0.004368
+step 900, Validation accuracy: 0.756383
+step 1000, training accuracy: 0.790000 original loss: 5.463065 matching loss: 0.004505
+step 1000, Validation accuracy: 0.761018
+step 1100, training accuracy: 0.790000 original loss: 5.341931 matching loss: 0.004629
+step 1100, Validation accuracy: 0.766015
+get new weight for 0.76601547
+step 1200, training accuracy: 0.730000 original loss: 5.435184 matching loss: 0.004747
+step 1200, Validation accuracy: 0.757656
+step 1300, training accuracy: 0.810000 original loss: 5.303895 matching loss: 0.004794
+step 1300, Validation accuracy: 0.762653
+step 1400, training accuracy: 0.820000 original loss: 5.331517 matching loss: 0.005033
+step 1400, Validation accuracy: 0.764652
+step 1500, training accuracy: 0.830000 original loss: 5.324248 matching loss: 0.005109
+step 1500, Validation accuracy: 0.758110
+step 1600, training accuracy: 0.830000 original loss: 5.337426 matching loss: 0.005257
+step 1600, Validation accuracy: 0.761654
+step 1700, training accuracy: 0.800000 original loss: 5.403464 matching loss: 0.005413
+step 1700, Validation accuracy: 0.762108
+step 1800, training accuracy: 0.800000 original loss: 5.461121 matching loss: 0.005616
+step 1800, Validation accuracy: 0.766924
+get new weight for 0.76692414
+step 1900, training accuracy: 0.700000 original loss: 5.627542 matching loss: 0.005686
+step 1900, Validation accuracy: 0.762290
+step 1999, training accuracy: 0.880000 original loss: 5.142300 matching loss: 0.005751
+step 1999, Validation accuracy: 0.765198
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.760629 matching loss: 0.000279
+step 0, Validation accuracy: 0.942439
+step 100, training accuracy: 1.000000 original loss: 4.659473 matching loss: 0.002200
+step 100, Validation accuracy: 0.947427
+get new weight for 0.94742674
+step 200, training accuracy: 1.000000 original loss: 4.675387 matching loss: 0.002339
+step 200, Validation accuracy: 0.946160
+step 300, training accuracy: 1.000000 original loss: 4.667925 matching loss: 0.002498
+step 300, Validation accuracy: 0.942518
+step 400, training accuracy: 0.990000 original loss: 4.683978 matching loss: 0.002672
+step 400, Validation accuracy: 0.948535
+get new weight for 0.9485352
+step 500, training accuracy: 1.000000 original loss: 4.671726 matching loss: 0.002880
+step 500, Validation accuracy: 0.950040
+get new weight for 0.95003957
+step 600, training accuracy: 0.990000 original loss: 4.671749 matching loss: 0.002843
+step 600, Validation accuracy: 0.949723
+step 700, training accuracy: 1.000000 original loss: 4.653619 matching loss: 0.003169
+step 700, Validation accuracy: 0.949485
+step 800, training accuracy: 1.000000 original loss: 4.661750 matching loss: 0.003106
+step 800, Validation accuracy: 0.949248
+step 900, training accuracy: 0.990000 original loss: 4.685271 matching loss: 0.003299
+step 900, Validation accuracy: 0.948773
+step 1000, training accuracy: 1.000000 original loss: 4.650574 matching loss: 0.003456
+step 1000, Validation accuracy: 0.948139
+step 1100, training accuracy: 1.000000 original loss: 4.662754 matching loss: 0.003610
+step 1100, Validation accuracy: 0.947031
+step 1200, training accuracy: 1.000000 original loss: 4.672873 matching loss: 0.003439
+step 1200, Validation accuracy: 0.949802
+step 1300, training accuracy: 1.000000 original loss: 4.643947 matching loss: 0.003684
+step 1300, Validation accuracy: 0.949406
+step 1400, training accuracy: 1.000000 original loss: 4.653195 matching loss: 0.003619
+step 1400, Validation accuracy: 0.950198
+get new weight for 0.95019794
+step 1500, training accuracy: 1.000000 original loss: 4.668786 matching loss: 0.003864
+step 1500, Validation accuracy: 0.949485
+step 1600, training accuracy: 1.000000 original loss: 4.657443 matching loss: 0.003954
+step 1600, Validation accuracy: 0.950594
+get new weight for 0.9505938
+step 1700, training accuracy: 1.000000 original loss: 4.647158 matching loss: 0.003828
+step 1700, Validation accuracy: 0.950990
+get new weight for 0.9509897
+step 1800, training accuracy: 1.000000 original loss: 4.663959 matching loss: 0.003962
+step 1800, Validation accuracy: 0.949248
+step 1900, training accuracy: 1.000000 original loss: 4.666500 matching loss: 0.004204
+step 1900, Validation accuracy: 0.950594
+step 1999, training accuracy: 1.000000 original loss: 4.650959 matching loss: 0.004259
+step 1999, Validation accuracy: 0.950752
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.980000 original loss: 4.756027 matching loss: 0.000867
+step 0, Validation accuracy: 0.982200
+step 100, training accuracy: 0.980000 original loss: 4.644550 matching loss: 0.000605
+step 100, Validation accuracy: 0.981400
+step 200, training accuracy: 1.000000 original loss: 4.623461 matching loss: 0.000626
+step 200, Validation accuracy: 0.982900
+get new weight for 0.9829
+step 300, training accuracy: 0.980000 original loss: 4.720912 matching loss: 0.000635
+step 300, Validation accuracy: 0.981300
+step 400, training accuracy: 1.000000 original loss: 4.622554 matching loss: 0.000672
+step 400, Validation accuracy: 0.982800
+step 500, training accuracy: 0.980000 original loss: 4.722268 matching loss: 0.000720
+step 500, Validation accuracy: 0.981000
+step 600, training accuracy: 1.000000 original loss: 4.622054 matching loss: 0.000714
+step 600, Validation accuracy: 0.981400
+step 700, training accuracy: 1.000000 original loss: 4.620996 matching loss: 0.000728
+step 700, Validation accuracy: 0.980900
+step 800, training accuracy: 0.990000 original loss: 4.626953 matching loss: 0.000806
+step 800, Validation accuracy: 0.980700
+step 900, training accuracy: 0.990000 original loss: 4.630417 matching loss: 0.000852
+step 900, Validation accuracy: 0.981800
+step 1000, training accuracy: 1.000000 original loss: 4.617346 matching loss: 0.000841
+step 1000, Validation accuracy: 0.983400
+get new weight for 0.9834
+step 1100, training accuracy: 0.990000 original loss: 4.629490 matching loss: 0.000905
+step 1100, Validation accuracy: 0.983200
+step 1200, training accuracy: 0.980000 original loss: 4.697226 matching loss: 0.000901
+step 1200, Validation accuracy: 0.982100
+step 1300, training accuracy: 1.000000 original loss: 4.623102 matching loss: 0.000985
+step 1300, Validation accuracy: 0.982100
+step 1400, training accuracy: 1.000000 original loss: 4.627925 matching loss: 0.000988
+step 1400, Validation accuracy: 0.982900
+step 1500, training accuracy: 1.000000 original loss: 4.617124 matching loss: 0.000984
+step 1500, Validation accuracy: 0.982800
+step 1600, training accuracy: 0.990000 original loss: 4.644079 matching loss: 0.001024
+step 1600, Validation accuracy: 0.981700
+step 1700, training accuracy: 0.990000 original loss: 4.703595 matching loss: 0.001076
+step 1700, Validation accuracy: 0.982100
+step 1800, training accuracy: 0.980000 original loss: 4.657892 matching loss: 0.001107
+step 1800, Validation accuracy: 0.981100
+step 1900, training accuracy: 1.000000 original loss: 4.625703 matching loss: 0.001124
+step 1900, Validation accuracy: 0.983400
+step 1999, training accuracy: 1.000000 original loss: 4.631053 matching loss: 0.001164
+step 1999, Validation accuracy: 0.983200
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.810000 original loss: 5.541287 matching loss: 0.000119
+step 0, Validation accuracy: 0.753567
+step 100, training accuracy: 0.860000 original loss: 5.229191 matching loss: 0.002464
+step 100, Validation accuracy: 0.759655
+get new weight for 0.7596547
+step 200, training accuracy: 0.770000 original loss: 5.497372 matching loss: 0.002964
+step 200, Validation accuracy: 0.760018
+get new weight for 0.76001817
+step 300, training accuracy: 0.820000 original loss: 5.269384 matching loss: 0.003213
+step 300, Validation accuracy: 0.756383
+step 400, training accuracy: 0.780000 original loss: 5.342612 matching loss: 0.003393
+step 400, Validation accuracy: 0.759382
+step 500, training accuracy: 0.770000 original loss: 5.389629 matching loss: 0.003688
+step 500, Validation accuracy: 0.761563
+get new weight for 0.76156294
+step 600, training accuracy: 0.860000 original loss: 5.291986 matching loss: 0.003759
+step 600, Validation accuracy: 0.763108
+get new weight for 0.76310766
+step 700, training accuracy: 0.840000 original loss: 5.298602 matching loss: 0.003944
+step 700, Validation accuracy: 0.761745
+step 800, training accuracy: 0.830000 original loss: 5.374806 matching loss: 0.004072
+step 800, Validation accuracy: 0.765198
+get new weight for 0.76519763
+step 900, training accuracy: 0.710000 original loss: 5.691611 matching loss: 0.004233
+step 900, Validation accuracy: 0.761199
+step 1000, training accuracy: 0.850000 original loss: 5.390857 matching loss: 0.004403
+step 1000, Validation accuracy: 0.765016
+step 1100, training accuracy: 0.810000 original loss: 5.363382 matching loss: 0.004545
+step 1100, Validation accuracy: 0.765198
+step 1200, training accuracy: 0.830000 original loss: 5.338727 matching loss: 0.004783
+step 1200, Validation accuracy: 0.765925
+get new weight for 0.7659246
+step 1300, training accuracy: 0.830000 original loss: 5.422117 matching loss: 0.004614
+step 1300, Validation accuracy: 0.767378
+get new weight for 0.76737845
+step 1400, training accuracy: 0.860000 original loss: 5.263237 matching loss: 0.004702
+step 1400, Validation accuracy: 0.768469
+get new weight for 0.76846886
+step 1500, training accuracy: 0.780000 original loss: 5.419315 matching loss: 0.004945
+step 1500, Validation accuracy: 0.765198
+step 1600, training accuracy: 0.870000 original loss: 5.387386 matching loss: 0.005033
+step 1600, Validation accuracy: 0.764107
+step 1700, training accuracy: 0.790000 original loss: 5.387959 matching loss: 0.005046
+step 1700, Validation accuracy: 0.765198
+step 1800, training accuracy: 0.780000 original loss: 5.396227 matching loss: 0.005315
+step 1800, Validation accuracy: 0.766652
+step 1900, training accuracy: 0.860000 original loss: 5.320182 matching loss: 0.005435
+step 1900, Validation accuracy: 0.766288
+step 1999, training accuracy: 0.800000 original loss: 5.419270 matching loss: 0.005579
+step 1999, Validation accuracy: 0.765107
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.744139 matching loss: 0.000197
+step 0, Validation accuracy: 0.943547
+step 100, training accuracy: 1.000000 original loss: 4.651760 matching loss: 0.001805
+step 100, Validation accuracy: 0.947268
+get new weight for 0.9472684
+step 200, training accuracy: 1.000000 original loss: 4.665382 matching loss: 0.002001
+step 200, Validation accuracy: 0.946002
+step 300, training accuracy: 1.000000 original loss: 4.669833 matching loss: 0.002249
+step 300, Validation accuracy: 0.947902
+get new weight for 0.94790184
+step 400, training accuracy: 0.980000 original loss: 4.699683 matching loss: 0.002446
+step 400, Validation accuracy: 0.950040
+get new weight for 0.95003957
+step 500, training accuracy: 1.000000 original loss: 4.675886 matching loss: 0.002632
+step 500, Validation accuracy: 0.948852
+step 600, training accuracy: 0.990000 original loss: 4.678970 matching loss: 0.002632
+step 600, Validation accuracy: 0.951227
+get new weight for 0.95122725
+step 700, training accuracy: 1.000000 original loss: 4.666272 matching loss: 0.002571
+step 700, Validation accuracy: 0.951544
+get new weight for 0.9515439
+step 800, training accuracy: 1.000000 original loss: 4.642930 matching loss: 0.002816
+step 800, Validation accuracy: 0.949960
+step 900, training accuracy: 1.000000 original loss: 4.667834 matching loss: 0.002880
+step 900, Validation accuracy: 0.951227
+step 1000, training accuracy: 1.000000 original loss: 4.652900 matching loss: 0.002991
+step 1000, Validation accuracy: 0.949169
+step 1100, training accuracy: 1.000000 original loss: 4.664893 matching loss: 0.003276
+step 1100, Validation accuracy: 0.950356
+step 1200, training accuracy: 1.000000 original loss: 4.662176 matching loss: 0.003191
+step 1200, Validation accuracy: 0.952098
+get new weight for 0.9520982
+step 1300, training accuracy: 0.990000 original loss: 4.650939 matching loss: 0.003017
+step 1300, Validation accuracy: 0.953365
+get new weight for 0.953365
+step 1400, training accuracy: 1.000000 original loss: 4.649147 matching loss: 0.003252
+step 1400, Validation accuracy: 0.951623
+step 1500, training accuracy: 0.990000 original loss: 4.649712 matching loss: 0.003214
+step 1500, Validation accuracy: 0.952732
+step 1600, training accuracy: 0.980000 original loss: 4.707401 matching loss: 0.003716
+step 1600, Validation accuracy: 0.951069
+step 1700, training accuracy: 1.000000 original loss: 4.650095 matching loss: 0.003519
+step 1700, Validation accuracy: 0.950911
+step 1800, training accuracy: 1.000000 original loss: 4.653339 matching loss: 0.003438
+step 1800, Validation accuracy: 0.953761
+get new weight for 0.95376086
+step 1900, training accuracy: 1.000000 original loss: 4.642464 matching loss: 0.003656
+step 1900, Validation accuracy: 0.950911
+step 1999, training accuracy: 1.000000 original loss: 4.653708 matching loss: 0.003629
+step 1999, Validation accuracy: 0.951465
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.980000 original loss: 4.737509 matching loss: 0.000780
+step 0, Validation accuracy: 0.981500
+step 100, training accuracy: 0.990000 original loss: 4.652507 matching loss: 0.000519
+step 100, Validation accuracy: 0.982300
+get new weight for 0.9823
+step 200, training accuracy: 0.980000 original loss: 4.654536 matching loss: 0.000565
+step 200, Validation accuracy: 0.981500
+step 300, training accuracy: 0.970000 original loss: 4.681635 matching loss: 0.000581
+step 300, Validation accuracy: 0.983300
+get new weight for 0.9833
+step 400, training accuracy: 0.990000 original loss: 4.643490 matching loss: 0.000638
+step 400, Validation accuracy: 0.982400
+step 500, training accuracy: 0.990000 original loss: 4.638579 matching loss: 0.000678
+step 500, Validation accuracy: 0.980700
+step 600, training accuracy: 1.000000 original loss: 4.631266 matching loss: 0.000670
+step 600, Validation accuracy: 0.982600
+step 700, training accuracy: 1.000000 original loss: 4.618157 matching loss: 0.000701
+step 700, Validation accuracy: 0.982500
+step 800, training accuracy: 1.000000 original loss: 4.620657 matching loss: 0.000762
+step 800, Validation accuracy: 0.982000
+step 900, training accuracy: 1.000000 original loss: 4.619975 matching loss: 0.000780
+step 900, Validation accuracy: 0.982500
+step 1000, training accuracy: 0.990000 original loss: 4.642093 matching loss: 0.000788
+step 1000, Validation accuracy: 0.982700
+step 1100, training accuracy: 0.990000 original loss: 4.647543 matching loss: 0.000810
+step 1100, Validation accuracy: 0.980800
+step 1200, training accuracy: 0.980000 original loss: 4.666454 matching loss: 0.000867
+step 1200, Validation accuracy: 0.980900
+step 1300, training accuracy: 0.990000 original loss: 4.633885 matching loss: 0.000888
+step 1300, Validation accuracy: 0.982600
+step 1400, training accuracy: 0.980000 original loss: 4.644598 matching loss: 0.000920
+step 1400, Validation accuracy: 0.982500
+step 1500, training accuracy: 1.000000 original loss: 4.626686 matching loss: 0.000962
+step 1500, Validation accuracy: 0.983700
+get new weight for 0.9837
+step 1600, training accuracy: 0.970000 original loss: 4.683626 matching loss: 0.000999
+step 1600, Validation accuracy: 0.984000
+get new weight for 0.984
+step 1700, training accuracy: 1.000000 original loss: 4.614490 matching loss: 0.000975
+step 1700, Validation accuracy: 0.983900
+step 1800, training accuracy: 1.000000 original loss: 4.614354 matching loss: 0.001036
+step 1800, Validation accuracy: 0.982900
+step 1900, training accuracy: 1.000000 original loss: 4.619074 matching loss: 0.001054
+step 1900, Validation accuracy: 0.984000
+step 1999, training accuracy: 1.000000 original loss: 4.621438 matching loss: 0.001084
+step 1999, Validation accuracy: 0.981800
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.810000 original loss: 5.318717 matching loss: 0.000177
+step 0, Validation accuracy: 0.760563
+step 100, training accuracy: 0.810000 original loss: 5.305806 matching loss: 0.002479
+step 100, Validation accuracy: 0.762835
+get new weight for 0.7628351
+step 200, training accuracy: 0.780000 original loss: 5.447732 matching loss: 0.003083
+step 200, Validation accuracy: 0.766561
+get new weight for 0.7665607
+step 300, training accuracy: 0.820000 original loss: 5.242961 matching loss: 0.003265
+step 300, Validation accuracy: 0.765107
+step 400, training accuracy: 0.790000 original loss: 5.353942 matching loss: 0.003552
+step 400, Validation accuracy: 0.766652
+get new weight for 0.7666515
+step 500, training accuracy: 0.780000 original loss: 5.507394 matching loss: 0.003698
+step 500, Validation accuracy: 0.766833
+get new weight for 0.76683325
+step 600, training accuracy: 0.780000 original loss: 5.355170 matching loss: 0.003781
+step 600, Validation accuracy: 0.761290
+step 700, training accuracy: 0.780000 original loss: 5.321855 matching loss: 0.003975
+step 700, Validation accuracy: 0.765198
+step 800, training accuracy: 0.890000 original loss: 5.213290 matching loss: 0.004006
+step 800, Validation accuracy: 0.762562
+step 900, training accuracy: 0.770000 original loss: 5.356689 matching loss: 0.004163
+step 900, Validation accuracy: 0.766561
+step 1000, training accuracy: 0.790000 original loss: 5.427063 matching loss: 0.004407
+step 1000, Validation accuracy: 0.766288
+step 1100, training accuracy: 0.830000 original loss: 5.296585 matching loss: 0.004492
+step 1100, Validation accuracy: 0.765743
+step 1200, training accuracy: 0.830000 original loss: 5.364985 matching loss: 0.004624
+step 1200, Validation accuracy: 0.769559
+get new weight for 0.76955926
+step 1300, training accuracy: 0.800000 original loss: 5.373332 matching loss: 0.004788
+step 1300, Validation accuracy: 0.766288
+step 1400, training accuracy: 0.860000 original loss: 5.204030 matching loss: 0.004958
+step 1400, Validation accuracy: 0.762381
+step 1500, training accuracy: 0.820000 original loss: 5.332209 matching loss: 0.004987
+step 1500, Validation accuracy: 0.768378
+step 1600, training accuracy: 0.820000 original loss: 5.300454 matching loss: 0.004992
+step 1600, Validation accuracy: 0.773467
+get new weight for 0.7734666
+step 1700, training accuracy: 0.820000 original loss: 5.240217 matching loss: 0.005075
+step 1700, Validation accuracy: 0.771377
+step 1800, training accuracy: 0.850000 original loss: 5.264310 matching loss: 0.005259
+step 1800, Validation accuracy: 0.769468
+step 1900, training accuracy: 0.830000 original loss: 5.366160 matching loss: 0.005417
+step 1900, Validation accuracy: 0.770650
+step 1999, training accuracy: 0.790000 original loss: 5.410135 matching loss: 0.005570
+step 1999, Validation accuracy: 0.773921
+get new weight for 0.77392095
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.877135 matching loss: 0.000296
+step 0, Validation accuracy: 0.945685
+step 100, training accuracy: 1.000000 original loss: 4.656934 matching loss: 0.001994
+step 100, Validation accuracy: 0.950831
+get new weight for 0.95083135
+step 200, training accuracy: 1.000000 original loss: 4.671926 matching loss: 0.002080
+step 200, Validation accuracy: 0.950990
+get new weight for 0.9509897
+step 300, training accuracy: 1.000000 original loss: 4.651546 matching loss: 0.002460
+step 300, Validation accuracy: 0.950198
+step 400, training accuracy: 1.000000 original loss: 4.652041 matching loss: 0.002649
+step 400, Validation accuracy: 0.950435
+step 500, training accuracy: 1.000000 original loss: 4.657268 matching loss: 0.002699
+step 500, Validation accuracy: 0.953682
+get new weight for 0.9536817
+step 600, training accuracy: 1.000000 original loss: 4.651695 matching loss: 0.002662
+step 600, Validation accuracy: 0.950990
+step 700, training accuracy: 0.990000 original loss: 4.660113 matching loss: 0.002869
+step 700, Validation accuracy: 0.952415
+step 800, training accuracy: 0.990000 original loss: 4.682352 matching loss: 0.002874
+step 800, Validation accuracy: 0.950911
+step 900, training accuracy: 1.000000 original loss: 4.662944 matching loss: 0.003093
+step 900, Validation accuracy: 0.950831
+step 1000, training accuracy: 1.000000 original loss: 4.645603 matching loss: 0.003012
+step 1000, Validation accuracy: 0.952177
+step 1100, training accuracy: 1.000000 original loss: 4.658399 matching loss: 0.003048
+step 1100, Validation accuracy: 0.950911
+step 1200, training accuracy: 1.000000 original loss: 4.645245 matching loss: 0.003120
+step 1200, Validation accuracy: 0.948060
+step 1300, training accuracy: 1.000000 original loss: 4.636767 matching loss: 0.003267
+step 1300, Validation accuracy: 0.951544
+step 1400, training accuracy: 1.000000 original loss: 4.640648 matching loss: 0.003226
+step 1400, Validation accuracy: 0.951069
+step 1500, training accuracy: 0.990000 original loss: 4.676121 matching loss: 0.003483
+step 1500, Validation accuracy: 0.951702
+step 1600, training accuracy: 1.000000 original loss: 4.644279 matching loss: 0.003525
+step 1600, Validation accuracy: 0.953286
+step 1700, training accuracy: 1.000000 original loss: 4.649593 matching loss: 0.003456
+step 1700, Validation accuracy: 0.951702
+step 1800, training accuracy: 1.000000 original loss: 4.648161 matching loss: 0.003469
+step 1800, Validation accuracy: 0.952257
+step 1900, training accuracy: 1.000000 original loss: 4.642061 matching loss: 0.003468
+step 1900, Validation accuracy: 0.952573
+step 1999, training accuracy: 1.000000 original loss: 4.647361 matching loss: 0.003646
+step 1999, Validation accuracy: 0.950831
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.682011 matching loss: 0.000266
+step 0, Validation accuracy: 0.981700
+step 100, training accuracy: 1.000000 original loss: 4.618083 matching loss: 0.000311
+step 100, Validation accuracy: 0.982200
+get new weight for 0.9822
+step 200, training accuracy: 0.970000 original loss: 4.686199 matching loss: 0.000353
+step 200, Validation accuracy: 0.982800
+get new weight for 0.9828
+step 300, training accuracy: 1.000000 original loss: 4.626891 matching loss: 0.000387
+step 300, Validation accuracy: 0.982700
+step 400, training accuracy: 0.990000 original loss: 4.656955 matching loss: 0.000396
+step 400, Validation accuracy: 0.983500
+get new weight for 0.9835
+step 500, training accuracy: 0.990000 original loss: 4.635962 matching loss: 0.000432
+step 500, Validation accuracy: 0.982700
+step 600, training accuracy: 0.990000 original loss: 4.643588 matching loss: 0.000471
+step 600, Validation accuracy: 0.982600
+step 700, training accuracy: 1.000000 original loss: 4.615147 matching loss: 0.000473
+step 700, Validation accuracy: 0.984200
+get new weight for 0.9842
+step 800, training accuracy: 1.000000 original loss: 4.623980 matching loss: 0.000524
+step 800, Validation accuracy: 0.981600
+step 900, training accuracy: 0.990000 original loss: 4.662324 matching loss: 0.000613
+step 900, Validation accuracy: 0.982800
+step 1000, training accuracy: 0.990000 original loss: 4.627753 matching loss: 0.000593
+step 1000, Validation accuracy: 0.983600
+step 1100, training accuracy: 0.990000 original loss: 4.621640 matching loss: 0.000628
+step 1100, Validation accuracy: 0.984600
+get new weight for 0.9846
+step 1200, training accuracy: 1.000000 original loss: 4.616014 matching loss: 0.000655
+step 1200, Validation accuracy: 0.984700
+get new weight for 0.9847
+step 1300, training accuracy: 1.000000 original loss: 4.636519 matching loss: 0.000681
+step 1300, Validation accuracy: 0.981600
+step 1400, training accuracy: 1.000000 original loss: 4.616737 matching loss: 0.000692
+step 1400, Validation accuracy: 0.982500
+step 1500, training accuracy: 0.990000 original loss: 4.639079 matching loss: 0.000727
+step 1500, Validation accuracy: 0.983000
+step 1600, training accuracy: 0.970000 original loss: 4.650847 matching loss: 0.000797
+step 1600, Validation accuracy: 0.982900
+step 1700, training accuracy: 1.000000 original loss: 4.637554 matching loss: 0.000790
+step 1700, Validation accuracy: 0.983000
+step 1800, training accuracy: 1.000000 original loss: 4.617085 matching loss: 0.000854
+step 1800, Validation accuracy: 0.982300
+step 1900, training accuracy: 0.980000 original loss: 4.632949 matching loss: 0.000855
+step 1900, Validation accuracy: 0.982600
+step 1999, training accuracy: 1.000000 original loss: 4.618462 matching loss: 0.000917
+step 1999, Validation accuracy: 0.982800
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.760000 original loss: 5.517660 matching loss: 0.000114
+step 0, Validation accuracy: 0.765834
+step 100, training accuracy: 0.840000 original loss: 5.305071 matching loss: 0.002377
+step 100, Validation accuracy: 0.768651
+get new weight for 0.7686506
+step 200, training accuracy: 0.790000 original loss: 5.295025 matching loss: 0.002680
+step 200, Validation accuracy: 0.767833
+step 300, training accuracy: 0.830000 original loss: 5.269889 matching loss: 0.002941
+step 300, Validation accuracy: 0.768469
+step 400, training accuracy: 0.750000 original loss: 5.386403 matching loss: 0.003292
+step 400, Validation accuracy: 0.767833
+step 500, training accuracy: 0.840000 original loss: 5.341921 matching loss: 0.003430
+step 500, Validation accuracy: 0.770286
+get new weight for 0.77028626
+step 600, training accuracy: 0.810000 original loss: 5.290383 matching loss: 0.003543
+step 600, Validation accuracy: 0.767924
+step 700, training accuracy: 0.820000 original loss: 5.276909 matching loss: 0.003619
+step 700, Validation accuracy: 0.774648
+get new weight for 0.7746479
+step 800, training accuracy: 0.740000 original loss: 5.438126 matching loss: 0.003760
+step 800, Validation accuracy: 0.774920
+get new weight for 0.77492046
+step 900, training accuracy: 0.780000 original loss: 5.256259 matching loss: 0.003890
+step 900, Validation accuracy: 0.775466
+get new weight for 0.7754657
+step 1000, training accuracy: 0.840000 original loss: 5.388038 matching loss: 0.003982
+step 1000, Validation accuracy: 0.770286
+step 1100, training accuracy: 0.810000 original loss: 5.395107 matching loss: 0.004240
+step 1100, Validation accuracy: 0.774012
+step 1200, training accuracy: 0.750000 original loss: 5.432609 matching loss: 0.004255
+step 1200, Validation accuracy: 0.772558
+step 1300, training accuracy: 0.810000 original loss: 5.262525 matching loss: 0.004413
+step 1300, Validation accuracy: 0.774557
+step 1400, training accuracy: 0.840000 original loss: 5.359697 matching loss: 0.004546
+step 1400, Validation accuracy: 0.768105
+step 1500, training accuracy: 0.840000 original loss: 5.194366 matching loss: 0.004598
+step 1500, Validation accuracy: 0.772467
+step 1600, training accuracy: 0.860000 original loss: 5.295343 matching loss: 0.004736
+step 1600, Validation accuracy: 0.771104
+step 1700, training accuracy: 0.860000 original loss: 5.270868 matching loss: 0.004912
+step 1700, Validation accuracy: 0.771286
+step 1800, training accuracy: 0.830000 original loss: 5.356753 matching loss: 0.005012
+step 1800, Validation accuracy: 0.763471
+step 1900, training accuracy: 0.790000 original loss: 5.374335 matching loss: 0.004902
+step 1900, Validation accuracy: 0.774648
+step 1999, training accuracy: 0.760000 original loss: 5.590266 matching loss: 0.004993
+step 1999, Validation accuracy: 0.775557
+get new weight for 0.77555656
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.798333 matching loss: 0.000251
+step 0, Validation accuracy: 0.946397
+step 100, training accuracy: 1.000000 original loss: 4.660022 matching loss: 0.001962
+step 100, Validation accuracy: 0.948219
+get new weight for 0.9482185
+step 200, training accuracy: 1.000000 original loss: 4.652385 matching loss: 0.002509
+step 200, Validation accuracy: 0.947743
+step 300, training accuracy: 1.000000 original loss: 4.658449 matching loss: 0.002709
+step 300, Validation accuracy: 0.950594
+get new weight for 0.9505938
+step 400, training accuracy: 1.000000 original loss: 4.650821 matching loss: 0.002539
+step 400, Validation accuracy: 0.949406
+step 500, training accuracy: 1.000000 original loss: 4.671125 matching loss: 0.002628
+step 500, Validation accuracy: 0.949565
+step 600, training accuracy: 1.000000 original loss: 4.649055 matching loss: 0.002680
+step 600, Validation accuracy: 0.950515
+step 700, training accuracy: 1.000000 original loss: 4.659446 matching loss: 0.002848
+step 700, Validation accuracy: 0.950119
+step 800, training accuracy: 1.000000 original loss: 4.671769 matching loss: 0.003015
+step 800, Validation accuracy: 0.950277
+step 900, training accuracy: 1.000000 original loss: 4.650561 matching loss: 0.003282
+step 900, Validation accuracy: 0.949644
+step 1000, training accuracy: 1.000000 original loss: 4.662956 matching loss: 0.002974
+step 1000, Validation accuracy: 0.949565
+step 1100, training accuracy: 0.990000 original loss: 4.655221 matching loss: 0.003538
+step 1100, Validation accuracy: 0.949960
+step 1200, training accuracy: 1.000000 original loss: 4.643963 matching loss: 0.003432
+step 1200, Validation accuracy: 0.947664
+step 1300, training accuracy: 1.000000 original loss: 4.652300 matching loss: 0.003236
+step 1300, Validation accuracy: 0.951227
+get new weight for 0.95122725
+step 1400, training accuracy: 1.000000 original loss: 4.661371 matching loss: 0.003386
+step 1400, Validation accuracy: 0.953919
+get new weight for 0.95391923
+step 1500, training accuracy: 0.990000 original loss: 4.665237 matching loss: 0.003519
+step 1500, Validation accuracy: 0.951386
+step 1600, training accuracy: 1.000000 original loss: 4.653640 matching loss: 0.003550
+step 1600, Validation accuracy: 0.949960
+step 1700, training accuracy: 1.000000 original loss: 4.659087 matching loss: 0.003711
+step 1700, Validation accuracy: 0.953761
+step 1800, training accuracy: 1.000000 original loss: 4.652874 matching loss: 0.003838
+step 1800, Validation accuracy: 0.951386
+step 1900, training accuracy: 1.000000 original loss: 4.642942 matching loss: 0.003883
+step 1900, Validation accuracy: 0.950435
+step 1999, training accuracy: 1.000000 original loss: 4.667302 matching loss: 0.003907
+step 1999, Validation accuracy: 0.950831
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.785658 matching loss: 0.000716
+step 0, Validation accuracy: 0.983300
+step 100, training accuracy: 0.990000 original loss: 4.635038 matching loss: 0.000522
+step 100, Validation accuracy: 0.981500
+step 200, training accuracy: 0.990000 original loss: 4.662641 matching loss: 0.000540
+step 200, Validation accuracy: 0.983500
+get new weight for 0.9835
+step 300, training accuracy: 1.000000 original loss: 4.630331 matching loss: 0.000576
+step 300, Validation accuracy: 0.982700
+step 400, training accuracy: 1.000000 original loss: 4.620683 matching loss: 0.000591
+step 400, Validation accuracy: 0.981100
+step 500, training accuracy: 0.990000 original loss: 4.641504 matching loss: 0.000646
+step 500, Validation accuracy: 0.982500
+step 600, training accuracy: 1.000000 original loss: 4.616369 matching loss: 0.000650
+step 600, Validation accuracy: 0.983600
+get new weight for 0.9836
+step 700, training accuracy: 0.990000 original loss: 4.640949 matching loss: 0.000703
+step 700, Validation accuracy: 0.982400
+step 800, training accuracy: 1.000000 original loss: 4.620491 matching loss: 0.000697
+step 800, Validation accuracy: 0.983200
+step 900, training accuracy: 1.000000 original loss: 4.626240 matching loss: 0.000715
+step 900, Validation accuracy: 0.982600
+step 1000, training accuracy: 1.000000 original loss: 4.633788 matching loss: 0.000743
+step 1000, Validation accuracy: 0.983200
+step 1100, training accuracy: 0.990000 original loss: 4.645593 matching loss: 0.000775
+step 1100, Validation accuracy: 0.980500
+step 1200, training accuracy: 1.000000 original loss: 4.617571 matching loss: 0.000812
+step 1200, Validation accuracy: 0.982800
+step 1300, training accuracy: 1.000000 original loss: 4.625549 matching loss: 0.000843
+step 1300, Validation accuracy: 0.982100
+step 1400, training accuracy: 0.970000 original loss: 4.659071 matching loss: 0.000893
+step 1400, Validation accuracy: 0.983400
+step 1500, training accuracy: 0.990000 original loss: 4.649725 matching loss: 0.000906
+step 1500, Validation accuracy: 0.981800
+step 1600, training accuracy: 1.000000 original loss: 4.619766 matching loss: 0.000956
+step 1600, Validation accuracy: 0.983100
+step 1700, training accuracy: 0.990000 original loss: 4.620405 matching loss: 0.000926
+step 1700, Validation accuracy: 0.982300
+step 1800, training accuracy: 1.000000 original loss: 4.618126 matching loss: 0.000950
+step 1800, Validation accuracy: 0.983400
+step 1900, training accuracy: 1.000000 original loss: 4.619277 matching loss: 0.001007
+step 1900, Validation accuracy: 0.983800
+get new weight for 0.9838
+step 1999, training accuracy: 0.990000 original loss: 4.634686 matching loss: 0.001049
+step 1999, Validation accuracy: 0.981100
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.820000 original loss: 5.368213 matching loss: 0.000191
+step 0, Validation accuracy: 0.768196
+step 100, training accuracy: 0.880000 original loss: 5.183683 matching loss: 0.002484
+step 100, Validation accuracy: 0.770105
+get new weight for 0.7701045
+step 200, training accuracy: 0.800000 original loss: 5.388036 matching loss: 0.002944
+step 200, Validation accuracy: 0.771468
+get new weight for 0.7714675
+step 300, training accuracy: 0.790000 original loss: 5.330103 matching loss: 0.003178
+step 300, Validation accuracy: 0.772558
+get new weight for 0.7725579
+step 400, training accuracy: 0.900000 original loss: 5.290939 matching loss: 0.003377
+step 400, Validation accuracy: 0.770922
+step 500, training accuracy: 0.860000 original loss: 5.255926 matching loss: 0.003556
+step 500, Validation accuracy: 0.771558
+step 600, training accuracy: 0.810000 original loss: 5.261840 matching loss: 0.003620
+step 600, Validation accuracy: 0.772831
+get new weight for 0.77283055
+step 700, training accuracy: 0.770000 original loss: 5.490047 matching loss: 0.003809
+step 700, Validation accuracy: 0.772558
+step 800, training accuracy: 0.850000 original loss: 5.228529 matching loss: 0.004011
+step 800, Validation accuracy: 0.779918
+get new weight for 0.7799182
+step 900, training accuracy: 0.720000 original loss: 5.592485 matching loss: 0.003937
+step 900, Validation accuracy: 0.775193
+step 1000, training accuracy: 0.770000 original loss: 5.520617 matching loss: 0.004253
+step 1000, Validation accuracy: 0.773467
+step 1100, training accuracy: 0.800000 original loss: 5.253446 matching loss: 0.004384
+step 1100, Validation accuracy: 0.777374
+step 1200, training accuracy: 0.880000 original loss: 5.149558 matching loss: 0.004392
+step 1200, Validation accuracy: 0.775375
+step 1300, training accuracy: 0.750000 original loss: 5.430009 matching loss: 0.004368
+step 1300, Validation accuracy: 0.775647
+step 1400, training accuracy: 0.820000 original loss: 5.471756 matching loss: 0.004581
+step 1400, Validation accuracy: 0.773467
+step 1500, training accuracy: 0.800000 original loss: 5.319240 matching loss: 0.004622
+step 1500, Validation accuracy: 0.776284
+step 1600, training accuracy: 0.840000 original loss: 5.385861 matching loss: 0.004698
+step 1600, Validation accuracy: 0.778737
+step 1700, training accuracy: 0.830000 original loss: 5.274595 matching loss: 0.004863
+step 1700, Validation accuracy: 0.770831
+step 1800, training accuracy: 0.870000 original loss: 5.129529 matching loss: 0.004870
+step 1800, Validation accuracy: 0.778464
+step 1900, training accuracy: 0.800000 original loss: 5.350376 matching loss: 0.004977
+step 1900, Validation accuracy: 0.774284
+step 1999, training accuracy: 0.850000 original loss: 5.311779 matching loss: 0.005045
+step 1999, Validation accuracy: 0.773921
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.720631 matching loss: 0.000106
+step 0, Validation accuracy: 0.951227
+step 100, training accuracy: 1.000000 original loss: 4.653472 matching loss: 0.001885
+step 100, Validation accuracy: 0.949881
+step 200, training accuracy: 1.000000 original loss: 4.666119 matching loss: 0.001865
+step 200, Validation accuracy: 0.952415
+get new weight for 0.9524149
+step 300, training accuracy: 0.990000 original loss: 4.660254 matching loss: 0.001985
+step 300, Validation accuracy: 0.950435
+step 400, training accuracy: 1.000000 original loss: 4.665190 matching loss: 0.002122
+step 400, Validation accuracy: 0.951544
+step 500, training accuracy: 1.000000 original loss: 4.675945 matching loss: 0.002452
+step 500, Validation accuracy: 0.951148
+step 600, training accuracy: 1.000000 original loss: 4.661384 matching loss: 0.002417
+step 600, Validation accuracy: 0.950277
+step 700, training accuracy: 1.000000 original loss: 4.657347 matching loss: 0.002453
+step 700, Validation accuracy: 0.952811
+get new weight for 0.95281076
+step 800, training accuracy: 1.000000 original loss: 4.633752 matching loss: 0.002538
+step 800, Validation accuracy: 0.952415
+step 900, training accuracy: 1.000000 original loss: 4.654295 matching loss: 0.002695
+step 900, Validation accuracy: 0.952177
+step 1000, training accuracy: 1.000000 original loss: 4.655117 matching loss: 0.002883
+step 1000, Validation accuracy: 0.953207
+get new weight for 0.95320666
+step 1100, training accuracy: 1.000000 original loss: 4.655053 matching loss: 0.002793
+step 1100, Validation accuracy: 0.953523
+get new weight for 0.95352334
+step 1200, training accuracy: 1.000000 original loss: 4.642946 matching loss: 0.002799
+step 1200, Validation accuracy: 0.954473
+get new weight for 0.9544735
+step 1300, training accuracy: 1.000000 original loss: 4.650250 matching loss: 0.002905
+step 1300, Validation accuracy: 0.952732
+step 1400, training accuracy: 0.990000 original loss: 4.670209 matching loss: 0.002899
+step 1400, Validation accuracy: 0.950198
+step 1500, training accuracy: 1.000000 original loss: 4.638636 matching loss: 0.002823
+step 1500, Validation accuracy: 0.952019
+step 1600, training accuracy: 1.000000 original loss: 4.644380 matching loss: 0.003093
+step 1600, Validation accuracy: 0.951702
+step 1700, training accuracy: 1.000000 original loss: 4.641559 matching loss: 0.003217
+step 1700, Validation accuracy: 0.948456
+step 1800, training accuracy: 1.000000 original loss: 4.649173 matching loss: 0.003310
+step 1800, Validation accuracy: 0.954473
+step 1900, training accuracy: 1.000000 original loss: 4.646892 matching loss: 0.003257
+step 1900, Validation accuracy: 0.955265
+get new weight for 0.9552652
+step 1999, training accuracy: 1.000000 original loss: 4.644690 matching loss: 0.003441
+step 1999, Validation accuracy: 0.952177
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.751257 matching loss: 0.000800
+step 0, Validation accuracy: 0.983500
+step 100, training accuracy: 1.000000 original loss: 4.626013 matching loss: 0.000530
+step 100, Validation accuracy: 0.982500
+step 200, training accuracy: 1.000000 original loss: 4.620560 matching loss: 0.000578
+step 200, Validation accuracy: 0.983500
+step 300, training accuracy: 1.000000 original loss: 4.622088 matching loss: 0.000586
+step 300, Validation accuracy: 0.981600
+step 400, training accuracy: 1.000000 original loss: 4.621540 matching loss: 0.000604
+step 400, Validation accuracy: 0.984600
+get new weight for 0.9846
+step 500, training accuracy: 0.990000 original loss: 4.632762 matching loss: 0.000611
+step 500, Validation accuracy: 0.984200
+step 600, training accuracy: 1.000000 original loss: 4.619552 matching loss: 0.000628
+step 600, Validation accuracy: 0.985300
+get new weight for 0.9853
+step 700, training accuracy: 0.980000 original loss: 4.682962 matching loss: 0.000666
+step 700, Validation accuracy: 0.984500
+step 800, training accuracy: 1.000000 original loss: 4.616953 matching loss: 0.000686
+step 800, Validation accuracy: 0.984300
+step 900, training accuracy: 0.980000 original loss: 4.648891 matching loss: 0.000704
+step 900, Validation accuracy: 0.983900
+step 1000, training accuracy: 0.990000 original loss: 4.637896 matching loss: 0.000727
+step 1000, Validation accuracy: 0.983900
+step 1100, training accuracy: 1.000000 original loss: 4.613508 matching loss: 0.000741
+step 1100, Validation accuracy: 0.982400
+step 1200, training accuracy: 0.990000 original loss: 4.656611 matching loss: 0.000740
+step 1200, Validation accuracy: 0.985100
+step 1300, training accuracy: 0.990000 original loss: 4.634202 matching loss: 0.000789
+step 1300, Validation accuracy: 0.982200
+step 1400, training accuracy: 1.000000 original loss: 4.619553 matching loss: 0.000780
+step 1400, Validation accuracy: 0.984100
+step 1500, training accuracy: 0.990000 original loss: 4.658923 matching loss: 0.000841
+step 1500, Validation accuracy: 0.981900
+step 1600, training accuracy: 1.000000 original loss: 4.621654 matching loss: 0.000858
+step 1600, Validation accuracy: 0.983700
+step 1700, training accuracy: 1.000000 original loss: 4.615552 matching loss: 0.000857
+step 1700, Validation accuracy: 0.983900
+step 1800, training accuracy: 0.990000 original loss: 4.622415 matching loss: 0.000897
+step 1800, Validation accuracy: 0.983800
+step 1900, training accuracy: 1.000000 original loss: 4.619379 matching loss: 0.000901
+step 1900, Validation accuracy: 0.984600
+step 1999, training accuracy: 1.000000 original loss: 4.617682 matching loss: 0.000923
+step 1999, Validation accuracy: 0.984000
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.800000 original loss: 5.453722 matching loss: 0.000051
+step 0, Validation accuracy: 0.770014
+step 100, training accuracy: 0.790000 original loss: 5.355046 matching loss: 0.002427
+step 100, Validation accuracy: 0.774739
+get new weight for 0.7747387
+step 200, training accuracy: 0.840000 original loss: 5.270107 matching loss: 0.002856
+step 200, Validation accuracy: 0.772194
+step 300, training accuracy: 0.830000 original loss: 5.223398 matching loss: 0.003082
+step 300, Validation accuracy: 0.770559
+step 400, training accuracy: 0.860000 original loss: 5.148433 matching loss: 0.003489
+step 400, Validation accuracy: 0.771013
+step 500, training accuracy: 0.820000 original loss: 5.297237 matching loss: 0.003702
+step 500, Validation accuracy: 0.771831
+step 600, training accuracy: 0.840000 original loss: 5.293540 matching loss: 0.003803
+step 600, Validation accuracy: 0.776738
+get new weight for 0.77673787
+step 700, training accuracy: 0.880000 original loss: 5.175113 matching loss: 0.003862
+step 700, Validation accuracy: 0.767378
+step 800, training accuracy: 0.850000 original loss: 5.346146 matching loss: 0.003996
+step 800, Validation accuracy: 0.775920
+step 900, training accuracy: 0.790000 original loss: 5.393484 matching loss: 0.004119
+step 900, Validation accuracy: 0.776374
+step 1000, training accuracy: 0.850000 original loss: 5.228721 matching loss: 0.004077
+step 1000, Validation accuracy: 0.771377
+step 1100, training accuracy: 0.820000 original loss: 5.360942 matching loss: 0.004263
+step 1100, Validation accuracy: 0.775375
+step 1200, training accuracy: 0.800000 original loss: 5.377952 matching loss: 0.004379
+step 1200, Validation accuracy: 0.775920
+step 1300, training accuracy: 0.810000 original loss: 5.374042 matching loss: 0.004709
+step 1300, Validation accuracy: 0.773194
+step 1400, training accuracy: 0.910000 original loss: 5.058332 matching loss: 0.004583
+step 1400, Validation accuracy: 0.776920
+get new weight for 0.7769196
+step 1500, training accuracy: 0.840000 original loss: 5.247927 matching loss: 0.004627
+step 1500, Validation accuracy: 0.778646
+get new weight for 0.77864605
+step 1600, training accuracy: 0.800000 original loss: 5.361862 matching loss: 0.004782
+step 1600, Validation accuracy: 0.780645
+get new weight for 0.78064513
+step 1700, training accuracy: 0.840000 original loss: 5.341890 matching loss: 0.004862
+step 1700, Validation accuracy: 0.776193
+step 1800, training accuracy: 0.830000 original loss: 5.270737 matching loss: 0.004990
+step 1800, Validation accuracy: 0.776556
+step 1900, training accuracy: 0.820000 original loss: 5.362400 matching loss: 0.005029
+step 1900, Validation accuracy: 0.779918
+step 1999, training accuracy: 0.800000 original loss: 5.414126 matching loss: 0.005082
+step 1999, Validation accuracy: 0.775102
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.759485 matching loss: 0.000207
+step 0, Validation accuracy: 0.954236
+step 100, training accuracy: 1.000000 original loss: 4.653820 matching loss: 0.001745
+step 100, Validation accuracy: 0.953128
+step 200, training accuracy: 1.000000 original loss: 4.650613 matching loss: 0.001935
+step 200, Validation accuracy: 0.953998
+step 300, training accuracy: 1.000000 original loss: 4.650329 matching loss: 0.002115
+step 300, Validation accuracy: 0.951861
+step 400, training accuracy: 1.000000 original loss: 4.640327 matching loss: 0.002326
+step 400, Validation accuracy: 0.952573
+step 500, training accuracy: 1.000000 original loss: 4.662787 matching loss: 0.002283
+step 500, Validation accuracy: 0.954236
+step 600, training accuracy: 1.000000 original loss: 4.644177 matching loss: 0.003005
+step 600, Validation accuracy: 0.952336
+step 700, training accuracy: 0.990000 original loss: 4.682474 matching loss: 0.002269
+step 700, Validation accuracy: 0.950752
+step 800, training accuracy: 0.990000 original loss: 4.661547 matching loss: 0.002406
+step 800, Validation accuracy: 0.952098
+step 900, training accuracy: 0.990000 original loss: 4.645317 matching loss: 0.002486
+step 900, Validation accuracy: 0.954394
+get new weight for 0.9543943
+step 1000, training accuracy: 1.000000 original loss: 4.655905 matching loss: 0.002434
+step 1000, Validation accuracy: 0.954473
+get new weight for 0.9544735
+step 1100, training accuracy: 1.000000 original loss: 4.648025 matching loss: 0.002834
+step 1100, Validation accuracy: 0.953207
+step 1200, training accuracy: 1.000000 original loss: 4.672251 matching loss: 0.002691
+step 1200, Validation accuracy: 0.951940
+step 1300, training accuracy: 0.990000 original loss: 4.641163 matching loss: 0.002705
+step 1300, Validation accuracy: 0.954394
+step 1400, training accuracy: 1.000000 original loss: 4.636114 matching loss: 0.002709
+step 1400, Validation accuracy: 0.952573
+step 1500, training accuracy: 1.000000 original loss: 4.630334 matching loss: 0.002809
+step 1500, Validation accuracy: 0.952177
+step 1600, training accuracy: 1.000000 original loss: 4.645448 matching loss: 0.002777
+step 1600, Validation accuracy: 0.954790
+get new weight for 0.9547902
+step 1700, training accuracy: 1.000000 original loss: 4.646289 matching loss: 0.002846
+step 1700, Validation accuracy: 0.955661
+get new weight for 0.9556611
+step 1800, training accuracy: 1.000000 original loss: 4.638737 matching loss: 0.002850
+step 1800, Validation accuracy: 0.954553
+step 1900, training accuracy: 1.000000 original loss: 4.643226 matching loss: 0.003142
+step 1900, Validation accuracy: 0.954394
+step 1999, training accuracy: 1.000000 original loss: 4.646928 matching loss: 0.003004
+step 1999, Validation accuracy: 0.950198
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.708031 matching loss: 0.000634
+step 0, Validation accuracy: 0.984000
+step 100, training accuracy: 1.000000 original loss: 4.635853 matching loss: 0.000451
+step 100, Validation accuracy: 0.985000
+get new weight for 0.985
+step 200, training accuracy: 0.990000 original loss: 4.639491 matching loss: 0.000467
+step 200, Validation accuracy: 0.984300
+step 300, training accuracy: 0.990000 original loss: 4.643091 matching loss: 0.000525
+step 300, Validation accuracy: 0.983900
+step 400, training accuracy: 0.990000 original loss: 4.632347 matching loss: 0.000525
+step 400, Validation accuracy: 0.983500
+step 500, training accuracy: 0.980000 original loss: 4.635175 matching loss: 0.000582
+step 500, Validation accuracy: 0.983700
+step 600, training accuracy: 0.990000 original loss: 4.633594 matching loss: 0.000608
+step 600, Validation accuracy: 0.982200
+step 700, training accuracy: 1.000000 original loss: 4.620454 matching loss: 0.000606
+step 700, Validation accuracy: 0.983600
+step 800, training accuracy: 1.000000 original loss: 4.620245 matching loss: 0.000615
+step 800, Validation accuracy: 0.983800
+step 900, training accuracy: 1.000000 original loss: 4.615835 matching loss: 0.000666
+step 900, Validation accuracy: 0.984000
+step 1000, training accuracy: 1.000000 original loss: 4.623918 matching loss: 0.000699
+step 1000, Validation accuracy: 0.983000
+step 1100, training accuracy: 0.980000 original loss: 4.666863 matching loss: 0.000740
+step 1100, Validation accuracy: 0.982300
+step 1200, training accuracy: 0.990000 original loss: 4.633032 matching loss: 0.000738
+step 1200, Validation accuracy: 0.983500
+step 1300, training accuracy: 1.000000 original loss: 4.616802 matching loss: 0.000744
+step 1300, Validation accuracy: 0.982400
+step 1400, training accuracy: 0.990000 original loss: 4.622009 matching loss: 0.000775
+step 1400, Validation accuracy: 0.985300
+get new weight for 0.9853
+step 1500, training accuracy: 1.000000 original loss: 4.623814 matching loss: 0.000795
+step 1500, Validation accuracy: 0.982600
+step 1600, training accuracy: 1.000000 original loss: 4.617072 matching loss: 0.000823
+step 1600, Validation accuracy: 0.983400
+step 1700, training accuracy: 1.000000 original loss: 4.622245 matching loss: 0.000856
+step 1700, Validation accuracy: 0.982000
+step 1800, training accuracy: 1.000000 original loss: 4.616718 matching loss: 0.000909
+step 1800, Validation accuracy: 0.984300
+step 1900, training accuracy: 1.000000 original loss: 4.624552 matching loss: 0.000874
+step 1900, Validation accuracy: 0.984300
+step 1999, training accuracy: 0.990000 original loss: 4.627965 matching loss: 0.000899
+step 1999, Validation accuracy: 0.984600
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.850000 original loss: 5.203371 matching loss: 0.000132
+step 0, Validation accuracy: 0.773557
+step 100, training accuracy: 0.850000 original loss: 5.290318 matching loss: 0.002656
+step 100, Validation accuracy: 0.777101
+get new weight for 0.77710134
+step 200, training accuracy: 0.860000 original loss: 5.205723 matching loss: 0.003003
+step 200, Validation accuracy: 0.774920
+step 300, training accuracy: 0.820000 original loss: 5.372803 matching loss: 0.003083
+step 300, Validation accuracy: 0.779555
+get new weight for 0.7795547
+step 400, training accuracy: 0.800000 original loss: 5.249002 matching loss: 0.003432
+step 400, Validation accuracy: 0.776829
+step 500, training accuracy: 0.810000 original loss: 5.278848 matching loss: 0.003481
+step 500, Validation accuracy: 0.777283
+step 600, training accuracy: 0.790000 original loss: 5.500543 matching loss: 0.003682
+step 600, Validation accuracy: 0.773830
+step 700, training accuracy: 0.850000 original loss: 5.400517 matching loss: 0.003724
+step 700, Validation accuracy: 0.776556
+step 800, training accuracy: 0.830000 original loss: 5.225424 matching loss: 0.003860
+step 800, Validation accuracy: 0.779736
+get new weight for 0.77973646
+step 900, training accuracy: 0.860000 original loss: 5.310270 matching loss: 0.003922
+step 900, Validation accuracy: 0.771013
+step 1000, training accuracy: 0.850000 original loss: 5.293560 matching loss: 0.004092
+step 1000, Validation accuracy: 0.778464
+step 1100, training accuracy: 0.820000 original loss: 5.350856 matching loss: 0.004148
+step 1100, Validation accuracy: 0.777919
+step 1200, training accuracy: 0.830000 original loss: 5.243172 matching loss: 0.004241
+step 1200, Validation accuracy: 0.778192
+step 1300, training accuracy: 0.820000 original loss: 5.267303 matching loss: 0.004499
+step 1300, Validation accuracy: 0.779282
+step 1400, training accuracy: 0.870000 original loss: 5.277867 matching loss: 0.004469
+step 1400, Validation accuracy: 0.782008
+get new weight for 0.7820082
+step 1500, training accuracy: 0.830000 original loss: 5.280334 matching loss: 0.004577
+step 1500, Validation accuracy: 0.776647
+step 1600, training accuracy: 0.800000 original loss: 5.323421 matching loss: 0.004694
+step 1600, Validation accuracy: 0.780463
+step 1700, training accuracy: 0.890000 original loss: 5.137073 matching loss: 0.004760
+step 1700, Validation accuracy: 0.774375
+step 1800, training accuracy: 0.870000 original loss: 5.116629 matching loss: 0.004871
+step 1800, Validation accuracy: 0.782372
+get new weight for 0.78237164
+step 1900, training accuracy: 0.740000 original loss: 5.360797 matching loss: 0.004976
+step 1900, Validation accuracy: 0.779464
+step 1999, training accuracy: 0.880000 original loss: 5.098742 matching loss: 0.005078
+step 1999, Validation accuracy: 0.781190
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.847519 matching loss: 0.000224
+step 0, Validation accuracy: 0.951069
+step 100, training accuracy: 1.000000 original loss: 4.649346 matching loss: 0.001692
+step 100, Validation accuracy: 0.951069
+step 200, training accuracy: 1.000000 original loss: 4.649791 matching loss: 0.001905
+step 200, Validation accuracy: 0.951148
+get new weight for 0.95114803
+step 300, training accuracy: 1.000000 original loss: 4.659945 matching loss: 0.001961
+step 300, Validation accuracy: 0.953286
+get new weight for 0.9532858
+step 400, training accuracy: 1.000000 original loss: 4.641875 matching loss: 0.002218
+step 400, Validation accuracy: 0.953207
+step 500, training accuracy: 1.000000 original loss: 4.639118 matching loss: 0.002274
+step 500, Validation accuracy: 0.953998
+get new weight for 0.9539984
+step 600, training accuracy: 1.000000 original loss: 4.649980 matching loss: 0.002370
+step 600, Validation accuracy: 0.954949
+get new weight for 0.95494854
+step 700, training accuracy: 1.000000 original loss: 4.635901 matching loss: 0.002384
+step 700, Validation accuracy: 0.953523
+step 800, training accuracy: 1.000000 original loss: 4.643044 matching loss: 0.002379
+step 800, Validation accuracy: 0.954553
+step 900, training accuracy: 1.000000 original loss: 4.645306 matching loss: 0.002589
+step 900, Validation accuracy: 0.954711
+step 1000, training accuracy: 1.000000 original loss: 4.654061 matching loss: 0.002693
+step 1000, Validation accuracy: 0.953128
+step 1100, training accuracy: 1.000000 original loss: 4.631567 matching loss: 0.002729
+step 1100, Validation accuracy: 0.953523
+step 1200, training accuracy: 0.990000 original loss: 4.673676 matching loss: 0.002680
+step 1200, Validation accuracy: 0.955265
+get new weight for 0.9552652
+step 1300, training accuracy: 1.000000 original loss: 4.643036 matching loss: 0.002905
+step 1300, Validation accuracy: 0.954632
+step 1400, training accuracy: 1.000000 original loss: 4.634347 matching loss: 0.002851
+step 1400, Validation accuracy: 0.953761
+step 1500, training accuracy: 1.000000 original loss: 4.652045 matching loss: 0.002770
+step 1500, Validation accuracy: 0.953840
+step 1600, training accuracy: 1.000000 original loss: 4.637010 matching loss: 0.002658
+step 1600, Validation accuracy: 0.954711
+step 1700, training accuracy: 1.000000 original loss: 4.638826 matching loss: 0.002767
+step 1700, Validation accuracy: 0.955740
+get new weight for 0.9557403
+step 1800, training accuracy: 1.000000 original loss: 4.654253 matching loss: 0.003087
+step 1800, Validation accuracy: 0.954473
+step 1900, training accuracy: 1.000000 original loss: 4.657474 matching loss: 0.002949
+step 1900, Validation accuracy: 0.956690
+get new weight for 0.95669043
+step 1999, training accuracy: 1.000000 original loss: 4.644184 matching loss: 0.002935
+step 1999, Validation accuracy: 0.953919
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.718244 matching loss: 0.000712
+step 0, Validation accuracy: 0.983400
+step 100, training accuracy: 0.990000 original loss: 4.640868 matching loss: 0.000485
+step 100, Validation accuracy: 0.983200
+step 200, training accuracy: 0.990000 original loss: 4.641154 matching loss: 0.000531
+step 200, Validation accuracy: 0.984000
+get new weight for 0.984
+step 300, training accuracy: 1.000000 original loss: 4.624495 matching loss: 0.000570
+step 300, Validation accuracy: 0.983100
+step 400, training accuracy: 1.000000 original loss: 4.632220 matching loss: 0.000625
+step 400, Validation accuracy: 0.981900
+step 500, training accuracy: 1.000000 original loss: 4.619451 matching loss: 0.000606
+step 500, Validation accuracy: 0.982900
+step 600, training accuracy: 1.000000 original loss: 4.617830 matching loss: 0.000630
+step 600, Validation accuracy: 0.983900
+step 700, training accuracy: 1.000000 original loss: 4.623846 matching loss: 0.000686
+step 700, Validation accuracy: 0.982300
+step 800, training accuracy: 0.990000 original loss: 4.641173 matching loss: 0.000654
+step 800, Validation accuracy: 0.983800
+step 900, training accuracy: 0.980000 original loss: 4.668585 matching loss: 0.000713
+step 900, Validation accuracy: 0.982800
+step 1000, training accuracy: 1.000000 original loss: 4.625222 matching loss: 0.000759
+step 1000, Validation accuracy: 0.984100
+get new weight for 0.9841
+step 1100, training accuracy: 1.000000 original loss: 4.630342 matching loss: 0.000760
+step 1100, Validation accuracy: 0.982200
+step 1200, training accuracy: 1.000000 original loss: 4.623095 matching loss: 0.000745
+step 1200, Validation accuracy: 0.984600
+get new weight for 0.9846
+step 1300, training accuracy: 1.000000 original loss: 4.616469 matching loss: 0.000759
+step 1300, Validation accuracy: 0.984600
+step 1400, training accuracy: 1.000000 original loss: 4.618108 matching loss: 0.000802
+step 1400, Validation accuracy: 0.982400
+step 1500, training accuracy: 1.000000 original loss: 4.617203 matching loss: 0.000804
+step 1500, Validation accuracy: 0.982400
+step 1600, training accuracy: 1.000000 original loss: 4.624554 matching loss: 0.000848
+step 1600, Validation accuracy: 0.984300
+step 1700, training accuracy: 0.990000 original loss: 4.633950 matching loss: 0.000866
+step 1700, Validation accuracy: 0.982400
+step 1800, training accuracy: 0.990000 original loss: 4.626181 matching loss: 0.000839
+step 1800, Validation accuracy: 0.984600
+step 1900, training accuracy: 1.000000 original loss: 4.621510 matching loss: 0.000875
+step 1900, Validation accuracy: 0.983600
+step 1999, training accuracy: 1.000000 original loss: 4.615724 matching loss: 0.000916
+step 1999, Validation accuracy: 0.983900
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.830000 original loss: 5.288004 matching loss: 0.000114
+step 0, Validation accuracy: 0.771377
+step 100, training accuracy: 0.810000 original loss: 5.421434 matching loss: 0.002453
+step 100, Validation accuracy: 0.777556
+get new weight for 0.77755564
+step 200, training accuracy: 0.800000 original loss: 5.327602 matching loss: 0.002935
+step 200, Validation accuracy: 0.776102
+step 300, training accuracy: 0.790000 original loss: 5.359726 matching loss: 0.003136
+step 300, Validation accuracy: 0.774557
+step 400, training accuracy: 0.790000 original loss: 5.302114 matching loss: 0.003450
+step 400, Validation accuracy: 0.775011
+step 500, training accuracy: 0.770000 original loss: 5.494274 matching loss: 0.003821
+step 500, Validation accuracy: 0.777283
+step 600, training accuracy: 0.850000 original loss: 5.271140 matching loss: 0.003739
+step 600, Validation accuracy: 0.775375
+step 700, training accuracy: 0.810000 original loss: 5.321860 matching loss: 0.003793
+step 700, Validation accuracy: 0.777010
+step 800, training accuracy: 0.740000 original loss: 5.410280 matching loss: 0.003946
+step 800, Validation accuracy: 0.780009
+get new weight for 0.7800091
+step 900, training accuracy: 0.850000 original loss: 5.163864 matching loss: 0.003892
+step 900, Validation accuracy: 0.777192
+step 1000, training accuracy: 0.800000 original loss: 5.324708 matching loss: 0.004195
+step 1000, Validation accuracy: 0.779736
+step 1100, training accuracy: 0.860000 original loss: 5.138800 matching loss: 0.004251
+step 1100, Validation accuracy: 0.774466
+step 1200, training accuracy: 0.850000 original loss: 5.215015 matching loss: 0.004402
+step 1200, Validation accuracy: 0.780373
+get new weight for 0.78037256
+step 1300, training accuracy: 0.820000 original loss: 5.351357 matching loss: 0.004507
+step 1300, Validation accuracy: 0.782281
+get new weight for 0.7822808
+step 1400, training accuracy: 0.850000 original loss: 5.299703 matching loss: 0.004415
+step 1400, Validation accuracy: 0.779555
+step 1500, training accuracy: 0.850000 original loss: 5.223456 matching loss: 0.004610
+step 1500, Validation accuracy: 0.782099
+step 1600, training accuracy: 0.840000 original loss: 5.268666 matching loss: 0.004623
+step 1600, Validation accuracy: 0.777465
+step 1700, training accuracy: 0.880000 original loss: 5.253291 matching loss: 0.004725
+step 1700, Validation accuracy: 0.780463
+step 1800, training accuracy: 0.770000 original loss: 5.323105 matching loss: 0.004766
+step 1800, Validation accuracy: 0.782008
+step 1900, training accuracy: 0.850000 original loss: 5.258986 matching loss: 0.004804
+step 1900, Validation accuracy: 0.777465
+step 1999, training accuracy: 0.860000 original loss: 5.219276 matching loss: 0.004841
+step 1999, Validation accuracy: 0.783371
+get new weight for 0.7833712
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.990000 original loss: 4.798723 matching loss: 0.000245
+step 0, Validation accuracy: 0.954157
+step 100, training accuracy: 1.000000 original loss: 4.659733 matching loss: 0.001692
+step 100, Validation accuracy: 0.955978
+get new weight for 0.95597786
+step 200, training accuracy: 1.000000 original loss: 4.649137 matching loss: 0.001818
+step 200, Validation accuracy: 0.952573
+step 300, training accuracy: 1.000000 original loss: 4.650349 matching loss: 0.002152
+step 300, Validation accuracy: 0.953603
+step 400, training accuracy: 1.000000 original loss: 4.642484 matching loss: 0.002140
+step 400, Validation accuracy: 0.953998
+step 500, training accuracy: 1.000000 original loss: 4.646740 matching loss: 0.002247
+step 500, Validation accuracy: 0.954949
+step 600, training accuracy: 1.000000 original loss: 4.658046 matching loss: 0.002140
+step 600, Validation accuracy: 0.954394
+step 700, training accuracy: 1.000000 original loss: 4.640193 matching loss: 0.002483
+step 700, Validation accuracy: 0.956374
+get new weight for 0.9563737
+step 800, training accuracy: 1.000000 original loss: 4.638703 matching loss: 0.002385
+step 800, Validation accuracy: 0.955819
+step 900, training accuracy: 1.000000 original loss: 4.642534 matching loss: 0.002404
+step 900, Validation accuracy: 0.953444
+step 1000, training accuracy: 1.000000 original loss: 4.638608 matching loss: 0.002496
+step 1000, Validation accuracy: 0.952890
+step 1100, training accuracy: 1.000000 original loss: 4.655906 matching loss: 0.002616
+step 1100, Validation accuracy: 0.955503
+step 1200, training accuracy: 1.000000 original loss: 4.646659 matching loss: 0.002560
+step 1200, Validation accuracy: 0.957086
+get new weight for 0.9570863
+step 1300, training accuracy: 1.000000 original loss: 4.666276 matching loss: 0.002918
+step 1300, Validation accuracy: 0.955344
+step 1400, training accuracy: 1.000000 original loss: 4.642434 matching loss: 0.002589
+step 1400, Validation accuracy: 0.954553
+step 1500, training accuracy: 1.000000 original loss: 4.634079 matching loss: 0.002764
+step 1500, Validation accuracy: 0.955265
+step 1600, training accuracy: 1.000000 original loss: 4.624992 matching loss: 0.003007
+step 1600, Validation accuracy: 0.955899
+step 1700, training accuracy: 1.000000 original loss: 4.648488 matching loss: 0.002916
+step 1700, Validation accuracy: 0.954869
+step 1800, training accuracy: 1.000000 original loss: 4.637231 matching loss: 0.003063
+step 1800, Validation accuracy: 0.954711
+step 1900, training accuracy: 1.000000 original loss: 4.627687 matching loss: 0.002995
+step 1900, Validation accuracy: 0.956849
+step 1999, training accuracy: 1.000000 original loss: 4.640199 matching loss: 0.002783
+step 1999, Validation accuracy: 0.957799
+get new weight for 0.9577989
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.754190 matching loss: 0.000765
+step 0, Validation accuracy: 0.984000
+step 100, training accuracy: 0.990000 original loss: 4.640470 matching loss: 0.000503
+step 100, Validation accuracy: 0.983700
+step 200, training accuracy: 0.980000 original loss: 4.696235 matching loss: 0.000599
+step 200, Validation accuracy: 0.983700
+step 300, training accuracy: 1.000000 original loss: 4.626140 matching loss: 0.000600
+step 300, Validation accuracy: 0.982300
+step 400, training accuracy: 1.000000 original loss: 4.619451 matching loss: 0.000591
+step 400, Validation accuracy: 0.984000
+step 500, training accuracy: 1.000000 original loss: 4.614092 matching loss: 0.000628
+step 500, Validation accuracy: 0.984500
+get new weight for 0.9845
+step 600, training accuracy: 1.000000 original loss: 4.620603 matching loss: 0.000638
+step 600, Validation accuracy: 0.983100
+step 700, training accuracy: 0.990000 original loss: 4.641680 matching loss: 0.000639
+step 700, Validation accuracy: 0.983500
+step 800, training accuracy: 1.000000 original loss: 4.637152 matching loss: 0.000722
+step 800, Validation accuracy: 0.982700
+step 900, training accuracy: 1.000000 original loss: 4.622322 matching loss: 0.000736
+step 900, Validation accuracy: 0.983500
+step 1000, training accuracy: 1.000000 original loss: 4.615438 matching loss: 0.000724
+step 1000, Validation accuracy: 0.983300
+step 1100, training accuracy: 1.000000 original loss: 4.619934 matching loss: 0.000770
+step 1100, Validation accuracy: 0.983700
+step 1200, training accuracy: 0.990000 original loss: 4.623368 matching loss: 0.000761
+step 1200, Validation accuracy: 0.984800
+get new weight for 0.9848
+step 1300, training accuracy: 0.990000 original loss: 4.643263 matching loss: 0.000814
+step 1300, Validation accuracy: 0.981000
+step 1400, training accuracy: 1.000000 original loss: 4.627893 matching loss: 0.000793
+step 1400, Validation accuracy: 0.982300
+step 1500, training accuracy: 0.990000 original loss: 4.632475 matching loss: 0.000808
+step 1500, Validation accuracy: 0.984000
+step 1600, training accuracy: 1.000000 original loss: 4.639564 matching loss: 0.000830
+step 1600, Validation accuracy: 0.983700
+step 1700, training accuracy: 0.980000 original loss: 4.661843 matching loss: 0.000878
+step 1700, Validation accuracy: 0.983800
+step 1800, training accuracy: 1.000000 original loss: 4.613131 matching loss: 0.000862
+step 1800, Validation accuracy: 0.984600
+step 1900, training accuracy: 1.000000 original loss: 4.618758 matching loss: 0.000898
+step 1900, Validation accuracy: 0.984400
+step 1999, training accuracy: 1.000000 original loss: 4.611150 matching loss: 0.000905
+step 1999, Validation accuracy: 0.983300
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.770000 original loss: 5.363840 matching loss: 0.000110
+step 0, Validation accuracy: 0.776284
+step 100, training accuracy: 0.860000 original loss: 5.236753 matching loss: 0.002535
+step 100, Validation accuracy: 0.778192
+get new weight for 0.77819175
+step 200, training accuracy: 0.870000 original loss: 5.232304 matching loss: 0.002880
+step 200, Validation accuracy: 0.783189
+get new weight for 0.7831895
+step 300, training accuracy: 0.870000 original loss: 5.333436 matching loss: 0.003124
+step 300, Validation accuracy: 0.780736
+step 400, training accuracy: 0.850000 original loss: 5.251829 matching loss: 0.003358
+step 400, Validation accuracy: 0.785279
+get new weight for 0.7852794
+step 500, training accuracy: 0.830000 original loss: 5.287219 matching loss: 0.003642
+step 500, Validation accuracy: 0.772921
+step 600, training accuracy: 0.880000 original loss: 5.168472 matching loss: 0.003671
+step 600, Validation accuracy: 0.779918
+step 700, training accuracy: 0.860000 original loss: 5.177010 matching loss: 0.003831
+step 700, Validation accuracy: 0.780009
+step 800, training accuracy: 0.850000 original loss: 5.100202 matching loss: 0.003880
+step 800, Validation accuracy: 0.778737
+step 900, training accuracy: 0.870000 original loss: 5.174992 matching loss: 0.004192
+step 900, Validation accuracy: 0.772831
+step 1000, training accuracy: 0.810000 original loss: 5.382968 matching loss: 0.004172
+step 1000, Validation accuracy: 0.778555
+step 1100, training accuracy: 0.800000 original loss: 5.387859 matching loss: 0.004262
+step 1100, Validation accuracy: 0.776647
+step 1200, training accuracy: 0.870000 original loss: 5.136172 matching loss: 0.004250
+step 1200, Validation accuracy: 0.778555
+step 1300, training accuracy: 0.830000 original loss: 5.314654 matching loss: 0.004486
+step 1300, Validation accuracy: 0.779736
+step 1400, training accuracy: 0.870000 original loss: 5.218093 matching loss: 0.004622
+step 1400, Validation accuracy: 0.779918
+step 1500, training accuracy: 0.780000 original loss: 5.399481 matching loss: 0.004559
+step 1500, Validation accuracy: 0.777465
+step 1600, training accuracy: 0.870000 original loss: 5.275218 matching loss: 0.004690
+step 1600, Validation accuracy: 0.779100
+step 1700, training accuracy: 0.930000 original loss: 5.057899 matching loss: 0.004686
+step 1700, Validation accuracy: 0.772467
+step 1800, training accuracy: 0.840000 original loss: 5.229005 matching loss: 0.004783
+step 1800, Validation accuracy: 0.781554
+step 1900, training accuracy: 0.890000 original loss: 5.220734 matching loss: 0.004734
+step 1900, Validation accuracy: 0.783916
+step 1999, training accuracy: 0.810000 original loss: 5.276524 matching loss: 0.004849
+step 1999, Validation accuracy: 0.788823
+get new weight for 0.78882325
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.735390 matching loss: 0.000247
+step 0, Validation accuracy: 0.954315
+step 100, training accuracy: 1.000000 original loss: 4.651031 matching loss: 0.001505
+step 100, Validation accuracy: 0.955265
+get new weight for 0.9552652
+step 200, training accuracy: 1.000000 original loss: 4.650357 matching loss: 0.001734
+step 200, Validation accuracy: 0.956928
+get new weight for 0.95692796
+step 300, training accuracy: 1.000000 original loss: 4.632637 matching loss: 0.001903
+step 300, Validation accuracy: 0.956374
+step 400, training accuracy: 1.000000 original loss: 4.639963 matching loss: 0.001960
+step 400, Validation accuracy: 0.955107
+step 500, training accuracy: 1.000000 original loss: 4.647990 matching loss: 0.002075
+step 500, Validation accuracy: 0.956374
+step 600, training accuracy: 1.000000 original loss: 4.627863 matching loss: 0.002015
+step 600, Validation accuracy: 0.955028
+step 700, training accuracy: 1.000000 original loss: 4.643754 matching loss: 0.002230
+step 700, Validation accuracy: 0.953998
+step 800, training accuracy: 1.000000 original loss: 4.638612 matching loss: 0.002257
+step 800, Validation accuracy: 0.954632
+step 900, training accuracy: 1.000000 original loss: 4.636405 matching loss: 0.002359
+step 900, Validation accuracy: 0.954315
+step 1000, training accuracy: 1.000000 original loss: 4.638031 matching loss: 0.002330
+step 1000, Validation accuracy: 0.956295
+step 1100, training accuracy: 1.000000 original loss: 4.636396 matching loss: 0.002395
+step 1100, Validation accuracy: 0.957007
+get new weight for 0.9570071
+step 1200, training accuracy: 1.000000 original loss: 4.640495 matching loss: 0.002447
+step 1200, Validation accuracy: 0.954157
+step 1300, training accuracy: 1.000000 original loss: 4.647960 matching loss: 0.002638
+step 1300, Validation accuracy: 0.955503
+step 1400, training accuracy: 1.000000 original loss: 4.630039 matching loss: 0.002587
+step 1400, Validation accuracy: 0.955424
+step 1500, training accuracy: 1.000000 original loss: 4.633380 matching loss: 0.002572
+step 1500, Validation accuracy: 0.956295
+step 1600, training accuracy: 1.000000 original loss: 4.650745 matching loss: 0.002657
+step 1600, Validation accuracy: 0.957086
+get new weight for 0.9570863
+step 1700, training accuracy: 1.000000 original loss: 4.635815 matching loss: 0.002647
+step 1700, Validation accuracy: 0.959066
+get new weight for 0.95906574
+step 1800, training accuracy: 1.000000 original loss: 4.628813 matching loss: 0.002791
+step 1800, Validation accuracy: 0.955740
+step 1900, training accuracy: 1.000000 original loss: 4.643747 matching loss: 0.002868
+step 1900, Validation accuracy: 0.956928
+step 1999, training accuracy: 1.000000 original loss: 4.631138 matching loss: 0.003036
+step 1999, Validation accuracy: 0.957720
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.970000 original loss: 4.753929 matching loss: 0.000601
+step 0, Validation accuracy: 0.983700
+step 100, training accuracy: 1.000000 original loss: 4.634658 matching loss: 0.000451
+step 100, Validation accuracy: 0.982900
+step 200, training accuracy: 0.990000 original loss: 4.641450 matching loss: 0.000512
+step 200, Validation accuracy: 0.983400
+step 300, training accuracy: 1.000000 original loss: 4.613998 matching loss: 0.000515
+step 300, Validation accuracy: 0.982200
+step 400, training accuracy: 1.000000 original loss: 4.621491 matching loss: 0.000555
+step 400, Validation accuracy: 0.983000
+step 500, training accuracy: 1.000000 original loss: 4.611232 matching loss: 0.000578
+step 500, Validation accuracy: 0.983000
+step 600, training accuracy: 0.990000 original loss: 4.633925 matching loss: 0.000572
+step 600, Validation accuracy: 0.984500
+get new weight for 0.9845
+step 700, training accuracy: 1.000000 original loss: 4.630828 matching loss: 0.000599
+step 700, Validation accuracy: 0.984300
+step 800, training accuracy: 0.990000 original loss: 4.628354 matching loss: 0.000645
+step 800, Validation accuracy: 0.984300
+step 900, training accuracy: 1.000000 original loss: 4.623099 matching loss: 0.000648
+step 900, Validation accuracy: 0.981800
+step 1000, training accuracy: 0.990000 original loss: 4.635464 matching loss: 0.000697
+step 1000, Validation accuracy: 0.984000
+step 1100, training accuracy: 0.990000 original loss: 4.627753 matching loss: 0.000692
+step 1100, Validation accuracy: 0.982700
+step 1200, training accuracy: 1.000000 original loss: 4.614578 matching loss: 0.000721
+step 1200, Validation accuracy: 0.983900
+step 1300, training accuracy: 1.000000 original loss: 4.621703 matching loss: 0.000712
+step 1300, Validation accuracy: 0.983500
+step 1400, training accuracy: 0.990000 original loss: 4.708891 matching loss: 0.000753
+step 1400, Validation accuracy: 0.983300
+step 1500, training accuracy: 1.000000 original loss: 4.616144 matching loss: 0.000779
+step 1500, Validation accuracy: 0.983100
+step 1600, training accuracy: 1.000000 original loss: 4.611330 matching loss: 0.000796
+step 1600, Validation accuracy: 0.984000
+step 1700, training accuracy: 1.000000 original loss: 4.615149 matching loss: 0.000801
+step 1700, Validation accuracy: 0.983300
+step 1800, training accuracy: 0.990000 original loss: 4.623881 matching loss: 0.000839
+step 1800, Validation accuracy: 0.983200
+step 1900, training accuracy: 1.000000 original loss: 4.613215 matching loss: 0.000904
+step 1900, Validation accuracy: 0.984400
+step 1999, training accuracy: 1.000000 original loss: 4.628167 matching loss: 0.000912
+step 1999, Validation accuracy: 0.983000
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.920000 original loss: 5.116690 matching loss: 0.000058
+step 0, Validation accuracy: 0.780100
+step 100, training accuracy: 0.840000 original loss: 5.209463 matching loss: 0.002638
+step 100, Validation accuracy: 0.776647
+step 200, training accuracy: 0.870000 original loss: 5.244482 matching loss: 0.002789
+step 200, Validation accuracy: 0.781009
+get new weight for 0.78100866
+step 300, training accuracy: 0.830000 original loss: 5.188237 matching loss: 0.003099
+step 300, Validation accuracy: 0.778828
+step 400, training accuracy: 0.830000 original loss: 5.318738 matching loss: 0.003275
+step 400, Validation accuracy: 0.774920
+step 500, training accuracy: 0.830000 original loss: 5.255816 matching loss: 0.003533
+step 500, Validation accuracy: 0.780827
+step 600, training accuracy: 0.900000 original loss: 5.057023 matching loss: 0.003725
+step 600, Validation accuracy: 0.778555
+step 700, training accuracy: 0.850000 original loss: 5.186119 matching loss: 0.003624
+step 700, Validation accuracy: 0.784189
+get new weight for 0.784189
+step 800, training accuracy: 0.840000 original loss: 5.202253 matching loss: 0.003869
+step 800, Validation accuracy: 0.784552
+get new weight for 0.78455245
+step 900, training accuracy: 0.810000 original loss: 5.351864 matching loss: 0.003809
+step 900, Validation accuracy: 0.778283
+step 1000, training accuracy: 0.840000 original loss: 5.124061 matching loss: 0.004027
+step 1000, Validation accuracy: 0.782553
+step 1100, training accuracy: 0.860000 original loss: 5.236187 matching loss: 0.004237
+step 1100, Validation accuracy: 0.783189
+step 1200, training accuracy: 0.840000 original loss: 5.242307 matching loss: 0.004181
+step 1200, Validation accuracy: 0.780554
+step 1300, training accuracy: 0.780000 original loss: 5.472590 matching loss: 0.004347
+step 1300, Validation accuracy: 0.786006
+get new weight for 0.78600633
+step 1400, training accuracy: 0.800000 original loss: 5.347003 matching loss: 0.004359
+step 1400, Validation accuracy: 0.782008
+step 1500, training accuracy: 0.820000 original loss: 5.254758 matching loss: 0.004465
+step 1500, Validation accuracy: 0.787369
+get new weight for 0.7873694
+step 1600, training accuracy: 0.830000 original loss: 5.261619 matching loss: 0.004486
+step 1600, Validation accuracy: 0.785552
+step 1700, training accuracy: 0.840000 original loss: 5.249578 matching loss: 0.004797
+step 1700, Validation accuracy: 0.781917
+step 1800, training accuracy: 0.900000 original loss: 5.084380 matching loss: 0.004742
+step 1800, Validation accuracy: 0.780918
+step 1900, training accuracy: 0.810000 original loss: 5.296770 matching loss: 0.004755
+step 1900, Validation accuracy: 0.781372
+step 1999, training accuracy: 0.750000 original loss: 5.539245 matching loss: 0.004790
+step 1999, Validation accuracy: 0.779100
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.710234 matching loss: 0.000168
+step 0, Validation accuracy: 0.955661
+step 100, training accuracy: 1.000000 original loss: 4.645346 matching loss: 0.001401
+step 100, Validation accuracy: 0.954790
+step 200, training accuracy: 1.000000 original loss: 4.647552 matching loss: 0.001790
+step 200, Validation accuracy: 0.956295
+get new weight for 0.95629454
+step 300, training accuracy: 1.000000 original loss: 4.633317 matching loss: 0.001881
+step 300, Validation accuracy: 0.956136
+step 400, training accuracy: 1.000000 original loss: 4.632082 matching loss: 0.001746
+step 400, Validation accuracy: 0.957799
+get new weight for 0.9577989
+step 500, training accuracy: 1.000000 original loss: 4.647980 matching loss: 0.001857
+step 500, Validation accuracy: 0.955186
+step 600, training accuracy: 1.000000 original loss: 4.653590 matching loss: 0.001940
+step 600, Validation accuracy: 0.955107
+step 700, training accuracy: 1.000000 original loss: 4.629494 matching loss: 0.002148
+step 700, Validation accuracy: 0.956374
+step 800, training accuracy: 1.000000 original loss: 4.632502 matching loss: 0.002062
+step 800, Validation accuracy: 0.955186
+step 900, training accuracy: 1.000000 original loss: 4.635787 matching loss: 0.002095
+step 900, Validation accuracy: 0.955503
+step 1000, training accuracy: 1.000000 original loss: 4.645326 matching loss: 0.002095
+step 1000, Validation accuracy: 0.955899
+step 1100, training accuracy: 1.000000 original loss: 4.638567 matching loss: 0.002342
+step 1100, Validation accuracy: 0.956374
+step 1200, training accuracy: 1.000000 original loss: 4.630783 matching loss: 0.002154
+step 1200, Validation accuracy: 0.955661
+step 1300, training accuracy: 1.000000 original loss: 4.624616 matching loss: 0.002192
+step 1300, Validation accuracy: 0.956611
+step 1400, training accuracy: 1.000000 original loss: 4.629547 matching loss: 0.002273
+step 1400, Validation accuracy: 0.954315
+step 1500, training accuracy: 1.000000 original loss: 4.641868 matching loss: 0.002414
+step 1500, Validation accuracy: 0.955899
+step 1600, training accuracy: 1.000000 original loss: 4.636914 matching loss: 0.002416
+step 1600, Validation accuracy: 0.956690
+step 1700, training accuracy: 1.000000 original loss: 4.639919 matching loss: 0.002427
+step 1700, Validation accuracy: 0.956215
+step 1800, training accuracy: 1.000000 original loss: 4.646643 matching loss: 0.002589
+step 1800, Validation accuracy: 0.958116
+get new weight for 0.9581156
+step 1900, training accuracy: 1.000000 original loss: 4.629096 matching loss: 0.002544
+step 1900, Validation accuracy: 0.957403
+step 1999, training accuracy: 1.000000 original loss: 4.660878 matching loss: 0.002738
+step 1999, Validation accuracy: 0.957957
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.755898 matching loss: 0.000581
+step 0, Validation accuracy: 0.983100
+step 100, training accuracy: 1.000000 original loss: 4.617607 matching loss: 0.000392
+step 100, Validation accuracy: 0.983700
+get new weight for 0.9837
+step 200, training accuracy: 1.000000 original loss: 4.620167 matching loss: 0.000528
+step 200, Validation accuracy: 0.983500
+step 300, training accuracy: 1.000000 original loss: 4.625532 matching loss: 0.000524
+step 300, Validation accuracy: 0.983400
+step 400, training accuracy: 0.990000 original loss: 4.633850 matching loss: 0.000523
+step 400, Validation accuracy: 0.982100
+step 500, training accuracy: 0.990000 original loss: 4.648017 matching loss: 0.000568
+step 500, Validation accuracy: 0.982800
+step 600, training accuracy: 0.990000 original loss: 4.624504 matching loss: 0.000573
+step 600, Validation accuracy: 0.983600
+step 700, training accuracy: 1.000000 original loss: 4.624338 matching loss: 0.000570
+step 700, Validation accuracy: 0.985600
+get new weight for 0.9856
+step 800, training accuracy: 0.990000 original loss: 4.635121 matching loss: 0.000616
+step 800, Validation accuracy: 0.983900
+step 900, training accuracy: 1.000000 original loss: 4.617405 matching loss: 0.000654
+step 900, Validation accuracy: 0.984000
+step 1000, training accuracy: 1.000000 original loss: 4.612224 matching loss: 0.000663
+step 1000, Validation accuracy: 0.983400
+step 1100, training accuracy: 0.990000 original loss: 4.630203 matching loss: 0.000675
+step 1100, Validation accuracy: 0.983000
+step 1200, training accuracy: 1.000000 original loss: 4.617496 matching loss: 0.000712
+step 1200, Validation accuracy: 0.984000
+step 1300, training accuracy: 0.990000 original loss: 4.655994 matching loss: 0.000714
+step 1300, Validation accuracy: 0.985300
+step 1400, training accuracy: 1.000000 original loss: 4.623825 matching loss: 0.000750
+step 1400, Validation accuracy: 0.983300
+step 1500, training accuracy: 1.000000 original loss: 4.638462 matching loss: 0.000818
+step 1500, Validation accuracy: 0.983600
+step 1600, training accuracy: 1.000000 original loss: 4.623645 matching loss: 0.000826
+step 1600, Validation accuracy: 0.983400
+step 1700, training accuracy: 1.000000 original loss: 4.613223 matching loss: 0.000838
+step 1700, Validation accuracy: 0.983400
+step 1800, training accuracy: 0.980000 original loss: 4.658717 matching loss: 0.000821
+step 1800, Validation accuracy: 0.984100
+step 1900, training accuracy: 1.000000 original loss: 4.626801 matching loss: 0.000871
+step 1900, Validation accuracy: 0.981900
+step 1999, training accuracy: 0.990000 original loss: 4.630375 matching loss: 0.000901
+step 1999, Validation accuracy: 0.983400
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.820000 original loss: 5.313725 matching loss: 0.000066
+step 0, Validation accuracy: 0.782917
+step 100, training accuracy: 0.850000 original loss: 5.164797 matching loss: 0.002581
+step 100, Validation accuracy: 0.773830
+step 200, training accuracy: 0.840000 original loss: 5.218098 matching loss: 0.002855
+step 200, Validation accuracy: 0.775557
+step 300, training accuracy: 0.860000 original loss: 5.312556 matching loss: 0.003251
+step 300, Validation accuracy: 0.776556
+step 400, training accuracy: 0.860000 original loss: 5.248954 matching loss: 0.003401
+step 400, Validation accuracy: 0.777647
+step 500, training accuracy: 0.890000 original loss: 5.194633 matching loss: 0.003532
+step 500, Validation accuracy: 0.779464
+step 600, training accuracy: 0.750000 original loss: 5.398665 matching loss: 0.003783
+step 600, Validation accuracy: 0.777010
+step 700, training accuracy: 0.860000 original loss: 5.225882 matching loss: 0.003676
+step 700, Validation accuracy: 0.781463
+step 800, training accuracy: 0.830000 original loss: 5.359084 matching loss: 0.003787
+step 800, Validation accuracy: 0.783826
+get new weight for 0.7838255
+step 900, training accuracy: 0.810000 original loss: 5.279153 matching loss: 0.004069
+step 900, Validation accuracy: 0.779827
+step 1000, training accuracy: 0.860000 original loss: 5.250408 matching loss: 0.004032
+step 1000, Validation accuracy: 0.779827
+step 1100, training accuracy: 0.870000 original loss: 5.288831 matching loss: 0.004098
+step 1100, Validation accuracy: 0.785915
+get new weight for 0.7859155
+step 1200, training accuracy: 0.830000 original loss: 5.228769 matching loss: 0.004147
+step 1200, Validation accuracy: 0.782735
+step 1300, training accuracy: 0.820000 original loss: 5.360422 matching loss: 0.004179
+step 1300, Validation accuracy: 0.787097
+get new weight for 0.7870968
+step 1400, training accuracy: 0.880000 original loss: 5.180001 matching loss: 0.004464
+step 1400, Validation accuracy: 0.784280
+step 1500, training accuracy: 0.830000 original loss: 5.256298 matching loss: 0.004501
+step 1500, Validation accuracy: 0.781554
+step 1600, training accuracy: 0.840000 original loss: 5.323812 matching loss: 0.004599
+step 1600, Validation accuracy: 0.777919
+step 1700, training accuracy: 0.830000 original loss: 5.213227 matching loss: 0.004535
+step 1700, Validation accuracy: 0.778373
+step 1800, training accuracy: 0.910000 original loss: 5.173635 matching loss: 0.004671
+step 1800, Validation accuracy: 0.785370
+step 1900, training accuracy: 0.850000 original loss: 5.129192 matching loss: 0.004771
+step 1900, Validation accuracy: 0.782553
+step 1999, training accuracy: 0.840000 original loss: 5.224938 matching loss: 0.004728
+step 1999, Validation accuracy: 0.783826
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.698809 matching loss: 0.000157
+step 0, Validation accuracy: 0.957007
+step 100, training accuracy: 1.000000 original loss: 4.643827 matching loss: 0.001332
+step 100, Validation accuracy: 0.958116
+get new weight for 0.9581156
+step 200, training accuracy: 1.000000 original loss: 4.627328 matching loss: 0.001793
+step 200, Validation accuracy: 0.956057
+step 300, training accuracy: 1.000000 original loss: 4.637847 matching loss: 0.001648
+step 300, Validation accuracy: 0.956057
+step 400, training accuracy: 1.000000 original loss: 4.641052 matching loss: 0.002158
+step 400, Validation accuracy: 0.955978
+step 500, training accuracy: 1.000000 original loss: 4.644457 matching loss: 0.001945
+step 500, Validation accuracy: 0.955899
+step 600, training accuracy: 1.000000 original loss: 4.625021 matching loss: 0.001884
+step 600, Validation accuracy: 0.956295
+step 700, training accuracy: 1.000000 original loss: 4.645767 matching loss: 0.001958
+step 700, Validation accuracy: 0.954394
+step 800, training accuracy: 1.000000 original loss: 4.624363 matching loss: 0.002020
+step 800, Validation accuracy: 0.958511
+get new weight for 0.9585115
+step 900, training accuracy: 0.990000 original loss: 4.664856 matching loss: 0.002093
+step 900, Validation accuracy: 0.955107
+step 1000, training accuracy: 1.000000 original loss: 4.630583 matching loss: 0.002035
+step 1000, Validation accuracy: 0.954790
+step 1100, training accuracy: 1.000000 original loss: 4.634410 matching loss: 0.001993
+step 1100, Validation accuracy: 0.955107
+step 1200, training accuracy: 1.000000 original loss: 4.632252 matching loss: 0.002285
+step 1200, Validation accuracy: 0.956770
+step 1300, training accuracy: 1.000000 original loss: 4.634242 matching loss: 0.002287
+step 1300, Validation accuracy: 0.951940
+step 1400, training accuracy: 1.000000 original loss: 4.645248 matching loss: 0.002347
+step 1400, Validation accuracy: 0.955740
+step 1500, training accuracy: 1.000000 original loss: 4.628485 matching loss: 0.002259
+step 1500, Validation accuracy: 0.959541
+get new weight for 0.9595408
+step 1600, training accuracy: 1.000000 original loss: 4.626570 matching loss: 0.002445
+step 1600, Validation accuracy: 0.957561
+step 1700, training accuracy: 1.000000 original loss: 4.636318 matching loss: 0.002585
+step 1700, Validation accuracy: 0.957561
+step 1800, training accuracy: 1.000000 original loss: 4.636555 matching loss: 0.002355
+step 1800, Validation accuracy: 0.956690
+step 1900, training accuracy: 1.000000 original loss: 4.625675 matching loss: 0.002270
+step 1900, Validation accuracy: 0.956215
+step 1999, training accuracy: 1.000000 original loss: 4.637436 matching loss: 0.002320
+step 1999, Validation accuracy: 0.957482
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 1.000000 original loss: 4.701276 matching loss: 0.000446
+step 0, Validation accuracy: 0.985100
+step 100, training accuracy: 1.000000 original loss: 4.617883 matching loss: 0.000372
+step 100, Validation accuracy: 0.983700
+step 200, training accuracy: 0.990000 original loss: 4.662297 matching loss: 0.000440
+step 200, Validation accuracy: 0.983300
+step 300, training accuracy: 1.000000 original loss: 4.624928 matching loss: 0.000439
+step 300, Validation accuracy: 0.983100
+step 400, training accuracy: 0.990000 original loss: 4.680583 matching loss: 0.000488
+step 400, Validation accuracy: 0.983700
+step 500, training accuracy: 1.000000 original loss: 4.629189 matching loss: 0.000501
+step 500, Validation accuracy: 0.983800
+step 600, training accuracy: 1.000000 original loss: 4.614258 matching loss: 0.000533
+step 600, Validation accuracy: 0.983200
+step 700, training accuracy: 0.990000 original loss: 4.628681 matching loss: 0.000533
+step 700, Validation accuracy: 0.982900
+step 800, training accuracy: 1.000000 original loss: 4.616174 matching loss: 0.000532
+step 800, Validation accuracy: 0.983300
+step 900, training accuracy: 1.000000 original loss: 4.619853 matching loss: 0.000593
+step 900, Validation accuracy: 0.983500
+step 1000, training accuracy: 0.990000 original loss: 4.629118 matching loss: 0.000590
+step 1000, Validation accuracy: 0.983300
+step 1100, training accuracy: 0.980000 original loss: 4.647794 matching loss: 0.000605
+step 1100, Validation accuracy: 0.983700
+step 1200, training accuracy: 1.000000 original loss: 4.638423 matching loss: 0.000608
+step 1200, Validation accuracy: 0.982100
+step 1300, training accuracy: 1.000000 original loss: 4.624961 matching loss: 0.000683
+step 1300, Validation accuracy: 0.983300
+step 1400, training accuracy: 0.980000 original loss: 4.675897 matching loss: 0.000657
+step 1400, Validation accuracy: 0.981500
+step 1500, training accuracy: 1.000000 original loss: 4.615005 matching loss: 0.000692
+step 1500, Validation accuracy: 0.984300
+step 1600, training accuracy: 1.000000 original loss: 4.618408 matching loss: 0.000694
+step 1600, Validation accuracy: 0.984100
+step 1700, training accuracy: 1.000000 original loss: 4.614980 matching loss: 0.000755
+step 1700, Validation accuracy: 0.982500
+step 1800, training accuracy: 1.000000 original loss: 4.611868 matching loss: 0.000772
+step 1800, Validation accuracy: 0.982800
+step 1900, training accuracy: 1.000000 original loss: 4.622419 matching loss: 0.000805
+step 1900, Validation accuracy: 0.984100
+step 1999, training accuracy: 0.990000 original loss: 4.618313 matching loss: 0.000835
+step 1999, Validation accuracy: 0.982900
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.830000 original loss: 5.395349 matching loss: 0.000000
+step 0, Validation accuracy: 0.780736
+step 100, training accuracy: 0.880000 original loss: 5.199089 matching loss: 0.002434
+step 100, Validation accuracy: 0.779100
+step 200, training accuracy: 0.800000 original loss: 5.381858 matching loss: 0.002863
+step 200, Validation accuracy: 0.783280
+get new weight for 0.7832803
+step 300, training accuracy: 0.860000 original loss: 5.205906 matching loss: 0.003007
+step 300, Validation accuracy: 0.783826
+get new weight for 0.7838255
+step 400, training accuracy: 0.770000 original loss: 5.350349 matching loss: 0.003258
+step 400, Validation accuracy: 0.782644
+step 500, training accuracy: 0.870000 original loss: 5.146410 matching loss: 0.003452
+step 500, Validation accuracy: 0.784189
+get new weight for 0.784189
+step 600, training accuracy: 0.890000 original loss: 5.095682 matching loss: 0.003571
+step 600, Validation accuracy: 0.778555
+step 700, training accuracy: 0.760000 original loss: 5.407307 matching loss: 0.003705
+step 700, Validation accuracy: 0.780282
+step 800, training accuracy: 0.890000 original loss: 5.198414 matching loss: 0.003752
+step 800, Validation accuracy: 0.782826
+step 900, training accuracy: 0.890000 original loss: 5.234368 matching loss: 0.003943
+step 900, Validation accuracy: 0.784825
+get new weight for 0.7848251
+step 1000, training accuracy: 0.800000 original loss: 5.367425 matching loss: 0.004003
+step 1000, Validation accuracy: 0.780736
+step 1100, training accuracy: 0.820000 original loss: 5.255878 matching loss: 0.004052
+step 1100, Validation accuracy: 0.785279
+get new weight for 0.7852794
+step 1200, training accuracy: 0.860000 original loss: 5.321406 matching loss: 0.004319
+step 1200, Validation accuracy: 0.775193
+step 1300, training accuracy: 0.860000 original loss: 5.187064 matching loss: 0.004310
+step 1300, Validation accuracy: 0.782008
+step 1400, training accuracy: 0.840000 original loss: 5.200375 matching loss: 0.004245
+step 1400, Validation accuracy: 0.782917
+step 1500, training accuracy: 0.840000 original loss: 5.206026 matching loss: 0.004499
+step 1500, Validation accuracy: 0.782008
+step 1600, training accuracy: 0.850000 original loss: 5.208889 matching loss: 0.004363
+step 1600, Validation accuracy: 0.779282
+step 1700, training accuracy: 0.800000 original loss: 5.312339 matching loss: 0.004550
+step 1700, Validation accuracy: 0.782553
+step 1800, training accuracy: 0.880000 original loss: 5.303181 matching loss: 0.004682
+step 1800, Validation accuracy: 0.784462
+step 1900, training accuracy: 0.820000 original loss: 5.214540 matching loss: 0.004584
+step 1900, Validation accuracy: 0.779555
+step 1999, training accuracy: 0.870000 original loss: 5.129580 matching loss: 0.004631
+step 1999, Validation accuracy: 0.780918
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.664253 matching loss: 0.000129
+step 0, Validation accuracy: 0.955265
+step 100, training accuracy: 1.000000 original loss: 4.641739 matching loss: 0.001458
+step 100, Validation accuracy: 0.956057
+get new weight for 0.956057
+step 200, training accuracy: 1.000000 original loss: 4.644934 matching loss: 0.001426
+step 200, Validation accuracy: 0.956453
+get new weight for 0.9564529
+step 300, training accuracy: 1.000000 original loss: 4.631262 matching loss: 0.001635
+step 300, Validation accuracy: 0.957720
+get new weight for 0.95771974
+step 400, training accuracy: 1.000000 original loss: 4.641831 matching loss: 0.001562
+step 400, Validation accuracy: 0.957403
+step 500, training accuracy: 1.000000 original loss: 4.629912 matching loss: 0.001745
+step 500, Validation accuracy: 0.955819
+step 600, training accuracy: 1.000000 original loss: 4.628135 matching loss: 0.001690
+step 600, Validation accuracy: 0.958116
+get new weight for 0.9581156
+step 700, training accuracy: 1.000000 original loss: 4.637461 matching loss: 0.001789
+step 700, Validation accuracy: 0.957957
+step 800, training accuracy: 1.000000 original loss: 4.628071 matching loss: 0.002026
+step 800, Validation accuracy: 0.954553
+step 900, training accuracy: 1.000000 original loss: 4.635095 matching loss: 0.002069
+step 900, Validation accuracy: 0.957403
+step 1000, training accuracy: 1.000000 original loss: 4.643451 matching loss: 0.001886
+step 1000, Validation accuracy: 0.956295
+step 1100, training accuracy: 1.000000 original loss: 4.622179 matching loss: 0.001966
+step 1100, Validation accuracy: 0.956849
+step 1200, training accuracy: 1.000000 original loss: 4.628912 matching loss: 0.002362
+step 1200, Validation accuracy: 0.957165
+step 1300, training accuracy: 0.990000 original loss: 4.635241 matching loss: 0.002130
+step 1300, Validation accuracy: 0.957324
+step 1400, training accuracy: 1.000000 original loss: 4.637664 matching loss: 0.002158
+step 1400, Validation accuracy: 0.957561
+step 1500, training accuracy: 1.000000 original loss: 4.637344 matching loss: 0.002001
+step 1500, Validation accuracy: 0.957799
+step 1600, training accuracy: 1.000000 original loss: 4.640176 matching loss: 0.002273
+step 1600, Validation accuracy: 0.957165
+step 1700, training accuracy: 1.000000 original loss: 4.648952 matching loss: 0.002332
+step 1700, Validation accuracy: 0.958353
+get new weight for 0.9583531
+step 1800, training accuracy: 1.000000 original loss: 4.639476 matching loss: 0.002194
+step 1800, Validation accuracy: 0.958195
+step 1900, training accuracy: 1.000000 original loss: 4.631886 matching loss: 0.002120
+step 1900, Validation accuracy: 0.958987
+get new weight for 0.9589865
+step 1999, training accuracy: 1.000000 original loss: 4.626001 matching loss: 0.002009
+step 1999, Validation accuracy: 0.958195
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.963511 matching loss: 0.000483
+step 0, Validation accuracy: 0.984100
+step 100, training accuracy: 0.990000 original loss: 4.657501 matching loss: 0.000384
+step 100, Validation accuracy: 0.982500
+step 200, training accuracy: 1.000000 original loss: 4.625849 matching loss: 0.000450
+step 200, Validation accuracy: 0.982500
+step 300, training accuracy: 1.000000 original loss: 4.616625 matching loss: 0.000474
+step 300, Validation accuracy: 0.983800
+step 400, training accuracy: 1.000000 original loss: 4.631917 matching loss: 0.000552
+step 400, Validation accuracy: 0.982200
+step 500, training accuracy: 1.000000 original loss: 4.620622 matching loss: 0.000565
+step 500, Validation accuracy: 0.982800
+step 600, training accuracy: 1.000000 original loss: 4.638545 matching loss: 0.000578
+step 600, Validation accuracy: 0.981700
+step 700, training accuracy: 1.000000 original loss: 4.619091 matching loss: 0.000612
+step 700, Validation accuracy: 0.980900
+step 800, training accuracy: 1.000000 original loss: 4.622065 matching loss: 0.000654
+step 800, Validation accuracy: 0.982200
+step 900, training accuracy: 0.990000 original loss: 4.633564 matching loss: 0.000708
+step 900, Validation accuracy: 0.982600
+step 1000, training accuracy: 0.990000 original loss: 4.627020 matching loss: 0.000682
+step 1000, Validation accuracy: 0.984200
+get new weight for 0.9842
+step 1100, training accuracy: 1.000000 original loss: 4.621913 matching loss: 0.000710
+step 1100, Validation accuracy: 0.983400
+step 1200, training accuracy: 1.000000 original loss: 4.615232 matching loss: 0.000764
+step 1200, Validation accuracy: 0.983700
+step 1300, training accuracy: 1.000000 original loss: 4.612154 matching loss: 0.000788
+step 1300, Validation accuracy: 0.984100
+step 1400, training accuracy: 1.000000 original loss: 4.616817 matching loss: 0.000814
+step 1400, Validation accuracy: 0.983200
+step 1500, training accuracy: 1.000000 original loss: 4.619306 matching loss: 0.000810
+step 1500, Validation accuracy: 0.982700
+step 1600, training accuracy: 1.000000 original loss: 4.617528 matching loss: 0.000828
+step 1600, Validation accuracy: 0.984000
+step 1700, training accuracy: 1.000000 original loss: 4.617253 matching loss: 0.000865
+step 1700, Validation accuracy: 0.983700
+step 1800, training accuracy: 1.000000 original loss: 4.618693 matching loss: 0.000881
+step 1800, Validation accuracy: 0.985100
+get new weight for 0.9851
+step 1900, training accuracy: 0.990000 original loss: 4.642328 matching loss: 0.000962
+step 1900, Validation accuracy: 0.981800
+step 1999, training accuracy: 1.000000 original loss: 4.619430 matching loss: 0.000957
+step 1999, Validation accuracy: 0.983400
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.870000 original loss: 5.320064 matching loss: 0.000168
+step 0, Validation accuracy: 0.776920
+step 100, training accuracy: 0.810000 original loss: 5.337886 matching loss: 0.002605
+step 100, Validation accuracy: 0.780827
+get new weight for 0.7808269
+step 200, training accuracy: 0.840000 original loss: 5.214992 matching loss: 0.003021
+step 200, Validation accuracy: 0.783189
+get new weight for 0.7831895
+step 300, training accuracy: 0.790000 original loss: 5.372208 matching loss: 0.003349
+step 300, Validation accuracy: 0.783644
+get new weight for 0.7836438
+step 400, training accuracy: 0.810000 original loss: 5.286556 matching loss: 0.003575
+step 400, Validation accuracy: 0.784007
+get new weight for 0.78400725
+step 500, training accuracy: 0.810000 original loss: 5.350152 matching loss: 0.003493
+step 500, Validation accuracy: 0.780918
+step 600, training accuracy: 0.870000 original loss: 5.151903 matching loss: 0.003713
+step 600, Validation accuracy: 0.779282
+step 700, training accuracy: 0.890000 original loss: 5.158675 matching loss: 0.003781
+step 700, Validation accuracy: 0.788642
+get new weight for 0.7886415
+step 800, training accuracy: 0.840000 original loss: 5.278650 matching loss: 0.003777
+step 800, Validation accuracy: 0.783099
+step 900, training accuracy: 0.840000 original loss: 5.167086 matching loss: 0.004033
+step 900, Validation accuracy: 0.783553
+step 1000, training accuracy: 0.840000 original loss: 5.315764 matching loss: 0.004085
+step 1000, Validation accuracy: 0.783189
+step 1100, training accuracy: 0.870000 original loss: 5.098414 matching loss: 0.004123
+step 1100, Validation accuracy: 0.781917
+step 1200, training accuracy: 0.840000 original loss: 5.217852 matching loss: 0.004396
+step 1200, Validation accuracy: 0.781645
+step 1300, training accuracy: 0.850000 original loss: 5.198909 matching loss: 0.004443
+step 1300, Validation accuracy: 0.780645
+step 1400, training accuracy: 0.810000 original loss: 5.251221 matching loss: 0.004454
+step 1400, Validation accuracy: 0.783189
+step 1500, training accuracy: 0.820000 original loss: 5.269339 matching loss: 0.004424
+step 1500, Validation accuracy: 0.780554
+step 1600, training accuracy: 0.900000 original loss: 5.159185 matching loss: 0.004469
+step 1600, Validation accuracy: 0.787097
+step 1700, training accuracy: 0.870000 original loss: 5.167225 matching loss: 0.004590
+step 1700, Validation accuracy: 0.781917
+step 1800, training accuracy: 0.850000 original loss: 5.244429 matching loss: 0.004795
+step 1800, Validation accuracy: 0.782190
+step 1900, training accuracy: 0.830000 original loss: 5.288940 matching loss: 0.004786
+step 1900, Validation accuracy: 0.780736
+step 1999, training accuracy: 0.840000 original loss: 5.182774 matching loss: 0.004723
+step 1999, Validation accuracy: 0.782644
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.685106 matching loss: 0.000093
+step 0, Validation accuracy: 0.957641
+step 100, training accuracy: 1.000000 original loss: 4.636248 matching loss: 0.001405
+step 100, Validation accuracy: 0.957561
+step 200, training accuracy: 1.000000 original loss: 4.629604 matching loss: 0.001596
+step 200, Validation accuracy: 0.955819
+step 300, training accuracy: 1.000000 original loss: 4.633809 matching loss: 0.001406
+step 300, Validation accuracy: 0.959145
+get new weight for 0.9591449
+step 400, training accuracy: 1.000000 original loss: 4.638673 matching loss: 0.001589
+step 400, Validation accuracy: 0.958274
+step 500, training accuracy: 1.000000 original loss: 4.632269 matching loss: 0.001694
+step 500, Validation accuracy: 0.959620
+get new weight for 0.95961994
+step 600, training accuracy: 1.000000 original loss: 4.642007 matching loss: 0.001733
+step 600, Validation accuracy: 0.957403
+step 700, training accuracy: 1.000000 original loss: 4.628982 matching loss: 0.001856
+step 700, Validation accuracy: 0.957957
+step 800, training accuracy: 1.000000 original loss: 4.643921 matching loss: 0.002024
+step 800, Validation accuracy: 0.955582
+step 900, training accuracy: 1.000000 original loss: 4.623455 matching loss: 0.001880
+step 900, Validation accuracy: 0.955740
+step 1000, training accuracy: 1.000000 original loss: 4.630440 matching loss: 0.002022
+step 1000, Validation accuracy: 0.957641
+step 1100, training accuracy: 1.000000 original loss: 4.630802 matching loss: 0.001930
+step 1100, Validation accuracy: 0.957957
+step 1200, training accuracy: 1.000000 original loss: 4.631430 matching loss: 0.002121
+step 1200, Validation accuracy: 0.958828
+step 1300, training accuracy: 1.000000 original loss: 4.634417 matching loss: 0.002026
+step 1300, Validation accuracy: 0.958353
+step 1400, training accuracy: 1.000000 original loss: 4.631479 matching loss: 0.001949
+step 1400, Validation accuracy: 0.957482
+step 1500, training accuracy: 1.000000 original loss: 4.647149 matching loss: 0.002939
+step 1500, Validation accuracy: 0.957165
+step 1600, training accuracy: 1.000000 original loss: 4.638716 matching loss: 0.002280
+step 1600, Validation accuracy: 0.958195
+step 1700, training accuracy: 1.000000 original loss: 4.632475 matching loss: 0.001944
+step 1700, Validation accuracy: 0.959462
+step 1800, training accuracy: 1.000000 original loss: 4.628464 matching loss: 0.002024
+step 1800, Validation accuracy: 0.958353
+step 1900, training accuracy: 1.000000 original loss: 4.642616 matching loss: 0.001892
+step 1900, Validation accuracy: 0.957403
+step 1999, training accuracy: 1.000000 original loss: 4.630612 matching loss: 0.002201
+step 1999, Validation accuracy: 0.957086
+gtsrb/gtsrb_weight.npy
+get_matching_loss
+v_train
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy: 0.990000 original loss: 4.672026 matching loss: 0.000152
+step 0, Validation accuracy: 0.985200
+step 100, training accuracy: 1.000000 original loss: 4.612894 matching loss: 0.000242
+step 100, Validation accuracy: 0.982000
+step 200, training accuracy: 1.000000 original loss: 4.613551 matching loss: 0.000275
+step 200, Validation accuracy: 0.984100
+step 300, training accuracy: 0.990000 original loss: 4.628538 matching loss: 0.000293
+step 300, Validation accuracy: 0.983900
+step 400, training accuracy: 1.000000 original loss: 4.612864 matching loss: 0.000363
+step 400, Validation accuracy: 0.983100
+step 500, training accuracy: 1.000000 original loss: 4.623314 matching loss: 0.000369
+step 500, Validation accuracy: 0.983400
+step 600, training accuracy: 1.000000 original loss: 4.617898 matching loss: 0.000398
+step 600, Validation accuracy: 0.983200
+step 700, training accuracy: 0.970000 original loss: 4.650477 matching loss: 0.000377
+step 700, Validation accuracy: 0.983700
+step 800, training accuracy: 1.000000 original loss: 4.618279 matching loss: 0.000428
+step 800, Validation accuracy: 0.983800
+step 900, training accuracy: 0.980000 original loss: 4.670061 matching loss: 0.000421
+step 900, Validation accuracy: 0.984000
+step 1000, training accuracy: 1.000000 original loss: 4.628618 matching loss: 0.000454
+step 1000, Validation accuracy: 0.982900
+step 1100, training accuracy: 1.000000 original loss: 4.623047 matching loss: 0.000473
+step 1100, Validation accuracy: 0.983500
+step 1200, training accuracy: 0.990000 original loss: 4.643998 matching loss: 0.000553
+step 1200, Validation accuracy: 0.981800
+step 1300, training accuracy: 1.000000 original loss: 4.618517 matching loss: 0.000540
+step 1300, Validation accuracy: 0.982000
+step 1400, training accuracy: 1.000000 original loss: 4.630879 matching loss: 0.000581
+step 1400, Validation accuracy: 0.982700
+step 1500, training accuracy: 1.000000 original loss: 4.612555 matching loss: 0.000570
+step 1500, Validation accuracy: 0.982800
+step 1600, training accuracy: 0.990000 original loss: 4.642927 matching loss: 0.000597
+step 1600, Validation accuracy: 0.983400
+step 1700, training accuracy: 1.000000 original loss: 4.613584 matching loss: 0.000581
+step 1700, Validation accuracy: 0.983200
+step 1800, training accuracy: 0.990000 original loss: 4.624042 matching loss: 0.000604
+step 1800, Validation accuracy: 0.983500
+step 1900, training accuracy: 1.000000 original loss: 4.620959 matching loss: 0.000674
+step 1900, Validation accuracy: 0.982100
+step 1999, training accuracy: 1.000000 original loss: 4.620817 matching loss: 0.000691
+step 1999, Validation accuracy: 0.982300
+mnist/mnist_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 0.850000 original loss: 5.338548 matching loss: 0.000000
+step 0, Validation accuracy: 0.786552
+step 100, training accuracy: 0.840000 original loss: 5.244017 matching loss: 0.002510
+step 100, Validation accuracy: 0.786006
+step 200, training accuracy: 0.870000 original loss: 5.143149 matching loss: 0.002819
+step 200, Validation accuracy: 0.779191
+step 300, training accuracy: 0.740000 original loss: 5.369299 matching loss: 0.003070
+step 300, Validation accuracy: 0.778828
+step 400, training accuracy: 0.870000 original loss: 5.156256 matching loss: 0.003298
+step 400, Validation accuracy: 0.782735
+step 500, training accuracy: 0.820000 original loss: 5.414573 matching loss: 0.003299
+step 500, Validation accuracy: 0.779555
+step 600, training accuracy: 0.860000 original loss: 5.249504 matching loss: 0.003495
+step 600, Validation accuracy: 0.784552
+step 700, training accuracy: 0.800000 original loss: 5.382627 matching loss: 0.003701
+step 700, Validation accuracy: 0.782553
+step 800, training accuracy: 0.880000 original loss: 5.106759 matching loss: 0.003720
+step 800, Validation accuracy: 0.779100
+step 900, training accuracy: 0.840000 original loss: 5.189876 matching loss: 0.003854
+step 900, Validation accuracy: 0.787369
+get new weight for 0.7873694
+step 1000, training accuracy: 0.840000 original loss: 5.342562 matching loss: 0.003946
+step 1000, Validation accuracy: 0.783553
+step 1100, training accuracy: 0.890000 original loss: 5.158570 matching loss: 0.003980
+step 1100, Validation accuracy: 0.782463
+step 1200, training accuracy: 0.790000 original loss: 5.300215 matching loss: 0.004088
+step 1200, Validation accuracy: 0.778464
+step 1300, training accuracy: 0.840000 original loss: 5.225728 matching loss: 0.004068
+step 1300, Validation accuracy: 0.784189
+step 1400, training accuracy: 0.890000 original loss: 5.150651 matching loss: 0.004194
+step 1400, Validation accuracy: 0.780373
+step 1500, training accuracy: 0.900000 original loss: 5.159171 matching loss: 0.004210
+step 1500, Validation accuracy: 0.784371
+step 1600, training accuracy: 0.810000 original loss: 5.285023 matching loss: 0.004318
+step 1600, Validation accuracy: 0.784916
+step 1700, training accuracy: 0.850000 original loss: 5.203173 matching loss: 0.004480
+step 1700, Validation accuracy: 0.784280
+step 1800, training accuracy: 0.880000 original loss: 5.106389 matching loss: 0.004412
+step 1800, Validation accuracy: 0.781736
+step 1900, training accuracy: 0.880000 original loss: 5.226032 matching loss: 0.004658
+step 1900, Validation accuracy: 0.782190
+step 1999, training accuracy: 0.870000 original loss: 5.209993 matching loss: 0.004768
+step 1999, Validation accuracy: 0.782008
+gsc/gsc_weight.npy
+get_matching_loss
+v_train
+step 0, training accuracy: 1.000000 original loss: 4.676991 matching loss: 0.000105
+step 0, Validation accuracy: 0.957799
+step 100, training accuracy: 1.000000 original loss: 4.645361 matching loss: 0.001336
+step 100, Validation accuracy: 0.958036
+get new weight for 0.9580364
+step 200, training accuracy: 1.000000 original loss: 4.631751 matching loss: 0.001548
+step 200, Validation accuracy: 0.958670
+get new weight for 0.95866984
+step 300, training accuracy: 1.000000 original loss: 4.632232 matching loss: 0.001520
+step 300, Validation accuracy: 0.959382
+get new weight for 0.9593824
+step 400, training accuracy: 1.000000 original loss: 4.626819 matching loss: 0.001477
+step 400, Validation accuracy: 0.956849
+step 500, training accuracy: 1.000000 original loss: 4.636657 matching loss: 0.001604
+step 500, Validation accuracy: 0.957403
+step 600, training accuracy: 1.000000 original loss: 4.627010 matching loss: 0.001643
+step 600, Validation accuracy: 0.957957
+step 700, training accuracy: 1.000000 original loss: 4.629572 matching loss: 0.002093
+step 700, Validation accuracy: 0.956057
+step 800, training accuracy: 1.000000 original loss: 4.628956 matching loss: 0.001715
+step 800, Validation accuracy: 0.953682
+step 900, training accuracy: 1.000000 original loss: 4.628295 matching loss: 0.001795
+step 900, Validation accuracy: 0.957878
+step 1000, training accuracy: 1.000000 original loss: 4.636731 matching loss: 0.002074
+step 1000, Validation accuracy: 0.959937
+get new weight for 0.9599367
+step 1100, training accuracy: 1.000000 original loss: 4.636712 matching loss: 0.002054
+step 1100, Validation accuracy: 0.955740
+step 1200, training accuracy: 1.000000 original loss: 4.623691 matching loss: 0.002034
+step 1200, Validation accuracy: 0.959382
+step 1300, training accuracy: 1.000000 original loss: 4.624914 matching loss: 0.001851
+step 1300, Validation accuracy: 0.960095
+get new weight for 0.960095
+step 1400, training accuracy: 1.000000 original loss: 4.632328 matching loss: 0.001827
+step 1400, Validation accuracy: 0.959541
+step 1500, training accuracy: 1.000000 original loss: 4.634258 matching loss: 0.001904
+step 1500, Validation accuracy: 0.959620
+step 1600, training accuracy: 1.000000 original loss: 4.619745 matching loss: 0.001994
+step 1600, Validation accuracy: 0.960491
+get new weight for 0.9604909
+step 1700, training accuracy: 1.000000 original loss: 4.632981 matching loss: 0.002104
+step 1700, Validation accuracy: 0.958907
+step 1800, training accuracy: 1.000000 original loss: 4.631820 matching loss: 0.001887
+step 1800, Validation accuracy: 0.959778
+step 1900, training accuracy: 1.000000 original loss: 4.633254 matching loss: 0.001952
+step 1900, Validation accuracy: 0.958670
+step 1999, training accuracy: 1.000000 original loss: 4.630676 matching loss: 0.002254
+step 1999, Validation accuracy: 0.958591
+gtsrb/gtsrb_weight.npy

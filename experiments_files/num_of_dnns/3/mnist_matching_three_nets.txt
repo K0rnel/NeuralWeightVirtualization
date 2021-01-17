@@ -1,0 +1,118 @@
+init new weight pages
+add_vnn
+mnist/mnist_network_weight.npy
+compute_fisher
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+do_compute_fisher
+sample num:    0, data_idx: 31376
+sample num:    1, data_idx: 26656
+sample num:    2, data_idx: 31965
+sample num:    3, data_idx: 30449
+sample num:    4, data_idx: 34733
+sample num:    5, data_idx: 26253
+sample num:    6, data_idx:  8784
+sample num:    7, data_idx: 31909
+sample num:    8, data_idx: 10458
+sample num:    9, data_idx: 52056
+sample num:   10, data_idx: 44259
+sample num:   11, data_idx: 35436
+sample num:   12, data_idx: 34425
+sample num:   13, data_idx: 25375
+sample num:   14, data_idx: 46131
+sample num:   15, data_idx: 43650
+sample num:   16, data_idx: 32848
+sample num:   17, data_idx: 36527
+sample num:   18, data_idx: 10513
+sample num:   19, data_idx: 12645
+sample num:   20, data_idx: 23406
+sample num:   21, data_idx: 12696
+sample num:   22, data_idx: 53259
+sample num:   23, data_idx: 10770
+sample num:   24, data_idx: 51376
+sample num:   25, data_idx: 53035
+sample num:   26, data_idx: 17691
+sample num:   27, data_idx: 12108
+sample num:   28, data_idx: 53826
+sample num:   29, data_idx: 43810
+sample num:   30, data_idx:  9701
+sample num:   31, data_idx: 31584
+sample num:   32, data_idx: 30231
+sample num:   33, data_idx: 29090
+sample num:   34, data_idx:  7576
+sample num:   35, data_idx: 42608
+sample num:   36, data_idx: 53671
+sample num:   37, data_idx: 38309
+sample num:   38, data_idx: 20695
+sample num:   39, data_idx: 10071
+sample num:   40, data_idx: 36112
+sample num:   41, data_idx:  5957
+sample num:   42, data_idx:  6203
+sample num:   43, data_idx: 42297
+sample num:   44, data_idx: 40858
+sample num:   45, data_idx: 52487
+sample num:   46, data_idx: 24119
+sample num:   47, data_idx:  4799
+sample num:   48, data_idx: 26794
+sample num:   49, data_idx: 10097
+sample num:   50, data_idx:  7692
+sample num:   51, data_idx: 12668
+sample num:   52, data_idx: 41015
+sample num:   53, data_idx: 35171
+sample num:   54, data_idx: 37669
+sample num:   55, data_idx: 36317
+sample num:   56, data_idx: 52883
+sample num:   57, data_idx: 39797
+sample num:   58, data_idx: 41324
+sample num:   59, data_idx: 15094
+sample num:   60, data_idx: 41196
+sample num:   61, data_idx: 29703
+sample num:   62, data_idx: 41777
+sample num:   63, data_idx: 12650
+sample num:   64, data_idx: 24911
+sample num:   65, data_idx:  5354
+sample num:   66, data_idx: 48626
+sample num:   67, data_idx: 35381
+sample num:   68, data_idx: 44407
+sample num:   69, data_idx: 33643
+sample num:   70, data_idx: 27394
+sample num:   71, data_idx: 20110
+sample num:   72, data_idx: 23225
+sample num:   73, data_idx:  1106
+sample num:   74, data_idx: 17414
+sample num:   75, data_idx: 17881
+sample num:   76, data_idx: 27586
+sample num:   77, data_idx: 43495
+sample num:   78, data_idx: 36904
+sample num:   79, data_idx:  9462
+sample num:   80, data_idx: 26413
+sample num:   81, data_idx:   591
+sample num:   82, data_idx: 24332
+sample num:   83, data_idx: 49847
+sample num:   84, data_idx: 24582
+sample num:   85, data_idx: 39043
+sample num:   86, data_idx: 54617
+sample num:   87, data_idx: 33293
+sample num:   88, data_idx: 23390
+sample num:   89, data_idx: 16893
+sample num:   90, data_idx: 13005
+sample num:   91, data_idx:  4600
+sample num:   92, data_idx: 38008
+sample num:   93, data_idx:  5187
+sample num:   94, data_idx: 29390
+sample num:   95, data_idx: 15945
+sample num:   96, data_idx: 11302
+sample num:   97, data_idx: 47409
+sample num:   98, data_idx: 42884
+sample num:   99, data_idx: 36380
+mnist/mnist_network_fisher.npy
+[calculate_cost]
+toal_cost: 0.0
+458 pages allocated for 45706 weights
+total_network_cost: 0

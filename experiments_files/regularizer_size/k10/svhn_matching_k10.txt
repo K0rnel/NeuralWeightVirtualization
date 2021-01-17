@@ -1,0 +1,133 @@
+add_vnn
+svhn/svhn_network_weight.npy
+compute_fisher
+do_compute_fisher
+sample num:    0, data_idx: 55381
+sample num:    1, data_idx:  9357
+sample num:    2, data_idx: 18110
+sample num:    3, data_idx: 59443
+sample num:    4, data_idx: 12475
+sample num:    5, data_idx: 12604
+sample num:    6, data_idx: 65318
+sample num:    7, data_idx: 45464
+sample num:    8, data_idx: 62566
+sample num:    9, data_idx: 53968
+sample num:   10, data_idx: 49280
+sample num:   11, data_idx: 50243
+sample num:   12, data_idx: 60072
+sample num:   13, data_idx:  9471
+sample num:   14, data_idx: 43844
+sample num:   15, data_idx: 19574
+sample num:   16, data_idx: 49941
+sample num:   17, data_idx: 65792
+sample num:   18, data_idx: 40600
+sample num:   19, data_idx: 34025
+sample num:   20, data_idx: 59409
+sample num:   21, data_idx: 19077
+sample num:   22, data_idx: 55695
+sample num:   23, data_idx: 51236
+sample num:   24, data_idx: 49654
+sample num:   25, data_idx:  1603
+sample num:   26, data_idx: 49412
+sample num:   27, data_idx: 25195
+sample num:   28, data_idx:  6669
+sample num:   29, data_idx: 14934
+sample num:   30, data_idx:  8695
+sample num:   31, data_idx:  7191
+sample num:   32, data_idx:  5641
+sample num:   33, data_idx:  8423
+sample num:   34, data_idx: 16091
+sample num:   35, data_idx: 28999
+sample num:   36, data_idx: 46308
+sample num:   37, data_idx: 43799
+sample num:   38, data_idx: 57260
+sample num:   39, data_idx: 45115
+sample num:   40, data_idx: 55933
+sample num:   41, data_idx: 35043
+sample num:   42, data_idx:  7075
+sample num:   43, data_idx: 54626
+sample num:   44, data_idx: 28487
+sample num:   45, data_idx: 30380
+sample num:   46, data_idx: 63114
+sample num:   47, data_idx: 26720
+sample num:   48, data_idx: 10344
+sample num:   49, data_idx: 43422
+sample num:   50, data_idx: 42875
+sample num:   51, data_idx: 28992
+sample num:   52, data_idx: 58416
+sample num:   53, data_idx: 25632
+sample num:   54, data_idx: 61377
+sample num:   55, data_idx: 45943
+sample num:   56, data_idx: 49379
+sample num:   57, data_idx: 38920
+sample num:   58, data_idx: 64239
+sample num:   59, data_idx: 37673
+sample num:   60, data_idx: 65483
+sample num:   61, data_idx: 22833
+sample num:   62, data_idx: 40409
+sample num:   63, data_idx: 19144
+sample num:   64, data_idx: 49546
+sample num:   65, data_idx:  4168
+sample num:   66, data_idx: 32337
+sample num:   67, data_idx: 40146
+sample num:   68, data_idx: 58604
+sample num:   69, data_idx: 57771
+sample num:   70, data_idx: 47595
+sample num:   71, data_idx: 18407
+sample num:   72, data_idx: 12535
+sample num:   73, data_idx: 40756
+sample num:   74, data_idx: 56393
+sample num:   75, data_idx: 23499
+sample num:   76, data_idx: 14082
+sample num:   77, data_idx: 34206
+sample num:   78, data_idx: 47536
+sample num:   79, data_idx: 25483
+sample num:   80, data_idx: 16269
+sample num:   81, data_idx: 46869
+sample num:   82, data_idx: 64138
+sample num:   83, data_idx: 25986
+sample num:   84, data_idx: 18445
+sample num:   85, data_idx: 51732
+sample num:   86, data_idx:  2813
+sample num:   87, data_idx: 27646
+sample num:   88, data_idx: 25138
+sample num:   89, data_idx: 35935
+sample num:   90, data_idx: 36768
+sample num:   91, data_idx: 22942
+sample num:   92, data_idx: 31595
+sample num:   93, data_idx: 19558
+sample num:   94, data_idx:  1408
+sample num:   95, data_idx: 31332
+sample num:   96, data_idx: 30856
+sample num:   97, data_idx: 16773
+sample num:   98, data_idx:  7778
+sample num:   99, data_idx: 13398
+svhn/svhn_network_fisher.npy
+[match_page_by_cost]
+occupation: 0
+len(page_list): 0
+len(network_page_list): 455
+cost: 0
+
+occupation: 1
+len(page_list): 0
+len(network_page_list): 455
+cost: 0
+
+occupation: 2
+len(page_list): 0
+len(network_page_list): 455
+cost: 0
+
+occupation: 3
+len(page_list): 650
+len(network_page_list): 455
+cost: 5.5867
+
+assing_page 106.718 ms
+[calculate_cost]
+toal_cost: 5.586723819740655
+455 pages allocated for 45490 weights
+total_network_cost: 86.0334746427834
+       0-th page
+     454-th page
