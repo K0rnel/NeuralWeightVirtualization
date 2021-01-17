@@ -929,7 +929,7 @@ class WeightVirtualization:
 
 		for name_, vnn_ in self.vnns.items():
 			if vnn.id == vnn_.id:
-				continue;
+				continue
 
 			fisher = self.load_network_fisher(vnn_)
 			#fisher = self.load_vnn_fisher(vnn_)
@@ -999,6 +999,9 @@ class WeightVirtualization:
 			fisher = self.get_fisher_vector_page_order(vnn, 'vnn')
 			plt.plot(fisher, label=vnn.name)
 			plt.legend(loc='upper right')
+		
+		millis = str(int(round(time.time() * 1000)))
+		plt.savefig('fisher_graph_' + millis + '.png')
 		plt.show()
 
 	def plot_vnn_weight(self, vnn_list=None):
