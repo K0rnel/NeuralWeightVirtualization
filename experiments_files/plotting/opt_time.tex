@@ -1,0 +1,29 @@
+% This file was created by tikzplotlib v0.9.6.
+\begin{tikzpicture}
+
+\begin{axis}[
+tick align=outside,
+tick pos=left,
+x grid style={white!69.0196078431373!black},
+xlabel={Number of DNNs},
+xmin=2.63028673835125, xmax=10.3697132616487,
+xtick style={color=black},
+y grid style={white!69.0196078431373!black},
+ylabel={Time to complete 5 iterations (seconds)},
+ymin=178.179264532745, ymax=4512.01073546725,
+ytick style={color=black}
+]
+\addplot [only marks, mark=x, draw=red, fill=red, colormap/viridis]
+table{%
+x                      y
+3 375.19
+5 649.6
+6 2661.69444322586
+7 2637.9
+8 2963.58375024796
+9 3778
+10 4315
+};
+\end{axis}
+
+\end{tikzpicture}
