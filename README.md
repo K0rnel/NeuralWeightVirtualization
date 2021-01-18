@@ -1,9 +1,70 @@
-# [MobiSys 2020] Fast and Scalable In-memory Deep Multitask Learning via Neural Weight Virtualization
+# L46 Group Project: Evaluation of the Neural Weight Virtualisation method for fast and scalable in-memory deep multitask learning. 
+
+## Changes we have made 
+
+The repository has been forked from [the original Neural Weight Virtualisation repository](https://github.com/learning1234embed/NeuralWeightVirtualization). To extend evaluation, we have introduced the following code modifications to the original repository:
+* Integrated the five new DNNs into the repository. Following the convention set by the authors, we have placed those in separate folders (``/fmnist``, ``/obs``, ``/us8k``, ``/esc10`` and ``/hhar``). For each of those folders, we have created a ``pintle.py`` file required for the virtualisation process as well as a ``<dnn_name>_weight.npy`` file containing the weights of the pre-trained networks.
+* The ``experiment_files`` folder includes the Jupyter notebooks used to run our experiments in Google Colab as well as the output logs produced by the experiments. It also includes the notebooks used to process and plot the collected data.
+* We have also made other minor modifications to the existing code base. This included adjusting the number of weight pages (to accommodate the OBS network), altering the ``in-memory_execute.py`` and ``baseline_execute.py`` scripts to automatically detect the number of virtualised DNNs to run and modifying the download_datasets.sh script to add the new datasets. 
+
+## How to run the extended version
+To run the code in this repository, we recommend using Google Colab (since the **experiments require a GPU-equipped machine**). 
+
+In Colab, set the versions of TensorFlow and Numpy as follows: 
+
+```
+!pip uninstall -y tensorflow
+!pip install tensorflow-gpu==1.13.1
+
+!pip uninstall -y numpy
+!pip install numpy==1.16.4
+```
+
+Then, clone this repository into the Colab notebook running: 
+
+```
+!git clone https://github.com/K0rnel/NeuralWeightVirtualization
+```
+
+Navigate into the repo: 
+```
+%cd NeuralWeightVirtualization
+```
+Download all 10 datasets: 
+```
+!sh download_dataset.sh
+```
+Add all networks that you want to virtualise. For example, if you want to virtualise MNIST, run the following line. 
+```
+!python weight_virtualization.py -mode=a -network_path=mnist
+```
+Repeat for all DNNs that you wish to virtualise. After that, run joint optimisation by executing: 
+```
+!bash ./joint_optimization.sh
+```
+**Note:** The current version of the `joint_optimization.sh` script assumes 10 virtualised DNNs. If you want to execute with fewer DNNs, modify the script by deleting the redundant lines. 
+
+To benchmark the accuracy of any of the virtualised DNNs, run the following line (substituting `<dnn_name>` with the name of the DNN - e.g. `mnist`): 
+
+```
+!python weight_virtualization.py -mode=e -vnn_name=<dnn_name>
+```
+
+Finally, you can benchmark the baseline and the in-memory excution of the virtualised system by running the following scripts: 
+```
+# In-memory execution
+!python in-memory_execute.py
+# Baseline execution
+!python baseline_execute.py
+```
+
+
+<!-- # [MobiSys 2020] Fast and Scalable In-memory Deep Multitask Learning via Neural Weight Virtualization
 
 ## Introduction
-This is an open-source repository of the [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/) paper titled "***Fast and Scalable In-memory Deep Multitask Learning via Neural Weight Virtualization***". It enables fast and scalable in-memory multitask deep learning on memory-constrained embedded systems by (1) packing multiple deep neural networks (DNNs) into a fixed-sized main memory whose combined memory requirement is larger than the main memory, and (2) enabling fast in-memory execution of the DNNs. 
+This is an open-source repository of the [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/) paper titled "***Fast and Scalable In-memory Deep Multitask Learning via Neural Weight Virtualization***". It enables fast and scalable in-memory multitask deep learning on memory-constrained embedded systems by (1) packing multiple deep neural networks (DNNs) into a fixed-sized main memory whose combined memory requirement is larger than the main memory, and (2) enabling fast in-memory execution of the DNNs.  -->
 
-This repository implements (1) *virtualization of weight parameters* of multiple heterogeneous DNNs of arbitrary network architectures, and (2) *in-memory execution and context-switching* of deep neural network (DNN) tasks. For the user's convenience, we provide a step-by-step guideline for the weight virtualization and in-memory execution of the five DNN that are used for the multitask learning IoT device, one of the application systems we implemented in the paper. The sizes of those DNNs are small, so the entire process of weight virtualization can be easily demonstrated in a reasonable time without requiring to spend several days. The five DNNs to be virtualized are [MNIST](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), [GoogleSpeechCommands (GSC)](https://arxiv.org/abs/1804.03209), [German Traffic Sign Recognition Benchmark (GTSRB)](https://www.ini.rub.de/upload/file/1470692848_f03494010c16c36bab9e/StallkampEtAl_GTSRB_IJCNN2011.pdf), [CIFAR-10](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf), and [Street View House Numbers (SVHN)](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf). It shows an example of weight virtualization, which can be easily applied to any other DNNs, i.e., they can be virtualized in the same way presented here.
+<!-- This repository implements (1) *virtualization of weight parameters* of multiple heterogeneous DNNs of arbitrary network architectures, and (2) *in-memory execution and context-switching* of deep neural network (DNN) tasks. For the user's convenience, we provide a step-by-step guideline for the weight virtualization and in-memory execution of the five DNN that are used for the multitask learning IoT device, one of the application systems we implemented in the paper. The sizes of those DNNs are small, so the entire process of weight virtualization can be easily demonstrated in a reasonable time without requiring to spend several days. The five DNNs to be virtualized are [MNIST](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), [GoogleSpeechCommands (GSC)](https://arxiv.org/abs/1804.03209), [German Traffic Sign Recognition Benchmark (GTSRB)](https://www.ini.rub.de/upload/file/1470692848_f03494010c16c36bab9e/StallkampEtAl_GTSRB_IJCNN2011.pdf), [CIFAR-10](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf), and [Street View House Numbers (SVHN)](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf). It shows an example of weight virtualization, which can be easily applied to any other DNNs, i.e., they can be virtualized in the same way presented here.
 
 &nbsp;
 ## Software Install and Setup
@@ -498,4 +559,4 @@ keywords = {virtualization, in-memory, multitask learning, deep neural network},
 location = {Toronto, Ontario, Canada},
 series = {MobiSys ’20}
 }
-```
+``` -->
