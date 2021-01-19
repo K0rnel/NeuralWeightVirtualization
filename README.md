@@ -1,6 +1,6 @@
 # L46 Group Project: Evaluation of the Neural Weight Virtualisation method for fast and scalable in-memory deep multitask learning. 
 ## Introduction
-The repository has been forked from [open-source repository](https://github.com/learning1234embed/NeuralWeightVirtualization) of the MobiSys 2020 paper titled "Fast and Scalable In-memory Deep Multitask Learning via Neural Weight Virtualization". It contains code and experiment files that we used to support our project as part of the L46: Principles of Machine Learning Systems module of the MPhil ACS programme.
+This repository has been forked from [open-source repository](https://github.com/learning1234embed/NeuralWeightVirtualization) of the MobiSys 2020 paper titled "Fast and Scalable In-memory Deep Multitask Learning via Neural Weight Virtualization". It contains code and experiment files that we used to support our project as part of the L46: Principles of Machine Learning Systems module of the MPhil ACS programme.
 
 ## Summary of implemented changes 
 To support our evaluation, we have introduced the following code modifications to the original repository:
