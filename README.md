@@ -1,13 +1,15 @@
 # L46 Group Project: Evaluation of the Neural Weight Virtualisation method for fast and scalable in-memory deep multitask learning. 
+## Introduction
+The repository has been forked from [open-source repository](https://github.com/learning1234embed/NeuralWeightVirtualization) of the MobiSys 2020 paper titled "Fast and Scalable In-memory Deep Multitask Learning via Neural Weight Virtualization". It contains code and experiment files that we used to support our project as part of the L46: Principles of Machine Learning Systems module of the MPhil ACS programme.
 
-## Changes we have made 
+## Summary of implemented changes 
+To support our evaluation, we have introduced the following code modifications to the original repository:
+* Integrated the five new DNNs into the repository. Following the convention set by the authors, we have placed those in separate folders (``/fmnist``, ``/obs``, ``/us8k``, ``/esc10`` and ``/hhar``). For each of those DNNs, we have created (1) a ``pintle.py`` file required for the virtualisation process, (2) a ``<dnn_name>_weight.npy`` file containing the weights of the pre-trained networks, and (3) a ``<dnn_name>_data.py`` file containing the helper functions for accessing the DNN's dataset.
+* Modified the ``download_datasets.sh`` script to include the respective datasets of the new networks we have added.
+* Created the ``experiment_files`` folder which includes the Jupyter notebooks used to run our experiments in Google Colab as well as the output logs produced by the experiments. It also includes the notebooks used to process and plot the collected data, as well as the neural nets visualisations obtained via the Netron visualiser.
+* We have also made other minor modifications to the existing code base to accommodate the addition of new networks. This included adjusting the ``weight_virtualization.py`` file (to accommodate DNNs with larger number of weights), modifying the ``joint_optimization.sh`` script depending on the number of DNNs to retrain, and, lastly, altering the ``in-memory_execute.py`` and ``baseline_execute.py`` scripts to automatically detect which virtualised DNNs to run. 
 
-The repository has been forked from [the original Neural Weight Virtualisation repository](https://github.com/learning1234embed/NeuralWeightVirtualization). To extend evaluation, we have introduced the following code modifications to the original repository:
-* Integrated the five new DNNs into the repository. Following the convention set by the authors, we have placed those in separate folders (``/fmnist``, ``/obs``, ``/us8k``, ``/esc10`` and ``/hhar``). For each of those folders, we have created a ``pintle.py`` file required for the virtualisation process as well as a ``<dnn_name>_weight.npy`` file containing the weights of the pre-trained networks.
-* The ``experiment_files`` folder includes the Jupyter notebooks used to run our experiments in Google Colab as well as the output logs produced by the experiments. It also includes the notebooks used to process and plot the collected data.
-* We have also made other minor modifications to the existing code base. This included adjusting the number of weight pages (to accommodate the OBS network), altering the ``in-memory_execute.py`` and ``baseline_execute.py`` scripts to automatically detect the number of virtualised DNNs to run and modifying the download_datasets.sh script to add the new datasets. 
-
-## How to run the extended version
+## Instructions for running the experiments
 To run the code in this repository, we recommend using Google Colab (since the **experiments require a GPU-equipped machine**). 
 
 In Colab, set the versions of TensorFlow and Numpy as follows: 
